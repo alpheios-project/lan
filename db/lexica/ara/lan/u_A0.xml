@@ -5448,7 +5448,7 @@ mentioned in art. <foreign lang="ar">ثكل</foreign>, q. v. (TA.)
 
  </entryFree>
 </div2>
-<div2 type="root" org="uniform" sample="complete" part="N"><head><foreign lang="ar">اج</foreign></head>
+<div2 type="root" org="uniform" sample="complete" part="N"><head><foreign lang="ar">git status</foreign></head>
 
   <entryFree id="n253" key="أَجَّتِ النَّارُ" type="main">
     <form>
@@ -5688,9 +5688,9 @@ in <foreign lang="ar">عَأْلِمٌ</foreign> and the like; and their measure
       <itype>1</itype> 
       <orth orig="" extent="full" lang="ar">أَجَرَهُ</orth></form>, aor. 
     <form n="infl">
-      <orth orig="Bu" lang="ar">اَجُرَ</orth></form> and 
+      <orth orig="Bu" lang="ar">يَأْجُرُ</orth></form> and 
     <form n="infl">
-      <orth orig="Bi" lang="ar">اَجِرَ</orth></form>, (S, Mgh, Msb, K,) which
+      <orth orig="Bi" lang="ar">يَأْجِرُ</orth></form>, (S, Mgh, Msb, K,) which
 latter form of the aor., though known to most of
 the lexicologists, is disacknowledged by a few of
 them, (TA,) inf. n. <foreign lang="ar">أَجْرٌ</foreign>; (S, Msb;) and ↓ <orth type="arrow" lang="ar">آجرهُ</orth>,
@@ -5700,7 +5700,7 @@ two, of the form <foreign lang="ar">أَفْعَلَ</foreign>, not <foreign lan
 evident inadvertence makes it to be by saying that
 its aor. is <foreign lang="ar">يُؤَاجِرُ</foreign>, (TA,) inf. n. <foreign lang="ar">إِيجَارٌ</foreign>; (S;) <hi rend="ital">He</hi>
 (God, S, A, Mgh, Msb, and a man, Mgh) <hi rend="ital">recompensed, compensated,</hi> or <hi rend="ital">rewarded, him,</hi> (S, A, Mgh,
-Msb, K,) <foreign lang="ar">عَلَي مَا فَعَلَ</foreign> <hi rend="ital">for what he had done.</hi> (A.)
+Msb, K,) <foreign lang="ar">عَلَى مَا فَعَلَ</foreign> <hi rend="ital">for what he had done.</hi> (A.)
 [See <foreign lang="ar">أَجْرٌ</foreign>, below.] <foreign lang="ar">أُجِرَ فُلَانٌ خَمْسَةً مِنْ وَلَدِهِ</foreign> [<hi rend="ital">Such
 a one became entitled to a reward for five of his
 children,</hi> by their death, (for it is believed that the
@@ -5711,19 +5711,19 @@ died, and became [causes of] his reward. (S, A,
 K.) ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">أَجَرَهُ</foreign>, (K,) aor. 
     <form n="infl">
-      <orth orig="Bu" lang="ar">اَجُرَ</orth></form>, (S,) [<hi rend="ital">He served him
+      <orth orig="Bu" lang="ar">يَأْجُرُهُ</orth></form>, (S,) [<hi rend="ital">He served him
 for hire, pay,</hi> or <hi rend="ital">wages;</hi>] <hi rend="ital">he became his hired
 man,</hi> or <hi rend="ital">hireling.</hi> (S, K.) So in the Kur xxviii. 27.
 (TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">أَجَرَهُ</foreign>, aor. 
     <form n="infl">
-      <orth orig="Bu" lang="ar">اَجُرَ</orth></form>, (L, Msb, K,) and 
+      <orth orig="Bu" lang="ar">يَأْجُرُهُ</orth></form>, (L, Msb, K,) and 
     <form n="infl">
-      <orth orig="Bi" lang="ar">اَجِرَ</orth></form>,
+      <orth orig="Bi" lang="ar">يَأْجِرُهُ</orth></form>,
 (Msb, K,) inf. n. <foreign lang="ar">أَجْرٌ</foreign>, (L, K,) <hi rend="ital">He let him</hi> (namely
 his slave) <hi rend="ital">on hire,</hi> or <hi rend="ital">for pay,</hi> or <hi rend="ital">wages;</hi> (L, *
 Msb, * K;) as also ↓ <orth type="arrow" lang="ar">آجرهُ</orth>, inf. n. <foreign lang="ar">إِيجَارٌ</foreign>; ('Eyn,
-Mgh, Msb, K;) and ↓ <orth type="arrow" lang="ar">آجرهُ</orth>, inf. n. <foreign lang="ar">مؤاجرة</foreign>: (K:)
+Mgh, Msb, K;) and ↓ <orth type="arrow" lang="ar">آجرهُ</orth>, inf. n. <foreign lang="ar">مُؤَاجَرةٌ</foreign>: (K:)
 all these are good forms of speech, used by the
 Arabs: (L:) or ↓ <orth type="arrow" lang="ar">آجرهُ</orth> having for its inf. n. <foreign lang="ar">مؤاجرة</foreign>
 signifies <hi rend="ital">he appointed him</hi> (namely another man)
@@ -5732,24 +5732,24 @@ signifies <hi rend="ital">he appointed him</hi> (namely another man)
 <hi rend="ital">wages;</hi> (A, Mgh, Msb;) and can have only one
 objective complement: whereas, ↓ when it is of
 the measure <foreign lang="ar">أَفْعَلَ</foreign> it is doubly trans.; (Mgh, Msb;)
-so that one says, <foreign lang="ar">مَمْلُوكَهُ</foreign> ↓ <orth type="arrow" lang="ar">آجَرَنِي</orth> <hi rend="ital">He let me his
+so that one says, <foreign lang="ar">آجَرَنِي</foreign> ↓ <orth type="arrow" lang="ar">مَمْلُوكَهُ</orth> <hi rend="ital">He let me his
 slave on hire.</hi> (Mgh.) One also says, <foreign lang="ar">أَجَرَ الدَّارَ</foreign>,
 aor. 
     <form n="infl">
-      <orth orig="Bu" lang="ar">اَجُرَ</orth></form> and 
+      <orth orig="Bu" lang="ar">يَأْجُرُ</orth></form> and 
     <form n="infl">
-      <orth orig="Bi" lang="ar">اَجِرَ</orth></form>, inf. n. <foreign lang="ar">أَجْرٌ</foreign>, <hi rend="ital">He let the house on hire;</hi>
-and so <foreign lang="ar">الدَّارَ</foreign> ↓ <orth type="arrow" lang="ar">آجر</orth>, [inf. n. <foreign lang="ar">إِيجَارٌ</foreign>:] (Msb, TA:)
-and <foreign lang="ar">الدَّارَ</foreign> ↓ <orth type="arrow" lang="ar">آجرهُ</orth>, [inf. n. <foreign lang="ar">إِيجَارٌ</foreign>,] <hi rend="ital">He let to him the
+      <orth orig="Bi" lang="ar">يَأْجِرُ</orth></form>, inf. n. <foreign lang="ar">أَجْرٌ</foreign>, <hi rend="ital">He let the house on hire;</hi>
+and so <foreign lang="ar">آجر</foreign> ↓ <orth type="arrow" lang="ar">الدَّارَ</orth>, [inf. n. <foreign lang="ar">إِيجَارٌ</foreign>:] (Msb, TA:)
+and <foreign lang="ar">آجرهُ</foreign> ↓ <orth type="arrow" lang="ar">الدَّارَ</orth>, [inf. n. <foreign lang="ar">إِيجَارٌ</foreign>,] <hi rend="ital">He let to him the
 house on hire:</hi> (S, A, Mgh, Msb:) the latter verb
 being of the measure <foreign lang="ar">أَفْعَلَ</foreign>, not of the measure
 <foreign lang="ar">فَاعَلَ</foreign>: (A, Mgh, Msb:) and the vulgar say, <foreign lang="ar">وَاجَرَ</foreign>:
-(S:) some, however, say, <foreign lang="ar">الدَّارَ</foreign> ↓ <orth type="arrow" lang="ar">آجَرْتُ</orth>, inf. n.
+(S:) some, however, say, <foreign lang="ar">آجَرْتُ</foreign> ↓ <orth type="arrow" lang="ar">الدَّارَ</orth>, inf. n.
 <foreign lang="ar">مُؤَاجَرَةٌ</foreign>, making the verb of the measure <foreign lang="ar">فاعل</foreign>:
-(Msb, TA:) some also say, <foreign lang="ar">الدَّارَ زَيْدَّا</foreign> ↓ <orth type="arrow" lang="ar">آجَرْتُ</orth> [<hi rend="ital">I
+(Msb, TA:) some also say, <foreign lang="ar">آجَرْتُ</foreign> ↓ <orth type="arrow" lang="ar">الدَّارَ زَيْدًا</orth> [<hi rend="ital">I
 let the house to Zeyd</hi>], inverting the order of
 the words: (Msb, TA:) and the lawyers say,
-<foreign lang="ar">الدَّارَ مِنْ زَيْدٍ</foreign> ↓ <orth type="arrow" lang="ar">آجَرْتُ</orth> [in the same sense, like as
+<foreign lang="ar">آجَرْتُ</foreign> ↓ <orth type="arrow" lang="ar">الدَّارَ مِنْ زَيْدٍ</orth> [in the same sense, like as
 <foreign lang="ar">بِعْتُ مِنْ زَيْدٍ الدَّارِ</foreign> means the same as <foreign lang="ar">بِعْتُ زَيْداً</foreign>
 <foreign lang="ar">الدَّارَ</foreign>]. (Msb: [but in the Mgh, the like of this
 is said to be vulgar.])
@@ -5769,7 +5769,7 @@ below,)] meaning <hi rend="ital">She prostituted herself for hire.</hi>
 <entryFree id="n270" key="آجَرَتٌ" type="main">
     <form>
       <itype>4</itype> 
-      <orth orig="" extent="full" lang="ar">آجَرَتٌ</orth></form>, inf. n. <foreign lang="ar">إِيجَارٌ</foreign>: see 1, first sentence: ― 
+      <orth orig="" extent="full" lang="ar">آجر</orth></form>, inf. n. <foreign lang="ar">إِيجَارٌ</foreign>: see 1, first sentence: ― 
        <milestone unit="sense" n="2"/>-b2- 
 and see the latter half of the same paragraph, in
 seven places.
@@ -5813,7 +5813,7 @@ house; took it on hire</hi>]. (A, Mgh,)
     <form>
       <orth orig="" extent="full" lang="ar">أَجْرٌ</orth></form> <hi rend="ital">A recompense, compensation,</hi> or <hi rend="ital">reward,</hi>
 (S, K, &amp;c.,) <hi rend="ital">for what one has done;</hi> (K;) <hi rend="ital">i. q.</hi>
-<foreign lang="ar">ثَوَابٌ</foreign>; (S;) as also ↓ <orth type="arrow" lang="ar">إِجَارَةٌ</orth> and ↓ <orth type="arrow" lang="ar">أَجَارَةٌ</orth> and ↓ <orth type="arrow" lang="ar">أٌجَارَةٌ</orth>,
+<foreign lang="ar">ثَوَابٌ</foreign>; (S;) as also ↓ <orth type="arrow" lang="ar">إِجَارَةٌ</orth> and ↓ <orth type="arrow" lang="ar">أَجَارَةٌ</orth> and ↓ <orth type="arrow" lang="ar">أُجَارَةٌ</orth>,
 (K,) of which three forms the first is the most
 generally known and the most chaste, (TA,) and
 ↓ <orth type="arrow" lang="ar">أُجْرَةٌ</orth>: (TA:) or, as some say, there is a distinction between <foreign lang="ar">أَجْرٌ</foreign> and <foreign lang="ar">ثَوَابٌ</foreign>: El-'Eynee says, in
@@ -5834,18 +5834,18 @@ a house, and <hi rend="ital">the like;</hi>] but <foreign lang="ar">أَجْرٌ
 in the sense of <foreign lang="ar">إِجَارَةٌ</foreign> and in that of <foreign lang="ar">أُجْرَةٌ</foreign>: (Msb:)
 the pl. of <foreign lang="ar">أَجْرٌ</foreign> is <foreign lang="ar">أُجُورٌ</foreign> (Msb, K) and <foreign lang="ar">آجَارٌ</foreign>; (K;)
 but the latter form was unknown to MF: (TA:)
-the pl. of ↓ <orth type="arrow" lang="ar">أُجْرَةٌ</orth> is <foreign lang="ar">أَجَرٌ</foreign> and <foreign lang="ar">أُجُرَاتٌ</foreign> and <foreign lang="ar">أُجَرَاتٌ</foreign>.
-(Msb.) [One says, <foreign lang="ar">أَجْرُكَ عَلَي اللّٰهِ</foreign> <hi rend="ital">Thy recompense is due from God.</hi> And, to console a person
+the pl. of ↓ <orth type="arrow" lang="ar">أُجْرَةٌ</orth> is <foreign lang="ar">أُجَرٌ</foreign> and <foreign lang="ar">أُجُرَاتٌ</foreign> and <foreign lang="ar">أُجَرَاتٌ</foreign>.
+(Msb.) [One says, <foreign lang="ar">أَجْرُكَ عَلَى اللّٰهِ</foreign> <hi rend="ital">Thy recompense is due from God.</hi> And, to console a person
 for the death of a relation or friend, <foreign lang="ar">عَظَّمَ اللّٰهُ أَجْرَكَ</foreign>
 <foreign lang="ar">فِيهِ</foreign> <hi rend="ital">May God largely compensate thee for him!</hi>
 i. e., for the loss of him.] By the expression
-<foreign lang="ar">أَجْرٍ كِرِيمٍ</foreign> in the Kur xxxvi. 10 is said to be
+<foreign lang="ar">أَجْرٍ كِرِيمٍ</foreign> in the Kur xxxvi. 11 is said to be
 meant <hi rend="ital">Paradise.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  (tropical:)  <hi rend="ital">A dowry,</hi> or <hi rend="ital">nuptial gift; a gift that is given to,</hi> or <hi rend="ital">for, a bride:</hi>
-(K:) pl. <foreign lang="ar">أُجُورٌ</foreign>: so in the Kur xxxiii. 49 [&amp;c.].
+(K:) pl. <foreign lang="ar">أُجُورٌ</foreign>: so in the Kur xxxiii. 50 [&amp;c.].
 (TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  (assumed tropical:)  <hi rend="ital">Praise; good fame.</hi> (K.) So, as
-some say, in the Kur xxix. 26. (TA.)
+some say, in the Kur xxix. 27. (TA.)
 
   </entryFree>
 <entryFree id="n274" key="أَجُرٌّ" type="main">
@@ -5922,17 +5922,17 @@ for <foreign lang="ar">ه</foreign> [in <foreign lang="ar">هِجِّيرَى</f
   </entryFree>
 <entryFree id="n284" key="آجُرٌّ" type="main">
     <form>
-      <orth orig="" extent="full" lang="ar">آجُرٌّ</orth></form> (S, Mgh, Msb, K) and ↓ <orth type="arrow" lang="ar">آجُرٌّ</orth> (AA, Ks, K)
+      <orth orig="" extent="full" lang="ar">آجُرٌّ</orth></form> (S, Mgh, Msb, K) and ↓ <orth type="arrow" lang="ar">آجُرٌ</orth> (AA, Ks, K)
 and ↓ <orth type="arrow" lang="ar">آجُورٌ</orth> (S, K) and ↓ <orth type="arrow" lang="ar">أَجُورٌ</orth> and ↓ <orth type="arrow" lang="ar">يَاجُورٌ</orth> (K) and
 ↓ <orth type="arrow" lang="ar">أَجُرٌ</orth> (as in some copies of the K) and ↓ <orth type="arrow" lang="ar">آجَرٌ</orth>, (as
 in some copies of the K and in the TA,) or
 ↓ <orth type="arrow" lang="ar">أُجُرٌ</orth>, (as in other copies of the K,) and ↓ <orth type="arrow" lang="ar">آجِرٌ</orth>
 [to which is erroneously added in the CK <foreign lang="ar">آجِرَةٌ</foreign>]
 and [the pls.] ↓ <orth type="arrow" lang="ar">آجُرُونَ</orth> and ↓ <orth type="arrow" lang="ar">آجِرُونَ</orth> (K) are syn.,
-(S, K,) of Persian origin, (S,) [from <foreign lang="ar">آگُورْ</foreign> or <foreign lang="ar">آگُرْ</foreign>,]
+(S, K,) of Persian origin, (S,) [from <foreign lang="pr">آگُورْ</foreign> or <foreign lang="pr">آگُرْ</foreign>,]
 arabicized, (S, Mgh, K,) signifying <hi rend="ital">Baked bricks;</hi>
 (Msb;) <hi rend="ital">baked clay,</hi> (Mgh, L,) <hi rend="ital">with which one
-builds:</hi> (S, L:) <foreign lang="ar">آجُرٌّ</foreign> and <foreign lang="ar">آجُورٌّ</foreign> and <foreign lang="ar">آجُرٌ</foreign> [&amp;c.] are
+builds:</hi> (S, L:) <foreign lang="ar">آجُرٌّ</foreign> and <foreign lang="ar">آجُورٌ</foreign> and <foreign lang="ar">آجُرٌ</foreign> [&amp;c.] are
 pls., [or rather coll. gen. ns., except the two forms
 ending with <foreign lang="ar">و</foreign> and <foreign lang="ar">ن</foreign>,] and their sings. [or rather
 ns. un.] are with <foreign lang="ar">ة</foreign>, i. e. <foreign lang="ar">آجُرَّةٌ</foreign> &amp;c. (L.)
@@ -5986,12 +5986,12 @@ to be disallowed only when used absolutely].
 <entryFree id="n292" key="مُؤْتَجَرَ" type="main">
     <form>
       <orth orig="" extent="full" lang="ar">مُؤْتَجَرَ</orth></form> [part. n. of <foreign lang="ar">اُوتُجِرَ</foreign>]. Mohammad Ibn-Bishr El-Khárijee, not [as is said in the S] Aboo-Dahbal, says, (L,)
-<quote><L><foreign lang="ar">يَا لَيْتَ أَنِّى بِأَثْوَابِي وَ رَاحِلَتِى</foreign></L>
-<L><foreign lang="ar">عَبْدٌ لِأَهْلِكَ هٰذَا الشَّهْرَ مُؤْتَجَرُ</foreign></L>
+<quote><L><foreign lang="ar">يَا لَيْتَ أَنِّى بِأَثْوَابِى وَ رَاحِلَتِى</foreign></L>
+<L><foreign lang="ar">عَبْدٌ لِأَهْلِكِ هٰذَا الشَّهْرَ مُؤْتَجَرُ</foreign></L>
 </quote>
 [<hi rend="ital">O would that I were, with my clothes and my
 riding-camel, a hired slave to thy family, this
-month</hi>]: (S, L.) i. e., <foreign lang="ar">مَعَ أَثْوَابِي</foreign>. (S.)
+month</hi>]: (S, L.) i. e., <foreign lang="ar">مَعَ أَثْوَابِى</foreign>. (S.)
 
   </entryFree>
 <entryFree id="n293" key="يَاجُورٌ" type="main">
