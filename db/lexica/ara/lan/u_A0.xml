@@ -14614,7 +14614,7 @@ Arabic language. (MF.)
       <itype>1</itype> 
       <orth orig="" extent="full" lang="ar">أَسِفَ</orth></form>, aor. 
     <form n="infl">
-      <orth orig="Ba" lang="ar">اَسَفَ</orth></form>, inf. n. <foreign lang="ar">أَسَفٌ</foreign>, (M, Msb, K,) <hi rend="ital">He
+      <orth orig="Ba" lang="ar">يَأْسَفُ</orth></form>, inf. n. <foreign lang="ar">أَسَفٌ</foreign>, (M, Msb, K,) <hi rend="ital">He
 grieved, lamented,</hi> or <hi rend="ital">regretted:</hi> and <hi rend="ital">he was angry:</hi>
 (Msb:) or <hi rend="ital">he grieved exceedingly:</hi> and <hi rend="ital">he was
 exceedingly angry:</hi> (M:) or <hi rend="ital">he grieved most
@@ -14640,10 +14640,14 @@ him,</hi> or <hi rend="ital">at it:</hi> (S, K:) or <foreign lang="ar">أَسِ�
 a one grieved,</hi> or <hi rend="ital">lamented, for,</hi> or <hi rend="ital">at, such and
 such things</hi> which had escaped him: or, accord.
 to others, <hi rend="ital">grieved,</hi> or <hi rend="ital">lamented, most intensely.</hi>
-(IAmb.) <foreign lang="ar">أَسَفًا</foreign> in the Kur xviii. 5 means, accord.
+(IAmb.) <foreign lang="ar">أَسَفًا</foreign> in the Kur xviii. 6 ۞ means, accord.
 to Ed-Dahhák, <foreign lang="ar">جَزَعًا</foreign> [i.e. <hi rend="ital">In grief,</hi> or <hi rend="ital">in most
 violent grief,</hi> &amp;c.]: or, accord. to Katádeh, <hi rend="ital">in
-anger.</hi> (TA.) And <foreign lang="ar">يَا أَسَفَا عَلَى يُوسُفِ</foreign>, in the
+anger.</hi> (TA.) And <choice>
+    <sic><foreign lang="ar">يَا أَسَفَا عَلَى يُوسُفِ</foreign></sic>
+    <corr id="n756.1" resp="Naveed" cert="high"><foreign lang="ar">يَا أَسَفَا عَلَى يُوسُفَ</foreign></corr></choice>
+    <note target="#n756.1">[TA as well as all authorities agree on يُوسُفَ not يُوسُفِ. The word يُوسُفِ here is taken in Gen. case but it is not possible since it is diptote (ممنوع من الصرف). Possibly a transcription mitake.]</note>, 
+    in the
 Kur [xii. 84], means <foreign lang="ar">يَا جَزَعَاهُ</foreign> [<hi rend="ital">O my grief for
 Joseph:</hi> or <hi rend="ital">O my most violent grief</hi>]. (TA.)
 
