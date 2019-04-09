@@ -20504,7 +20504,10 @@ sociable,</hi> &amp;c.]. (T.) It is said in a trad., <foreign lang="ar">المُ
 ↓ <orth type="arrow" lang="ar">إِلْفٌ مَأْلُوفٌ</orth> [<hi rend="ital">The believer is one who is familiar,</hi>
 or <hi rend="ital">sociable,</hi> &amp;c., <hi rend="ital">with others,</hi> and <hi rend="ital">with whom
 others are familiar,</hi> &amp;c.]. (TA.) ― 
-       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">المُؤَلَّفَةُ قُلُوبُهُمْ</foreign>
+       <milestone unit="sense" n="2"/>-b2-  <choice><sic><foreign lang="ar">المُؤَلَّفَةُ قُلُوبُهُمْ</foreign></sic>
+<corr id="n1076" resp="Naveed" cert="high"><foreign lang="ar">الْمُؤَلَّفَةِ قُلُوبُهُمْ</foreign></corr></choice>
+<note target="#n1076">[Both referenced lexicons (S, MSB) used <foreign lang="ar">المُؤَلَّفَةُ قُلُوبُهُمْ</foreign> but did not reference Quran but here Lane uses the words, "as used in the Kur [ix. 60]" which is eroneous since Quran uses <foreign lang="ar">الْمُؤَلَّفَةِ قُلُوبُهُمْ</foreign> where the <foreign lang="ar">ة</foreign> is with kesreh (genetive case) as <foreign lang="ar">الْمُؤَلَّفَةِ</foreign> is  conjoined noun for <foreign lang="ar">لِلْفُقَرَاءِ</foreign>, also in genetive case in 9:60.]</note>
+
 <hi rend="ital">Those whose hearts are made to incline,</hi> or <hi rend="ital">are
 conciliated, by beneficence and love</hi> or <hi rend="ital">affection:</hi>
 (S, * Msb:) as used in the Kur [ix. 60], it is
