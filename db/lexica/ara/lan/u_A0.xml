@@ -40,7 +40,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <text><body><div1 part="N" n="A" org="uniform" sample="complete" type="alphabetical letter">
+    <text><body><div1 part="N" n="A" org="uniform" sample="complete" type="alphabetical letter" xml:space="preserve">
 <head lang="ar">ا</head>
 
 <div2 part="N" n="A" org="uniform" sample="complete" type="alphabetical letter">
