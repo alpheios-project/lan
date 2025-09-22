@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2><text><body><div1 part="N" n="m" org="uniform" sample="complete" type="alphabetical letter">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tei.css"?>
+<TEI.2><text><body><div1 part="N" n="m" org="uniform" sample="complete" type="alphabetical letter">
 <head lang="ar">م</head>
 
  <div2 part="N" n="m" org="uniform" sample="complete" type="alphabetical letter">
@@ -377,7 +379,7 @@ and ↓ <orth type="arrow" lang="ar">مَتَّاحٌ</orth>, (tropical:)  <hi r
 (L.) ― 
        <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">لَيْلٌ مَتَّاحٌ</foreign> (tropical:)  <hi rend="ital">A long night.</hi> (S, K.) ― 
        <milestone unit="sense" n="2"/>-b5- 
-<foreign lang="ar">إِلَى اللَّيْلِ</foreign> ↓ <orth type="arrow" lang="ar">يَوْمٌ مَتَّاحٌ</orth> (tropical:)  <hi rend="ital">A day in which travelling
+<foreign lang="ar">يَوْمٌ مَتَّاحٌ</foreign> ↓ <orth type="arrow" lang="ar">إِلَى اللَّيْلِ</orth> (tropical:)  <hi rend="ital">A day in which travelling
 is prolonged until the evening without intermission</hi>
 or <hi rend="ital">alighting.</hi> (L.) See <foreign lang="ar">مَاتِحٌ</foreign>.
 
@@ -681,7 +683,7 @@ emits ink. (TA.)
 to reject</hi> instruction, through forgetfulness, <hi rend="ital">while
 the mind has eager desire</hi> to listen thereto, is said
 in a trad. (TA.) And in another trad.,
-<foreign lang="ar">وَلِلنَّفْسِ حَمْضَةٌ</foreign> ↓ <orth type="arrow" lang="ar">لِلْأُذُنِ مَجَّةٌ</orth> [meaning the same].
+<foreign lang="ar">لِلْأُذُنِ مَجَّةٌ</foreign> ↓ <orth type="arrow" lang="ar">وَلِلنَّفْسِ حَمْضَةٌ</orth> [meaning the same].
 (TA., art. <foreign lang="ar">حمض</foreign>.) [See also <foreign lang="ar">حَمْضَةٌ</foreign>.]
 
   </entryFree>
@@ -812,7 +814,7 @@ satiated the camels:</hi> (K:) or <hi rend="ital">he fed them upon
 herbage so as nearly to satiate them, in the
 beginning of the</hi> [<hi rend="ital">season called</hi>] <foreign lang="ar">رَبِيع</foreign>: (L:) or
 <hi rend="ital">he half-filled their bellies with fodder:</hi> (K:)
-the people of El-'Áliyeh say, <foreign lang="ar">النَّاقَةَ</foreign> ↓ <orth type="arrow" lang="ar">مَجَدَ</orth>, (L,)
+the people of El-'Áliyeh say, <foreign lang="ar">مَجَدَ</foreign> ↓ <orth type="arrow" lang="ar">النَّاقَةَ</orth>, (L,)
 or <foreign lang="ar">الدَّابَّةَ</foreign>, aor. 
     <form n="infl">
       <orth orig="Bu" lang="ar">مَجُدَ</orth></form>, inf. n. <foreign lang="ar">مَجْدٌ</foreign>, (S,) <hi rend="ital">he filled the
@@ -1238,7 +1240,7 @@ places. ＝
 (TA,) <hi rend="ital">He</hi> (an antelope) <hi rend="ital">ran:</hi> (S, K:) or <hi rend="ital">ran
 vehemently:</hi> (TA:) or <hi rend="ital">vigorously:</hi> (AA, TA:)
 or <hi rend="ital">was quick,</hi> or <hi rend="ital">swift, in his running;</hi> as also
-<foreign lang="ar">فِى عَدْوِهِ</foreign> ↓ <orth type="arrow" lang="ar">امتحص</orth>. (TA.) And hence, (TA,)
+<foreign lang="ar">امتحص</foreign> ↓ <orth type="arrow" lang="ar">فِى عَدْوِهِ</orth>. (TA.) And hence, (TA,)
 <foreign lang="ar">مَحَصَ السَّيْرَ</foreign>, [app. for <foreign lang="ar">فِى السَّيْرِ</foreign>,] said of a man,
 <hi rend="ital">He exerted himself,</hi> or <hi rend="ital">was vigorous, in journeying.</hi> (K, TA.)
 
@@ -1274,7 +1276,7 @@ of sins.</hi> (TA.) And you say, <foreign lang="ar">مَحِّصْ عَنَّا 
 meaning (tropical:)  <hi rend="ital">Remove thou,</hi> or <hi rend="ital">put thou away, from
 us our sins.</hi> (TA.) [But this phrase may be
 rendered somewhat differently; as will be seen
-below.] And <foreign lang="ar">ٱللّٰهُ مَا بِكَ</foreign> ↓ <orth type="arrow" lang="ar">مَحَصَ</orth>, and <foreign lang="ar">مَحَّصَهُ</foreign>;
+below.] And <foreign lang="ar">مَحَصَ</foreign> ↓ <orth type="arrow" lang="ar">ٱللّٰهُ مَا بِكَ</orth>, and <foreign lang="ar">مَحَّصَهُ</foreign>;
 i.e. (tropical:)  <hi rend="ital">May God remove,</hi> or <hi rend="ital">put away, what is in
 thee.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  [Hence, also,] (assumed tropical:)  <hi rend="ital">He tried,
@@ -1310,10 +1312,10 @@ and ↓ <orth type="arrow" lang="ar">مَحَصَ</orth>, q. v.] ―
 <pb n="2692"/>
 And <foreign lang="ar">تمحّصت الظَّلْمَآءُ</foreign> (tropical:)  <hi rend="ital">The darkness became
 cleared away,</hi> or <hi rend="ital">removed.</hi> (A, TA.) And
-<foreign lang="ar">الشَّمْسُ</foreign> ↓ <orth type="arrow" lang="ar">أَمْحَصَتِ</orth>, and ↓ <orth type="arrow" lang="ar">انمحصت</orth>, (K,) and
+<foreign lang="ar">أَمْحَصَتِ</foreign> ↓ <orth type="arrow" lang="ar">الشَّمْسُ</orth>, and ↓ <orth type="arrow" lang="ar">انمحصت</orth>, (K,) and
 ↓ <orth type="arrow" lang="ar">إِمَّحَصَت</orth>, (TA,) (assumed tropical:)  <hi rend="ital">The sun appeared, and
 became clear, after an eclipse.</hi> (K, TA.) And
-<foreign lang="ar">الرَّجُلُ</foreign> ↓ <orth type="arrow" lang="ar">أَمْحَصَ</orth>, (inf. n. <foreign lang="ar">إِمْحَاصٌ</foreign>, TA) (assumed tropical:)  <hi rend="ital">The
+<foreign lang="ar">أَمْحَصَ</foreign> ↓ <orth type="arrow" lang="ar">الرَّجُلُ</orth>, (inf. n. <foreign lang="ar">إِمْحَاصٌ</foreign>, TA) (assumed tropical:)  <hi rend="ital">The
 man recovered from his disease.</hi> (Ibn-'Abbád,
 K. *)
 
@@ -1365,12 +1367,12 @@ and <foreign lang="ar">مَحَضَ لَهُ النُّصْحَ</foreign>, (TA,)
 <hi rend="ital">affection,</hi> and <hi rend="ital">good advice, to be pure,</hi> or <hi rend="ital">sincere,
 to him;</hi> [i.e. <hi rend="ital">he was pure,</hi> or <hi rend="ital">sincere, to him in
 love,</hi> or <hi rend="ital">affection, and in good advice;</hi>] as also
-<foreign lang="ar">الوُدَّ</foreign> ↓ <orth type="arrow" lang="ar">امحضهُ</orth>; (S, A, K;) or, accord. to IDrd,
-this latter only; (A;) but this latter was unknown to As; (IB;) and <foreign lang="ar">النصح</foreign> ↓ <orth type="arrow" lang="ar">امحضهُ</orth>; (A;)
-and <foreign lang="ar">له النصح</foreign> ↓ <orth type="arrow" lang="ar">امحض</orth>. (TA.) And ↓ <orth type="arrow" lang="ar">أَمْحَضَهُ</orth>
+<foreign lang="ar">امحضهُ</foreign> ↓ <orth type="arrow" lang="ar">الوُدَّ</orth>; (S, A, K;) or, accord. to IDrd,
+this latter only; (A;) but this latter was unknown to As; (IB;) and <foreign lang="ar">امحضهُ</foreign> ↓ <orth type="arrow" lang="ar">النصح</orth>; (A;)
+and <foreign lang="ar">امحض</foreign> ↓ <orth type="arrow" lang="ar">له النصح</orth>. (TA.) And ↓ <orth type="arrow" lang="ar">أَمْحَضَهُ</orth>
 <foreign lang="ar">الحَدِيثَ</foreign> (tropical:)  <hi rend="ital">He was true,</hi> or <hi rend="ital">veracious, to him in
 the narration,</hi> or <hi rend="ital">in discourse.</hi> (IKtt, K.) And
-<foreign lang="ar">فُلَانٌ الحَقَّ</foreign> ↓ <orth type="arrow" lang="ar">مَحَّضَنِى</orth> (assumed tropical:)  [<hi rend="ital">Such a one declared,</hi> or
+<foreign lang="ar">مَحَّضَنِى</foreign> ↓ <orth type="arrow" lang="ar">فُلَانٌ الحَقَّ</orth> (assumed tropical:)  [<hi rend="ital">Such a one declared,</hi> or
 <hi rend="ital">told clearly, to me the truth</hi>]. (A, TA, voce
 <foreign lang="ar">صَبَّحَ</foreign>.) ＝   
     <milestone unit="sense" n="1"/>-A2-  <foreign lang="ar">مَحِضَ</foreign>, (Sgh, K,) aor. 
@@ -1455,12 +1457,12 @@ Arabian:</hi>] and the epithet is the same as fem.
 more approved usage; (Msb;) [for it is originally an inf. n.;] but you may, if you please,
 use the fem. and dual and pl. forms, as in the
 instances of [the synonymous epithets] <foreign lang="ar">قَلْبٌ</foreign> and
-<foreign lang="ar">بَحْتٌ</foreign>: (S:) and <foreign lang="ar">النَّسَبِ</foreign> ↓ <orth type="arrow" lang="ar">هُوَ مَمْحُوضُ</orth> (tropical:)  <hi rend="ital">he is
+<foreign lang="ar">بَحْتٌ</foreign>: (S:) and <foreign lang="ar">هُوَ مَمْحُوضُ</foreign> ↓ <orth type="arrow" lang="ar">النَّسَبِ</orth> (tropical:)  <hi rend="ital">he is
 pure,</hi> or <hi rend="ital">unmixed, in race,</hi> or <hi rend="ital">lineage,</hi> or
-<hi rend="ital">parentage:</hi> (K, TA:) and <foreign lang="ar">الضَّرِيبَةِ</foreign> ↓ <orth type="arrow" lang="ar">مَمْحُوضُ</orth>
+<hi rend="ital">parentage:</hi> (K, TA:) and <foreign lang="ar">مَمْحُوضُ</foreign> ↓ <orth type="arrow" lang="ar">الضَّرِيبَةِ</orth>
 (tropical:)  <hi rend="ital">rendered pure in nature,</hi> or <hi rend="ital">disposition;</hi> (Az,
 O;) <hi rend="ital">freed from faults</hi> or <hi rend="ital">vices:</hi> (Az:) and
-<foreign lang="ar">مَحْضُ الحَسَبِ</foreign> (tropical:)  <hi rend="ital">pure in grounds of pretension to respect:</hi> (TA:) and <foreign lang="ar">الحَسَبِ</foreign> ↓ <orth type="arrow" lang="ar">مَمْحُوضُ</orth>
+<foreign lang="ar">مَحْضُ الحَسَبِ</foreign> (tropical:)  <hi rend="ital">pure in grounds of pretension to respect:</hi> (TA:) and <foreign lang="ar">مَمْحُوضُ</foreign> ↓ <orth type="arrow" lang="ar">الحَسَبِ</orth>
 (tropical:)  <hi rend="ital">rendered pure therein:</hi> (O, K:) the pl. of
 <foreign lang="ar">مَحْضٌ</foreign> thus used is <foreign lang="ar">مِحَاضٌ</foreign> [a pl. of mult.] and
 <foreign lang="ar">أَمْحَاضٌ</foreign> [a pl. of pauc.]. (TA.) You say also,
@@ -1712,7 +1714,7 @@ said of the camel: you say, <foreign lang="ar">تمخّرت الإِبِلُ ا�
 And, met., of a man; as in the following ex.:
 <foreign lang="ar">خَرَجْتُ أَتَمَخَّرُ الرِّيحَ</foreign>, app. meaning, (tropical:)  <hi rend="ital">I went
 forth to snuff the wind.</hi> (TA.) You also say,
-<foreign lang="ar">الرِّيحَ</foreign> ↓ <orth type="arrow" lang="ar">إِسْتَمْخَرْتُ</orth> (assumed tropical:)  <hi rend="ital">I directed my nose towards
+<foreign lang="ar">إِسْتَمْخَرْتُ</foreign> ↓ <orth type="arrow" lang="ar">الرِّيحَ</orth> (assumed tropical:)  <hi rend="ital">I directed my nose towards
 the wind.</hi> (S, A.) And it is said in a trad.,
 <foreign lang="ar">إِذَا أَرَادَ أَحَدُكُمُ البَوْلَ فَلْيَتَمَخَّرِ الرِّيحَ</foreign> (S, K)
 (assumed tropical:)  <hi rend="ital">When any one of you desires to make water, let
@@ -1864,24 +1866,24 @@ and so in some copies of the K;) each of these
 last two is correct; (TA;) and ↓ <orth type="arrow" lang="ar">امتخضت</orth>.
 (ISh.) And <foreign lang="ar">مَخِضَتْ</foreign> said of a woman, (tropical:)  <hi rend="ital">Her
 child moved about in her belly, previously to the
-birth:</hi> (Ibráheem El-Harbee:) and in like manner, <foreign lang="ar">بِوَلَدِهَا</foreign> ↓ <orth type="arrow" lang="ar">تمخّضت</orth>, (S, * TA,) said of a she-camel, (tropical:)  <hi rend="ital">her young one became agitated in her
+birth:</hi> (Ibráheem El-Harbee:) and in like manner, <foreign lang="ar">تمخّضت</foreign> ↓ <orth type="arrow" lang="ar">بِوَلَدِهَا</orth>, (S, * TA,) said of a she-camel, (tropical:)  <hi rend="ital">her young one became agitated in her
 belly at the time of bringing forth:</hi> (TA:) and
 ↓ <orth type="arrow" lang="ar">تمخّضت</orth> [alone], said of a ewe, or she-goat,
 (assumed tropical:)  <hi rend="ital">she conceived,</hi> or <hi rend="ital">became pregnant.</hi> (As, K.)
 ― 
        <milestone unit="sense" n="2"/>-b2-  [Hence,] <foreign lang="ar">مَخِضَ السَّحَابُ بِمَائِهِ</foreign>, and ↓ <orth type="arrow" lang="ar">تمخّض</orth>,
-(TA,) and <foreign lang="ar">السَّمَآءُ</foreign> ↓ <orth type="arrow" lang="ar">تمخّضت</orth>, (A, TA,) (tropical:)  [<hi rend="ital">The
+(TA,) and <foreign lang="ar">تمخّضت</foreign> ↓ <orth type="arrow" lang="ar">السَّمَآءُ</orth>, (A, TA,) (tropical:)  [<hi rend="ital">The
 cloud,</hi> or <hi rend="ital">clouds,</hi> and] <hi rend="ital">the sky,</hi> or <hi rend="ital">heaven, prepared,</hi> or <hi rend="ital">became ready, to rain.</hi> (A, TA.)
-And <foreign lang="ar">اللَّيْلَةُ عَنْ صَبَاحِ سَوْءٍ</foreign> ↓ <orth type="arrow" lang="ar">تمخّضت</orth>, (A,) or
+And <foreign lang="ar">تمخّضت</foreign> ↓ <orth type="arrow" lang="ar">اللَّيْلَةُ عَنْ صَبَاحِ سَوْءٍ</orth>, (A,) or
 <foreign lang="ar">يَوْمِ سَوْءٍ</foreign>, (TA,) (tropical:)  <hi rend="ital">The night had an evil morning.</hi>
-(TA,) And <foreign lang="ar">الدَّهْرُ بِالْفِتْنَةِ</foreign> ↓ <orth type="arrow" lang="ar">تمخّض</orth> (tropical:)  <hi rend="ital">Time,</hi> or
+(TA,) And <foreign lang="ar">تمخّض</foreign> ↓ <orth type="arrow" lang="ar">الدَّهْرُ بِالْفِتْنَةِ</orth> (tropical:)  <hi rend="ital">Time,</hi> or
 <hi rend="ital">fortune, brought trial, civil war, sedition,</hi> or <hi rend="ital">the
 like:</hi> (K, TA:) as though from <foreign lang="ar">المَخَاضُ</foreign>. (K.)
 'Amr Ibn-Hassán, one of the Benu-l-Hárith-Ibn-Hemmám-Ibn-Murrah, says, (Seer, S,) but the
 saying is also ascribed to Sahm Ibn-Khálid Ibn-
 'Abd-Allah Esh-Sheybánee, and to Khálid Ibn-
 Hikk Esh-Sheybánee, (TA,)
-<quote><L><foreign lang="ar">المَنُونُ لَهُ بِيَوْمٍ</foreign> ↓ <orth type="arrow" lang="ar">تَمَخَّضَتِ</orth></L>
+<quote><L><foreign lang="ar">تَمَخَّضَتِ</foreign> ↓ <orth type="arrow" lang="ar">المَنُونُ لَهُ بِيَوْمٍ</orth></L>
 <L><foreign lang="ar">أَنَى وَلِكُلِّ حَامِلَةٍ تَمَامُ</foreign></L>
 </quote>
 meaning [<hi rend="ital">Time,</hi> or <hi rend="ital">fortune,</hi>] <hi rend="ital">was pregnant with
@@ -2151,11 +2153,11 @@ the time of the birth</hi>]. (Z, K.) And <foreign lang="ar">مَخَطَ</foreig
 his nose.</hi> (S.) ― 
        <milestone unit="sense" n="2"/>-b2-  [And hence,] <foreign lang="ar">مَخَطَ السَّيْفَ</foreign> (tropical:)  <hi rend="ital">He
 drew the sword</hi> (K, TA) <hi rend="ital">from its scabbard;</hi>
-(TA;) as also ↓ <orth type="arrow" lang="ar">امتخطهُ</orth>: (S, K:) and sometimes they said, (S,) <foreign lang="ar">مَا فِى يَدِهِ</foreign> ↓ <orth type="arrow" lang="ar">امتخط</orth> (tropical:)  <hi rend="ital">he
+(TA;) as also ↓ <orth type="arrow" lang="ar">امتخطهُ</orth>: (S, K:) and sometimes they said, (S,) <foreign lang="ar">امتخط</foreign> ↓ <orth type="arrow" lang="ar">مَا فِى يَدِهِ</orth> (tropical:)  <hi rend="ital">he
 pulled out what was in his hand;</hi> (S, K;) <hi rend="ital">he
 seized, took away quickly by force,</hi> or <hi rend="ital">snatched
 away, what was in his hand:</hi> (S, L, K:) and
-<foreign lang="ar">رُمْحَهُ مِنْ مَرْكَزِهِ</foreign> ↓ <orth type="arrow" lang="ar">امتخط</orth> (tropical:)  <hi rend="ital">he pulled out his
+<foreign lang="ar">امتخط</foreign> ↓ <orth type="arrow" lang="ar">رُمْحَهُ مِنْ مَرْكَزِهِ</orth> (tropical:)  <hi rend="ital">he pulled out his
 spear from its place in which it was stuck.</hi>
 (TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  [And] <foreign lang="ar">مَخَطَهُ</foreign>, (S, K, *) aor. 
@@ -2291,7 +2293,7 @@ the rope at the top. (L.) ―
        <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">مَدَّ</foreign> <hi rend="ital">He extended,</hi>
 or <hi rend="ital">stretched forth,</hi> his hand or arm, foot or leg,
 &amp;c. (The Lexicons passim.) ― 
-       <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">بَيْنَنَا</foreign> ↓ <orth type="arrow" lang="ar">تَمَدَّدْنَاهُ</orth>
+       <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">تَمَدَّدْنَاهُ</foreign> ↓ <orth type="arrow" lang="ar">بَيْنَنَا</orth>
 <hi rend="ital">We drew, pulled, strained,</hi> or <hi rend="ital">stretched, it between
 us,</hi> or <hi rend="ital">together.</hi> (L.) [But in a copy of the M,
 it is <foreign lang="ar">تَمَادَدْنَاهُ</foreign>.] ― 
@@ -2301,7 +2303,7 @@ it is <foreign lang="ar">تَمَادَدْنَاهُ</foreign>.] ―
 <hi rend="ital">He lengthened the letter.</hi> (L.) ― 
        <milestone unit="sense" n="2"/>-b6-  <foreign lang="ar">مَدَّ صَوْتَهُ</foreign> (tropical:)  <hi rend="ital">He
 prolonged,</hi> or <hi rend="ital">strained, his voice</hi> [as the Arab
-does in chanting]: (L:) and <foreign lang="ar">فِى الصَّوْتِ</foreign> ↓ <orth type="arrow" lang="ar">تَمَدَّدَ</orth>
+does in chanting]: (L:) and <foreign lang="ar">تَمَدَّدَ</foreign> ↓ <orth type="arrow" lang="ar">فِى الصَّوْتِ</orth>
 <foreign lang="ar">عِنْدَ الوَعِيدِ</foreign> (assumed tropical:)  [<hi rend="ital">He strained the voice in threatening</hi>]. (K, art. <foreign lang="ar">نمر</foreign>.) ― 
        <milestone unit="sense" n="2"/>-b7-  <foreign lang="ar">مَدَّ</foreign>, inf. n. <foreign lang="ar">مَدٌّ</foreign>, (tropical:)  <hi rend="ital">It</hi> (his
 sight) <hi rend="ital">was,</hi> or <hi rend="ital">became, stretched, and raised,</hi>
@@ -2333,10 +2335,10 @@ made his life long;</hi> (S, A, * L;) as also ↓ <orth type="arrow" lang="ar">�
 thy life long!</hi> (L.) ― 
        <milestone unit="sense" n="2"/>-b15-  <foreign lang="ar">مُدَّ فِى عُمْرِهِ</foreign> (tropical:)  <hi rend="ital">He had
 his life lengthened.</hi> (L.) ― 
-       <milestone unit="sense" n="2"/>-b16-  <foreign lang="ar">الأَجَلَ</foreign> ↓ <orth type="arrow" lang="ar">أَمَدَّ</orth>, inf. n.
+       <milestone unit="sense" n="2"/>-b16-  <foreign lang="ar">أَمَدَّ</foreign> ↓ <orth type="arrow" lang="ar">الأَجَلَ</orth>, inf. n.
 <foreign lang="ar">إِمْدَادٌ</foreign>, (tropical:)  <hi rend="ital">He deferred,</hi> or <hi rend="ital">postponed, the term,</hi> or
 <hi rend="ital">period of duration.</hi> (K.) ― 
-       <milestone unit="sense" n="2"/>-b17-  <foreign lang="ar">لَهُ فِى الأَجَلِ</foreign> ↓ <orth type="arrow" lang="ar">امدّ</orth>
+       <milestone unit="sense" n="2"/>-b17-  <foreign lang="ar">امدّ</foreign> ↓ <orth type="arrow" lang="ar">لَهُ فِى الأَجَلِ</orth>
 (tropical:)  <hi rend="ital">He deferred,</hi> or <hi rend="ital">postponed, to him the term,</hi> or
 <hi rend="ital">his term.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b18-  <foreign lang="ar">مَدَّهُ</foreign>, aor. 
@@ -2398,13 +2400,13 @@ See the part. n.] ―
 and <foreign lang="ar">مَدَدْنَاهُمْ</foreign> <hi rend="ital">We became auxiliaries to them:</hi>
 somewhat differing from ↓ <orth type="arrow" lang="ar">أَمَدْنَاهُمْ</orth>, which signifies
 <hi rend="ital">We aided them,</hi> or <hi rend="ital">succoured them, by others than
-ourselves:</hi> (AZ, S, L, K:) you say, <foreign lang="ar">بِمَدَدٍ</foreign> ↓ <orth type="arrow" lang="ar">أَمْدَدْتُهُ</orth>
+ourselves:</hi> (AZ, S, L, K:) you say, <foreign lang="ar">أَمْدَدْتُهُ</foreign> ↓ <orth type="arrow" lang="ar">بِمَدَدٍ</orth>
 <hi rend="ital">I aided him, and strengthened him,</hi> [or <hi rend="ital">increased
 his numbers and strength,</hi>] <hi rend="ital">with an army:</hi> (S, *
-Msb:) and <foreign lang="ar">الأَمِيرُ جُنْدَهُ بِالخَيْلِ وَالرِّجَالِ</foreign> ↓ <orth type="arrow" lang="ar">أَمَدَّ</orth>
+Msb:) and <foreign lang="ar">أَمَدَّ</foreign> ↓ <orth type="arrow" lang="ar">الأَمِيرُ جُنْدَهُ بِالخَيْلِ وَالرِّجَالِ</orth>
 <hi rend="ital">The commander aided,</hi> or <hi rend="ital">succoured, his army
 with cavalry and infantry,</hi> or <hi rend="ital">with horses and
-men:</hi> and <foreign lang="ar">بِمَالٍ كَثِيرٍ</foreign> ↓ <orth type="arrow" lang="ar">امدّهُمْ</orth> <hi rend="ital">He aided them
+men:</hi> and <foreign lang="ar">امدّهُمْ</foreign> ↓ <orth type="arrow" lang="ar">بِمَالٍ كَثِيرٍ</orth> <hi rend="ital">He aided them
 with,</hi> or, as some say, <hi rend="ital">gave them, much wealth:</hi>
 (L:) and [it is said in the Kur, lii. 22,]
 <foreign lang="ar">وَأَمْدَدْنَاهُمْ بِفَاكِهَةٍ</foreign> (S, L) <hi rend="ital">And We will increase
@@ -2437,7 +2439,7 @@ put oil</hi> (or <hi rend="ital">the like,</hi> K) <hi rend="ital">into the lamp
        <milestone unit="sense" n="2"/>-b30- 
 <foreign lang="ar">مَدَّهُ مُدَّةً مِنَ الدَّوَاةِ</foreign>, aor. 
     <form n="infl">
-      <orth orig="Bu" lang="ar">مَدُ3َ</orth></form>; and <foreign lang="ar">مُدَّةً</foreign> ↓ <orth type="arrow" lang="ar">أَمَدَّهُ</orth> is
+      <orth orig="Bu" lang="ar">مَدُ3َ</orth></form>; and <foreign lang="ar">أَمَدَّهُ</foreign> ↓ <orth type="arrow" lang="ar">مُدَّةً</orth> is
 also allowable; (L;) or simply <foreign lang="ar">مَدَّهُ</foreign> (A) and
 <foreign lang="ar">أَمَدَّهُ</foreign>; (S, A, K;) <hi rend="ital">He gave him a dip of ink
 from the receptacle thereof with a reed-pen.</hi>
@@ -2637,7 +2639,7 @@ put adverbially. (L.) ―
        <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">هٰذَا مَدُّ النَّهَارِ الأَكْبَرُ</foreign>
 (tropical:)  <hi rend="ital">This is the highest time of day.</hi> (A.) ― 
        <milestone unit="sense" n="2"/>-b5- 
-<foreign lang="ar">كَلِمَاتِهِ</foreign> ↓ <orth type="arrow" lang="ar">سُبْحَانَ ٱللّٰهِ مِدَادَ</orth>, (A, L, K,) and
+<foreign lang="ar">سُبْحَانَ ٱللّٰهِ مِدَادَ</foreign> ↓ <orth type="arrow" lang="ar">كَلِمَاتِهِ</orth>, (A, L, K,) and
 ↓ <orth type="arrow" lang="ar">مَدَدَهَا</orth>, (L,) and <foreign lang="ar">مِدَادَ السَّمَوَاتِ</foreign>, (L, K,) and
 <foreign lang="ar">مَدَدَهَا</foreign>, (L,) (tropical:)  <hi rend="ital">I extol,</hi> or <hi rend="ital">celebrate,</hi> or <hi rend="ital">declare,
 the absolute purity,</hi> or <hi rend="ital">perfection,</hi> or <hi rend="ital">glory, of
@@ -2978,7 +2980,7 @@ expanded,</hi> or <hi rend="ital">dilated,</hi> (S, K,) <hi rend="ital">by reaso
 satiety;</hi> like <foreign lang="ar">تندّحت</foreign>: occurring in this sense
 in a verse of Er-Rá'ee, as some relate it; as
 others relate it, it is <foreign lang="ar">تمذّحت</foreign>. (S.) ― 
-       <milestone unit="sense" n="2"/>-b7-  <foreign lang="ar">بَطْنُهُ</foreign> ↓ <orth type="arrow" lang="ar">امدحّ</orth>
+       <milestone unit="sense" n="2"/>-b7-  <foreign lang="ar">امدحّ</foreign> ↓ <orth type="arrow" lang="ar">بَطْنُهُ</orth>
 <hi rend="ital">His belly became wide,</hi> or <hi rend="ital">distended;</hi> a dial. form
 of <foreign lang="ar">اندحّ</foreign>. (S.) This, says F, is a mistake; but
 it is no mistake; and he has perverted the words
@@ -3230,7 +3232,7 @@ the stones of watering-troughs or tanks;</hi> (TA;)
 (S, L, K:) <hi rend="ital">when he walked,</hi> (S,) <hi rend="ital">by reason of
 his fatness:</hi> (Námoos:) or <hi rend="ital">his thighs rubbed
 each other, and twisted, so that they became
-excoriated;</hi> as also <foreign lang="ar">فَخِذَاهُ</foreign> ↓ <orth type="arrow" lang="ar">مَذَّحَتْ</orth>: (L:) or
+excoriated;</hi> as also <foreign lang="ar">مَذَّحَتْ</foreign> ↓ <orth type="arrow" lang="ar">فَخِذَاهُ</orth>: (L:) or
 <hi rend="ital">the parts between the inner sides of the roots of
 his thighs</hi> (<foreign lang="ar">مَا بَيْنَ الرُّفْغَيْنِ</foreign>) <hi rend="ital">and his buttocks
 became inflamed:</hi> (K, TA:) [for <foreign lang="ar">اختراق</foreign>, in the
@@ -3351,7 +3353,7 @@ Msb, K;) and <foreign lang="ar">مَضَى</foreign>; (A, Mgh;) as also
 and <hi rend="ital">the affair,</hi> (A, Mgh,) <hi rend="ital">passed;</hi> &amp;c. (A,
 Mgh, Msb, TK.) The saying in the Kur,
 [vii. 189,] <foreign lang="ar">حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِ</foreign> signifies
-<hi rend="ital">i. q.</hi> <foreign lang="ar">به</foreign> ↓ <orth type="arrow" lang="ar">استمرّت</orth>, (A, K,) which is another
+<hi rend="ital">i. q.</hi> <foreign lang="ar">استمرّت</foreign> ↓ <orth type="arrow" lang="ar">به</orth>, (A, K,) which is another
 reading, (Bd,) i. e., [<hi rend="ital">She bore a light burden</hi> in
 her womb, <hi rend="ital">and</hi>] <hi rend="ital">went with it, and moved from
 place to place, and rose and sat,</hi> not being
@@ -3374,7 +3376,7 @@ latter, (Mughnee, voce <foreign lang="ar">بِ</foreign>,) for which the BenooYa
     <form n="infl">
       <orth orig="Bu" lang="ar">مَرُ3َ</orth></form>, (S,) inf. n. <foreign lang="ar">مَرٌّ</foreign> and
 <foreign lang="ar">مَمَرٌّ</foreign> (S, A, Msb) and <foreign lang="ar">مُرُورٌ</foreign>; (A, Msb;) and
-<foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">اِمْتَرَّ</orth>, and <foreign lang="ar">اِمْتَرَّ عَلَيْهِ</foreign>; (M, K;) <hi rend="ital">He passed,</hi>
+<foreign lang="ar">اِمْتَرَّ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>, and <foreign lang="ar">اِمْتَرَّ عَلَيْهِ</foreign>; (M, K;) <hi rend="ital">He passed,</hi>
 or <hi rend="ital">went, by him,</hi> or <hi rend="ital">it;</hi> syn. <foreign lang="ar">اِجْتَازَ</foreign>, (S, Msb,) or
 <foreign lang="ar">جَازَ عَلَيْهِ</foreign>, (M, K,) or <foreign lang="ar">جَاوَزَهُ وَذَهَبَ</foreign>. (A.) <foreign lang="ar">مَرَّ</foreign>
 may be a verb trans. by means of a particle and
@@ -3457,7 +3459,7 @@ passed, passed by</hi> or <hi rend="ital">beyond, went, went away,</hi> or
       <itype>4</itype> 
       <orth orig="" extent="full" lang="ar">امرّهُ</orth></form>, (inf. n. <foreign lang="ar">إِمْرَارٌ</foreign>, TA,) <hi rend="ital">He made him,</hi> or <hi rend="ital">it,
 to pass, pass by</hi> or <hi rend="ital">beyond, go, go away,</hi> or <hi rend="ital">pass
-away;</hi> (A, Msb, TA;) as also <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">مَرَّ</orth>. (Msb.)
+away;</hi> (A, Msb, TA;) as also <foreign lang="ar">مَرَّ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>. (Msb.)
 ― 
        <milestone unit="sense" n="2"/>-b2-  [Hence,] <foreign lang="ar">امرّ الشِّعْرَ</foreign> [(assumed tropical:)  <hi rend="ital">He recited the poetry,</hi>
 especially, <hi rend="ital">with fluency</hi>]. (K, art. <foreign lang="ar">ذبر</foreign>.) ― 
@@ -3530,7 +3532,7 @@ You say, <foreign lang="ar">قَدْ أَمَرَّ هَذَا الطَّعَا�
 has become bitter in my mouth:</hi> and in like
 manner you say of anything that becomes bitter.
 (TA.) You say also, <foreign lang="ar">أَمَرَّ عَلَيْهِ العَيْشُ</foreign>, and
-<foreign lang="ar">عَلَيْهِ</foreign> ↓ <orth type="arrow" lang="ar">مَرَّ</orth>, (tropical:)  [<hi rend="ital">Life became bitter to him</hi>]. (A.)
+<foreign lang="ar">مَرَّ</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْهِ</orth>, (tropical:)  [<hi rend="ital">Life became bitter to him</hi>]. (A.)
 And Th cites,
 <quote><L><foreign lang="ar">تُمِرُّ عَلَيْنَا الأَرْضُ مِنْ أَنْ نَرَى بِهَا</foreign></L>
 <L><foreign lang="ar">أَنِيسًا وَيَحْلَوْلِى لَنَا البَلَدُ القَفْرُ</foreign></L>
@@ -4025,7 +4027,7 @@ stomach, and descended thence well.</hi> (TA.) But
 (TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">مَرِئَ الطَّعَامَ</foreign>, and ↓ <orth type="arrow" lang="ar">استمرأهُ</orth>, [<hi rend="ital">He found
 the food wholesome, &amp;c.</hi>] (S.) (See above.]
-<foreign lang="ar">الطَّعَامَ</foreign> ↓ <orth type="arrow" lang="ar">استمرأ</orth>, signifies <foreign lang="ar">عَدَّهُ مَرِيْئًا</foreign>. (MA.) ― 
+<foreign lang="ar">استمرأ</foreign> ↓ <orth type="arrow" lang="ar">الطَّعَامَ</orth>, signifies <foreign lang="ar">عَدَّهُ مَرِيْئًا</foreign>. (MA.) ― 
        <milestone unit="sense" n="2"/>-b3- 
 <foreign lang="ar">مَرَأَ</foreign>, aor. 
     <form n="infl">
@@ -4956,14 +4958,14 @@ thereby to pass from out of the general state</hi> [or
        <milestone unit="sense" n="2"/>-b2-  So in the phrase <foreign lang="ar">مرد عَلَى الأَمْرِ</foreign>
 <hi rend="ital">He was bold</hi> or <hi rend="ital">audacious, and immoderate, &amp;c.,
 in the affair:</hi> (M, L:) and in like manner, <foreign lang="ar">على</foreign>
-<foreign lang="ar">الشَّرِّ</foreign>, <hi rend="ital">in evil,</hi> or <hi rend="ital">mischief:</hi> <foreign lang="ar">عَلَيْنَا</foreign> ↓ <orth type="arrow" lang="ar">تمرّد</orth> <hi rend="ital">He acted
+<foreign lang="ar">الشَّرِّ</foreign>, <hi rend="ital">in evil,</hi> or <hi rend="ital">mischief:</hi> <foreign lang="ar">تمرّد</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْنَا</orth> <hi rend="ital">He acted
 immoderately, inordinately,</hi> or <hi rend="ital">exorbitantly, &amp;c.,
 towards us,</hi> or <hi rend="ital">against us.</hi> (L.) ― 
        <milestone unit="sense" n="2"/>-b3-  Some explain
 <foreign lang="ar">مَرُدَ</foreign> as syn. with <foreign lang="ar">خَبُثَ</foreign> [signifying <hi rend="ital">He was bad,
 evil, wicked, malignant, noxious, corrupt, &amp;c.</hi>].
 (MF.) ― 
-       <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">مَارِدٌ وَعَزَّ الأَبْلَقُ</foreign> ↓ <orth type="arrow" lang="ar">تَمَرَّدَ</orth> (tropical:)  [<hi rend="ital">Márid hath
+       <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">تَمَرَّدَ</foreign> ↓ <orth type="arrow" lang="ar">مَارِدٌ وَعَزَّ الأَبْلَقُ</orth> (tropical:)  [<hi rend="ital">Márid hath
 resisted the attempt to take it, and El-Ablak
 hath proved strong</hi>]: a proverb: (S:) originally
 said by Ex-Zebbà, the Queen of the Arabs, with
@@ -5335,7 +5337,7 @@ accustomed himself to it;</hi> syn. <foreign lang="ar">ضَرِيَهُ</foreign
 himself against it;</hi> (S, A, K;) as, for instance,
 a camel against the trunk of a palm-tree, (A,)
 or any tree, on account of the mange or an
-itching; (TA;) as also <foreign lang="ar">به</foreign> ↓ <orth type="arrow" lang="ar">امترس</orth>. (S, K.)
+itching; (TA;) as also <foreign lang="ar">امترس</foreign> ↓ <orth type="arrow" lang="ar">به</orth>. (S, K.)
 You say also, <foreign lang="ar">البَقَرَةُ تَمَرَّسُ بِالشَّجَرِ</foreign> <hi rend="ital">The cow rubs
 her horns against the trees to sharpen them.</hi> (A.
 [In my copy of the A, I find here <foreign lang="ar">تَمْرُسُ</foreign>; but
@@ -5566,7 +5568,7 @@ the affair:</hi> (S, A:) or <hi rend="ital">he did not exert himself
 to the full,</hi> or <hi rend="ital">to the utmost,</hi> or <hi rend="ital">beyond what is
 usual, in it:</hi> (IDrd:) or <hi rend="ital">he did it weakly,</hi> or
 <hi rend="ital">feebly,</hi> (K, * TA,) <hi rend="ital">not firmly</hi> or <hi rend="ital">soundly:</hi> (TA:)
-as also <foreign lang="ar">فِيهِ</foreign> ↓ <orth type="arrow" lang="ar">مارض</orth>. (TA.) [See also 5.] And
+as also <foreign lang="ar">مارض</foreign> ↓ <orth type="arrow" lang="ar">فِيهِ</orth>. (TA.) [See also 5.] And
 <foreign lang="ar">مرّض فُلَانٌ فِى حَاجَتِى</foreign> (tropical:)  <hi rend="ital">Such a one was deficient
 in activity in accomplishing my want.</hi> (TA.)
 And <foreign lang="ar">مرّض فِى كَلَامِهِ</foreign> (tropical:)  <hi rend="ital">He was weak in his
@@ -5739,7 +5741,7 @@ inf. n. is <foreign lang="ar">مَرْضٌ</foreign>, (Msb,) and ↓ <orth type=
 may be pl. of <foreign lang="ar">مَارِضٌ</foreign> (TA) [or of <foreign lang="ar">مَرِضٌ</foreign>]. Accord.
 to Lh, you say, <foreign lang="ar">عُدْ فُلَانٌ فَإِنَّهُ مَرِيضٌ</foreign> [<hi rend="ital">Visit thou
 such a one, for he is sick</hi>]: and <foreign lang="ar">لَا تَأْكُلْ هٰذَا</foreign>
-<foreign lang="ar">إِنْ أَكَلْتَهُ</foreign> ↓ <orth type="arrow" lang="ar">الطَّعَامَ فَإِنَّكَ مَارِضٌ</orth> meaning <foreign lang="ar">تَمْرَضُ</foreign>
+<foreign lang="ar">الطَّعَامَ فَإِنَّكَ مَارِضٌ</foreign> ↓ <orth type="arrow" lang="ar">إِنْ أَكَلْتَهُ</orth> meaning <foreign lang="ar">تَمْرَضُ</foreign>
 [i. e. <hi rend="ital">Eat not thou this food, for thou wilt be sick
 if thou eat it</hi>]. (TA.) [<foreign lang="ar">مَرِيضٌ</foreign> has also several
 tropical significations.] You say also, <foreign lang="ar">عَيْنٌ مَرِيضَةٌ</foreign>
@@ -5871,7 +5873,7 @@ measure <foreign lang="ar">إِفْتَعَلَ</foreign>, [originally <foreign 
 [originally <foreign lang="ar">إِنْمَرَطَ</foreign>,] quasi-pass. of <foreign lang="ar">مَرَطَهُ</foreign>. (TA.)
 [In like manner] you say also, <foreign lang="ar">تمرّطت أَوْبَارُ الإِبِلِ</foreign>
 <hi rend="ital">The fur of the camels became scattered.</hi> (TA.) And
-<foreign lang="ar">قُذَذُ السَّهْمِ</foreign> ↓ <orth type="arrow" lang="ar">إِمَّرَطَتْ</orth> <hi rend="ital">The feathers of the arrow
+<foreign lang="ar">إِمَّرَطَتْ</foreign> ↓ <orth type="arrow" lang="ar">قُذَذُ السَّهْمِ</orth> <hi rend="ital">The feathers of the arrow
 fell off.</hi> (TA, from a trad.) And <foreign lang="ar">تمرّط الذِّئْبُ</foreign>
 <hi rend="ital">The hair of the wolf fell off until little thereof
 remained upon him.</hi> (TA.) [See also <foreign lang="ar">مَرِطَ</foreign>.]
@@ -6225,11 +6227,11 @@ another thing. (TA.) See 6.
       <orth orig="" extent="full" lang="ar">مِزْجُ شَىْءٍ</orth></form>, and ↓ <orth type="arrow" lang="ar">مِزَاجُهُ</orth>, <hi rend="ital">What is mixed,</hi> or
 <hi rend="ital">mingled, with a thing; its admixture.</hi> (TA.)
 ― 
-       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">الشَّرَابِ</foreign> ↓ <orth type="arrow" lang="ar">مِزَاجُ</orth> <hi rend="ital">What is mixed with mine,</hi> or
-<hi rend="ital">a beverage.</hi> (S, K.) <foreign lang="ar">الخَمْرِ كَافُورٌ</foreign> ↓ <orth type="arrow" lang="ar">مِزَاجُ</orth> [see
+       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">مِزَاجُ</foreign> ↓ <orth type="arrow" lang="ar">الشَّرَابِ</orth> <hi rend="ital">What is mixed with mine,</hi> or
+<hi rend="ital">a beverage.</hi> (S, K.) <foreign lang="ar">مِزَاجُ</foreign> ↓ <orth type="arrow" lang="ar">الخَمْرِ كَافُورٌ</orth> [see
 Kur, lxxvi., 5,] <hi rend="ital">The odour,</hi> not the taste, of the
 <hi rend="ital">wine is</hi> [<hi rend="ital">like</hi>] <hi rend="ital">camphor.</hi> (TA.) ― 
-       <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">البَدَنِ</foreign> ↓ <orth type="arrow" lang="ar">مِزَاجُ</orth>
+       <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">مِزَاجُ</foreign> ↓ <orth type="arrow" lang="ar">البَدَنِ</orth>
 [<hi rend="ital">The constitution,</hi> or <hi rend="ital">temperament, of the body;</hi>]
 <hi rend="ital">the aggregate natural constituents</hi> (<foreign lang="ar">طَبَائِعُ</foreign>) <hi rend="ital">with
 which the body is composed;</hi> (S, K;) i. e. <hi rend="ital">the four
@@ -6500,11 +6502,11 @@ to the second objective complement. (Msb.) See
 to touch the thing:</hi> (S, * IJ, M, A: *) <hi rend="ital">he enabled
 him to touch it.</hi> (Mgh.) ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">أَمَسَّ الجَسَدَ مَآءً</foreign>,
-and <foreign lang="ar">الجَسَدَ بِمَآءٍ</foreign> ↓ <orth type="arrow" lang="ar">مَسَّ</orth>, (tropical:)  <hi rend="ital">He wetted the body
+and <foreign lang="ar">مَسَّ</foreign> ↓ <orth type="arrow" lang="ar">الجَسَدَ بِمَآءٍ</orth>, (tropical:)  <hi rend="ital">He wetted the body
 with water;</hi> or <hi rend="ital">caused water to wet the body.</hi>
 (Msb.) And <foreign lang="ar">أَمَسَّ وَجْهَهُ الطِّيبَ</foreign> (tropical:)  <hi rend="ital">He smeared
 his face with the perfume.</hi> (Mgh.) And <foreign lang="ar">أَمَسَّتْهُ</foreign>
-<foreign lang="ar">عَارِضَيْهَا</foreign>, and <foreign lang="ar">بِعَارِضَيْهَا</foreign> ↓ <orth type="arrow" lang="ar">مَسَّتْهُ</orth>, (tropical:)  <hi rend="ital">She smeared the
+<foreign lang="ar">عَارِضَيْهَا</foreign>, and <foreign lang="ar">مَسَّتْهُ</foreign> ↓ <orth type="arrow" lang="ar">بِعَارِضَيْهَا</orth>, (tropical:)  <hi rend="ital">She smeared the
 sides of her cheeks with it;</hi> namely, perfume.
 (Mgh.) ― 
        <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">أَمَسَّهُ شَكْوَى</foreign> (tropical:)  <hi rend="ital">He made a complaint
@@ -7128,7 +7130,7 @@ or <hi rend="ital">foul, ugly,</hi> or <hi rend="ital">unseemly;</hi> syn. <fore
        <milestone unit="sense" n="2"/>-b5-  <foreign lang="ar">أَمْسَحُ</foreign>, or
 <foreign lang="ar">أَمْسَحُ القَدَمِ</foreign>, A man <hi rend="ital">having a flat sole to his foot,
 without any hollow:</hi> (L:) fem. <foreign lang="ar">مَسْحَآءُ</foreign>: (L, K:)
-and ↓ <orth type="arrow" lang="ar">مَسِيحٌ</orth>, or <foreign lang="ar">القَدَمَيْنِ</foreign> ↓ <orth type="arrow" lang="ar">مَسِيحُ</orth>, signifies the
+and ↓ <orth type="arrow" lang="ar">مَسِيحٌ</orth>, or <foreign lang="ar">مَسِيحُ</foreign> ↓ <orth type="arrow" lang="ar">القَدَمَيْنِ</orth>, signifies the
 same: and also <hi rend="ital">having smooth and soft feet, without fissures</hi> or <hi rend="ital">chaps, so that they repel water when
 it falls upon them.</hi> (L.) ― 
        <milestone unit="sense" n="2"/>-b6-  Also <foreign lang="ar">مَسْحَآءُ</foreign>, (K,) or
@@ -7295,7 +7297,7 @@ Children of Israel were transformed into apes.
        <milestone unit="sense" n="2"/>-b2-  Also,
 the ↓ latter, <hi rend="ital">Deformed; rendered ugly in make,</hi> or
 <hi rend="ital">form.</hi> (K.) Hence, some say, the appellation
-of <foreign lang="ar">الدَّجَّالُ</foreign> ↓ <orth type="arrow" lang="ar">المَسِيخُ</orth> [more commonly <foreign lang="ar">المَسِيحُ</foreign>
+of <foreign lang="ar">المَسِيخُ</foreign> ↓ <orth type="arrow" lang="ar">الدَّجَّالُ</orth> [more commonly <foreign lang="ar">المَسِيحُ</foreign>
 <foreign lang="ar">الدّجّان</foreign>, q. v.]. (TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  Also, the same, (tropical:)  A
 man <hi rend="ital">having no beauty.</hi> (S, K.) ― 
@@ -7501,7 +7503,7 @@ of bones, (Mgh, K,) [i. e.] what are termed
 <foreign lang="ar">مُشَاش</foreign>, they being chewed; (Lth;) as also
 ↓ <orth type="arrow" lang="ar">تمشّشهُ</orth>, (Lth, A, K,) and ↓ <orth type="arrow" lang="ar">امتشّهُ</orth>, and ↓ <orth type="arrow" lang="ar">مَشْمَشَهُ</orth>,
 of which last the inf. n. is <foreign lang="ar">مَشْمَشَةٌ</foreign>: (TA:) and
-(TA) <foreign lang="ar">العَظْمَ</foreign> ↓ <orth type="arrow" lang="ar">تمشّش</orth> <hi rend="ital">he ate the</hi> <foreign lang="ar">مُشَاش</foreign> [q. v.] <hi rend="ital">of
+(TA) <foreign lang="ar">تمشّش</foreign> ↓ <orth type="arrow" lang="ar">العَظْمَ</orth> <hi rend="ital">he ate the</hi> <foreign lang="ar">مُشَاش</foreign> [q. v.] <hi rend="ital">of
 the bone:</hi> or <hi rend="ital">he sucked the whole of it;</hi> or <hi rend="ital">extracted its marrow;</hi> syn. <foreign lang="ar">تَمَكَّكَهُ</foreign>: (S, TA:) and
 ↓ <orth type="arrow" lang="ar">مشّشهُ</orth>, (TK,) inf. n. <foreign lang="ar">تَمْشِيشٌ</foreign>, (K,) <hi rend="ital">he extracted
 its marrow;</hi> (K, * TA;) as also ↓ <orth type="arrow" lang="ar">امتشّهُ</orth>. (TA.)
@@ -7510,14 +7512,14 @@ its marrow;</hi> (K, * TA;) as also ↓ <orth type="arrow" lang="ar">امتشّ�
 milked the she-camel leaving some of the milk in
 the udder:</hi> (S, K: *) and <foreign lang="ar">مَشٌّ</foreign> also signifies (assumed tropical:)  the
 <hi rend="ital">milking to the uttermost;</hi> and so ↓ <orth type="arrow" lang="ar">إِمْتِشَاشٌ</orth>:
-(TA:) you say, <foreign lang="ar">مَا فِى الضَّرْعِ</foreign> ↓ <orth type="arrow" lang="ar">امتشّ</orth> (assumed tropical:)  <hi rend="ital">he took,</hi>
+(TA:) you say, <foreign lang="ar">امتشّ</foreign> ↓ <orth type="arrow" lang="ar">مَا فِى الضَّرْعِ</orth> (assumed tropical:)  <hi rend="ital">he took,</hi>
 (K,) i. e. <hi rend="ital">milked,</hi> (TA,) <hi rend="ital">all that was in the udder.</hi>
 (K, TA, from Ibn-'Abbád.) ― 
        <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">هُوَ يَمُشُّ مَالَ فُلَانٍ</foreign>,
 (A, TA,) inf. n. as above, (K,) (tropical:)  <hi rend="ital">He takes the
 property of such a one, thing after thing;</hi> (A, K,
 TA;) as also <foreign lang="ar">يَمُشُّ مِنْ مَالِهِ</foreign>: (TA:) or the latter,
-(accord. to one copy of the S,) or <foreign lang="ar">من ماله</foreign> ↓ <orth type="arrow" lang="ar">يَمْتَشُّ</orth>,
+(accord. to one copy of the S,) or <foreign lang="ar">يَمْتَشُّ</foreign> ↓ <orth type="arrow" lang="ar">من ماله</orth>,
 (accord. to other copies of the S, and the TA,)
 <hi rend="ital">he obtains of his property.</hi> (S, TA.)
 
@@ -7889,7 +7891,7 @@ consideration: (MF:) or <hi rend="ital">i. q.</hi> <foreign lang="ar">رَشَف
 “ taking ” water “ with the lips; ” and is more
 than <foreign lang="ar">مَصٌّ</foreign>: (Msb, art. <foreign lang="ar">رشف</foreign>:) and ↓ <orth type="arrow" lang="ar">امتصّهُ</orth> signifies the same; (S, M, A, Msb, K;) and so
 ↓ <orth type="arrow" lang="ar">تمصّصهُ</orth>: (M, A:) or the last signifies <hi rend="ital">he did so
-leisurely.</hi> (S, K.) You say, <foreign lang="ar">الرُّمَّانَ</foreign> ↓ <orth type="arrow" lang="ar">امتصّ</orth>, i. e.
+leisurely.</hi> (S, K.) You say, <foreign lang="ar">امتصّ</foreign> ↓ <orth type="arrow" lang="ar">الرُّمَّانَ</orth>, i. e.
 <foreign lang="ar">مَصَّهُ</foreign> [<hi rend="ital">He sucked the pomegranate</hi>]; and so of
 other things. (TA.) And <foreign lang="ar">مَصَّ الجَارِيَةَ</foreign> <hi rend="ital">He
 sucked the damsel's saliva from her mouth.</hi> (IAar,
@@ -7965,7 +7967,7 @@ in my mouth.</hi> (A.) ―
 or <hi rend="ital">choice, part</hi> of anything; (S, K;) as also
 ↓ <orth type="arrow" lang="ar">مُصَامِصٌ</orth>: (K:) and (S) the <hi rend="ital">purest,</hi> or <hi rend="ital">choicest,</hi>
 (S, M,) of a thing; as also ↓ <orth type="arrow" lang="ar">مُصَاصَةٌ</orth> and
-↓ <orth type="arrow" lang="ar">مُصَامِصٌ</orth>. (M.) And <foreign lang="ar">المَالِ</foreign> ↓ <orth type="arrow" lang="ar">مُصَّةُ</orth> signifies
+↓ <orth type="arrow" lang="ar">مُصَامِصٌ</orth>. (M.) And <foreign lang="ar">مُصَّةُ</foreign> ↓ <orth type="arrow" lang="ar">المَالِ</orth> signifies
 the same as <foreign lang="ar">مُصَاصُهُ</foreign>, (K, TA,) i. e. <hi rend="ital">The pure,</hi> or
 <hi rend="ital">choice part of property,</hi> or <hi rend="ital">of the property.</hi>
 (TA.) You say, <foreign lang="ar">فُلَانٌ مُصَاصُ قَوْمِهِ</foreign>, (S, M,) and
@@ -8495,7 +8497,7 @@ water;</hi>] <hi rend="ital">he agitated water</hi> (S, Msb, K) <hi rend="ital">
 about</hi> (Msb) <hi rend="ital">in his mouth;</hi> (S, Msb, K;) <foreign lang="ar">لِلْوُضُوْءِ</foreign>
 <hi rend="ital">for the</hi> <foreign lang="ar">وضوء</foreign>, q. v.; (K;) as also ↓ <orth type="arrow" lang="ar">تَمَضْمَضَ</orth>
 <foreign lang="ar">للوضوء</foreign>, (K,) or <foreign lang="ar">فِى وُضُوْئِهِ</foreign> <hi rend="ital">in his</hi> <foreign lang="ar">وضوء</foreign>, (S,)
-or <foreign lang="ar">بِالْمَآءِ</foreign> ↓ <orth type="arrow" lang="ar">تمضمض</orth>. (Msb, TA.) [See also
+or <foreign lang="ar">تمضمض</foreign> ↓ <orth type="arrow" lang="ar">بِالْمَآءِ</orth>. (Msb, TA.) [See also
 <foreign lang="ar">مَصْمَصَ</foreign>.] ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">مَضْمَضَ</foreign>, (As, Lh,) inf. n. <foreign lang="ar">مَضْمَضَةٌ</foreign>,
 (K,) also signifies <hi rend="ital">He agitated</hi> a vessel [<hi rend="ital">so as to
@@ -8510,7 +8512,7 @@ sleep.</hi> (S, L.) And <foreign lang="ar">مَا مَضْمَضَتْ عَيْ�
 sleep.</hi> (L.) [The inf. n.] <foreign lang="ar">مِضْمَاضٌ</foreign> also signifies (tropical:)  The state of <hi rend="ital">sleeping.</hi> (TA.) And
 <foreign lang="ar">مَضْمَضَ</foreign> (tropical:)  <hi rend="ital">He slept a long sleep.</hi> (TA.) And
 <foreign lang="ar">مَضْمَضَ النُّعَاسُ فِى عَيْنِهِ</foreign> (tropical:)  <hi rend="ital">Drowsiness crept in his
-eye;</hi> (TA;) and [so] <foreign lang="ar">النُّعَاسُ فِى عَيْنِهِ</foreign> ↓ <orth type="arrow" lang="ar">تَمَضْمَضَ</orth>,
+eye;</hi> (TA;) and [so] <foreign lang="ar">تَمَضْمَضَ</foreign> ↓ <orth type="arrow" lang="ar">النُّعَاسُ فِى عَيْنِهِ</orth>,
 (S, TA,) or <foreign lang="ar">النَّوْمُ</foreign> <hi rend="ital">sleep.</hi> (A.) And ↓ <orth type="arrow" lang="ar">تَمَضْمَضَتِ</orth>
 <foreign lang="ar">العَيْنُ بِالنُّعَاسِ</foreign> (tropical:)  [<hi rend="ital">The eye became infused with
 drowsiness</hi>]. (TA.) ＝   
@@ -8987,11 +8989,11 @@ the CK, incorrectly, <foreign lang="ar">خَيْرٌ</foreign>,] and <foreign la
 did not betide him from him,</hi> or <hi rend="ital">it.</hi> (K, TA.)
 But ↓ <orth type="arrow" lang="ar">أَمْطَرَهُمُ ٱللّٰهُ</orth> is only said in relation to
 punishment: (K, TA:) as in the saying in the
-Kur, [xxvi. 173, and xxvii. 59,] <foreign lang="ar">عَلَيْهِمْ</foreign> ↓ <orth type="arrow" lang="ar">وَأَمْطَرْنَا</orth>
+Kur, [xxvi. 173, and xxvii. 59,] <foreign lang="ar">وَأَمْطَرْنَا</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْهِمْ</orth>
 <foreign lang="ar">مَطَرًا فَسَآءَ مَطَرُ ٱلْمُنْذَرِينَ</foreign> (tropical:)  [<hi rend="ital">And we rained upon
 them a rain, and evil was the rain of the
 warned</hi> people]: and again in the Kur, [xv. 74,]
-<foreign lang="ar">عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ</foreign> ↓ <orth type="arrow" lang="ar">وَأَمْطَرْنَا</orth> (tropical:)  [<hi rend="ital">And we
+<foreign lang="ar">وَأَمْطَرْنَا</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ</orth> (tropical:)  [<hi rend="ital">And we
 rained upon them stones of baked clay</hi>]: the
 stones being regarded as rain because of their
 descent from the sky: some, however, hold that
@@ -9005,11 +9007,11 @@ the pouring of rain:</hi> (A:) or <hi rend="ital">went quickly;</hi> or
 as above, (TA,) and so the inf. ns.: (K:) or
 this last signifies <hi rend="ital">the horse was quick in his
 passing,</hi> or <hi rend="ital">going,</hi> and <hi rend="ital">in his running;</hi> and so
-↓ <orth type="arrow" lang="ar">تمطّر</orth>. (TA.) You say also, <foreign lang="ar">بِهِ فَرَسُهُ</foreign> ↓ <orth type="arrow" lang="ar">تَمَطَّرَ</orth>
+↓ <orth type="arrow" lang="ar">تمطّر</orth>. (TA.) You say also, <foreign lang="ar">تَمَطَّرَ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ فَرَسُهُ</orth>
 (A, TA) (tropical:)  <hi rend="ital">His horse ran, and hastened,</hi> or <hi rend="ital">went
 quickly, with him.</hi> (TA.) And <foreign lang="ar">مَطَرَتِ الطَّيْرُ</foreign>,
 and ↓ <orth type="arrow" lang="ar">تمطّرت</orth>, (tropical:)  <hi rend="ital">The birds hastened,</hi> or <hi rend="ital">were
-quick, in their descent.</hi> (K.) And <foreign lang="ar">الخَيْلُ</foreign> ↓ <orth type="arrow" lang="ar">تمطّرت</orth>
+quick, in their descent.</hi> (K.) And <foreign lang="ar">تمطّرت</foreign> ↓ <orth type="arrow" lang="ar">الخَيْلُ</orth>
 (tropical:)  <hi rend="ital">The horses came,</hi> (K, TA,) and <hi rend="ital">went, quickly,</hi>
 (TA,) <hi rend="ital">outstripping one another.</hi> (K, TA.) ― 
        <milestone unit="sense" n="2"/>-b2- 
@@ -9385,7 +9387,7 @@ and ↓ <orth type="arrow" lang="ar">امتعدها</orth>, <hi rend="ital">He d
 bucket:</hi> or <hi rend="ital">drew,</hi> or <hi rend="ital">pulled, it out,</hi> or <hi rend="ital">forth,</hi> from
 the well. And <foreign lang="ar">مَعَدَ الرُّمْحَ</foreign> and ↓ <orth type="arrow" lang="ar">امتعدهُ</orth>, <hi rend="ital">He
 pulled forth the spear</hi> from the place where it was
-stuck in the ground. And <foreign lang="ar">سَيْفَهُ</foreign> ↓ <orth type="arrow" lang="ar">امتعد</orth> <hi rend="ital">He drew
+stuck in the ground. And <foreign lang="ar">امتعد</foreign> ↓ <orth type="arrow" lang="ar">سَيْفَهُ</orth> <hi rend="ital">He drew
 forth his sword</hi> from its scabbard. (L.) ― 
        <milestone unit="sense" n="2"/>-b3- 
 <foreign lang="ar">مَعَدَ بِهِ</foreign>, aor. 
@@ -9586,7 +9588,7 @@ it.</hi> (K.) See <foreign lang="ar">مَعَرَّةٌ</foreign> in art. <forei
 travelling-provisions failed</hi> or <hi rend="ital">became exhausted;</hi>
 as also ↓ <orth type="arrow" lang="ar">معّر</orth>, inf. n. <foreign lang="ar">تَمْعِيرٌ</foreign>. (K.) ― 
        <milestone unit="sense" n="2"/>-b4-  [Hence
-also,] <foreign lang="ar">الأَرْضُ</foreign> ↓ <orth type="arrow" lang="ar">أَمْعَرَتِ</orth> (tropical:)  <hi rend="ital">The land became destitute of herbage:</hi> or <hi rend="ital">its herbage became little,</hi> or
+also,] <foreign lang="ar">أَمْعَرَتِ</foreign> ↓ <orth type="arrow" lang="ar">الأَرْضُ</orth> (tropical:)  <hi rend="ital">The land became destitute of herbage:</hi> or <hi rend="ital">its herbage became little,</hi> or
 <hi rend="ital">scanty:</hi> (K:) <hi rend="ital">contr. of</hi> <foreign lang="ar">أَمْرَعَت</foreign>. (IKtt.)
 
   </entryFree>
@@ -11101,7 +11103,7 @@ the thing.</hi> (IAar, * AZ, S, K.)
     <form>
       <itype>4</itype> 
       <orth orig="" extent="full" lang="ar">املأ النَّزْعَ فِى قَوْسِهِ</orth></form>, (S,) and <foreign lang="ar">املأ فى قوسه</foreign>,
-and <foreign lang="ar">فى قوسه</foreign> ↓ <orth type="arrow" lang="ar">ملّأ</orth>, (K,) (tropical:)  <hi rend="ital">He pulled his bow to
+and <foreign lang="ar">ملّأ</foreign> ↓ <orth type="arrow" lang="ar">فى قوسه</orth>, (K,) (tropical:)  <hi rend="ital">He pulled his bow to
 the utmost.</hi> (S, K, TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">املأهُ اللّٰهُ</foreign>, (S, K,)
 inf. n. <foreign lang="ar">إِمْلَاءٌ</foreign>, (TA,) (assumed tropical:)  <hi rend="ital">God affected him with the
@@ -11306,7 +11308,7 @@ was also used, accord. to a tradition. (TA.) ―
        <milestone unit="sense" n="2"/>-b2- 
 <foreign lang="ar">مُلَآءَةُ الحُسْنِ</foreign> (tropical:)  <hi rend="ital">Fairness of complexion.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b3- 
-<foreign lang="ar">المَحْضُ</foreign> ↓ <orth type="arrow" lang="ar">المُلَآءُ</orth> (tropical:)  <hi rend="ital">Simple dust.</hi> (TA.) ― 
+<foreign lang="ar">المُلَآءُ</foreign> ↓ <orth type="arrow" lang="ar">المَحْضُ</orth> (tropical:)  <hi rend="ital">Simple dust.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b4-  Also
 <foreign lang="ar">مُلَآءَةٌ</foreign> The <hi rend="ital">skim that forms on the surface of milk.</hi>
 (El-Moajam.)
@@ -11471,7 +11473,7 @@ sunset:</hi> when it has become intense, and the last
 <foreign lang="ar">عِشَآء</foreign> has come, it is called <foreign lang="ar">مَلَس</foreign>. (IAar.) ― 
        <milestone unit="sense" n="2"/>-b2- 
 <pb n="2731"/>
-<foreign lang="ar">الظَّلَامِ</foreign> ↓ <orth type="arrow" lang="ar">أَتَيْتُهُ مَلَثَ</orth>, (S, K,) and <foreign lang="ar">مَلْثَ الظلام</foreign>,
+<foreign lang="ar">أَتَيْتُهُ مَلَثَ</foreign> ↓ <orth type="arrow" lang="ar">الظَّلَامِ</orth>, (S, K,) and <foreign lang="ar">مَلْثَ الظلام</foreign>,
 (K,) and <foreign lang="ar">عِنْدَ ملثِهِ</foreign>, (TA,) <hi rend="ital">I came to him at the
 period when the darkness became confused,</hi> (S, K,)
 <hi rend="ital">and had not yet become very intense,</hi> [<hi rend="ital">as it has</hi>]
@@ -12225,7 +12227,7 @@ salt is put.</hi> (S, A.)
 (K.) You should not say <foreign lang="ar">مَالِحٌ</foreign>. As to the
 saying of 'Odháfir,
 <quote><L><foreign lang="ar">بَصْرِيَّةٌ تَزَوَّجَتْ بَصْرِيَّا</foreign></L>
-<L><foreign lang="ar">والطَّرِيَّا</foreign> ↓ <orth type="arrow" lang="ar">يُطْعِمُهَا المَالِحَ</orth></L>
+<L><foreign lang="ar">يُطْعِمُهَا المَالِحَ</foreign> ↓ <orth type="arrow" lang="ar">والطَّرِيَّا</orth></L>
 </quote>
 [<hi rend="ital">A woman of El-Basrah who married a man of
 El-Basrah: he fed her with salted and fresh</hi>], it
@@ -12347,7 +12349,7 @@ so used in the present day. See <foreign lang="ar">خُبَّازٌ</foreign>.]
     <form>
       <orth orig="" extent="full" lang="ar">مُمْتَلَخُ العَقْلِ</orth></form> (tropical:)  A man <hi rend="ital">deprived,</hi> or <hi rend="ital">despoiled of
 his reason.</hi> (S, TA.) ― 
-       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">الصُّلْبِ</foreign> ↓ <orth type="arrow" lang="ar">مُتَمَلِّخِ</orth> A man
+       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">مُتَمَلِّخِ</foreign> ↓ <orth type="arrow" lang="ar">الصُّلْبِ</orth> A man
 <hi rend="ital">weakened,</hi> or <hi rend="ital">enervated, in the back-bone,</hi> or <hi rend="ital">back;</hi>
 (K;) as though it were pulled asunder. (TA.)
 
@@ -12669,7 +12671,7 @@ is <hi rend="ital">when the blackness has become intense, so that
 the time of the last</hi> <foreign lang="ar">عِشَآء</foreign> <hi rend="ital">comes;</hi> then the <foreign lang="ar">ملس</foreign>
 becomes confounded with the <foreign lang="ar">ملث</foreign>, and the one
 is not distinguished from the other. (IAar.)
-You say, <foreign lang="ar">الظَّلَامِ</foreign> ↓ <orth type="arrow" lang="ar">أَتَيْتُهُ مَلَسَ</orth>, (S, M,) or <foreign lang="ar">مَلْسَ الظلام</foreign>,
+You say, <foreign lang="ar">أَتَيْتُهُ مَلَسَ</foreign> ↓ <orth type="arrow" lang="ar">الظَّلَامِ</orth>, (S, M,) or <foreign lang="ar">مَلْسَ الظلام</foreign>,
 (TA,) <hi rend="ital">I came to him when the darkness had become confused;</hi> (S, TA;) <hi rend="ital">when the night had
 become confused with the earth.</hi> (TA.) The
 word is used adverbially and otherwise. (M.)
@@ -12884,7 +12886,7 @@ safe</hi> or <hi rend="ital">secure</hi> or <hi rend="ital">free,</hi> or <hi re
 from one's hand. (TA.) You say, <foreign lang="ar">مَلِصَتِ السَّمَكَةُ</foreign>
 <foreign lang="ar">مِنْ يَدِى</foreign> and ↓ <orth type="arrow" lang="ar">انملصت</orth> <hi rend="ital">The fish escaped and
 slipped from my hand.</hi> (A, TA.) And <foreign lang="ar">مَا كِدْتُ</foreign>
-<foreign lang="ar">مِنْ فُلَانٍ</foreign> ↓ <orth type="arrow" lang="ar">أَتَمَلَّصُ</orth> <hi rend="ital">I hardly escaped,</hi> or <hi rend="ital">became
+<foreign lang="ar">أَتَمَلَّصُ</foreign> ↓ <orth type="arrow" lang="ar">مِنْ فُلَانٍ</orth> <hi rend="ital">I hardly escaped,</hi> or <hi rend="ital">became
 secure, from such a one.</hi> (S, A. *) ― 
        <milestone unit="sense" n="2"/>-b2-  <hi rend="ital">He went
 back,</hi> or <hi rend="ital">retreated, fleeing;</hi> as also <foreign lang="ar">مَلِزَ</foreign>, inf. n.
@@ -13018,7 +13020,7 @@ See also 4.
       <orth orig="" extent="full" lang="ar">أَمْلَطَتْ</orth></form>, (S,) or <foreign lang="ar">املطت جَنِينَهَا</foreign>, (K.) <hi rend="ital">She</hi>
 (a camel) <hi rend="ital">cast her fœtus</hi> (S, K) <hi rend="ital">before it had
 hair growing upon it;</hi> (S;) <hi rend="ital">without any hair
-upon it:</hi> (K:) [like <foreign lang="ar">أَمْرَطَتْهُ</foreign>] and <foreign lang="ar">أُمُّهُ</foreign> ↓ <orth type="arrow" lang="ar">مَلَطَتْهُ</orth>,
+upon it:</hi> (K:) [like <foreign lang="ar">أَمْرَطَتْهُ</foreign>] and <foreign lang="ar">مَلَطَتْهُ</foreign> ↓ <orth type="arrow" lang="ar">أُمُّهُ</orth>,
 (K,) aor. 
     <form n="infl">
       <orth orig="Bu" lang="ar">مَلُطَ</orth></form>, (TA,) <hi rend="ital">she brought it forth in an
@@ -13646,14 +13648,14 @@ in his absence;</hi> like <foreign lang="ar">فَهَدَ</foreign> and <foreign
        <milestone unit="sense" n="2"/>-b4-  <foreign lang="ar">مَهَدَ لِنَفْسِهِ خَيْرًا</foreign>,
 and ↓ <orth type="arrow" lang="ar">امتهدهُ</orth>, (tropical:)  <hi rend="ital">He prepared for himself good, good
 things,</hi> or <hi rend="ital">the like.</hi> (L.) ― 
-       <milestone unit="sense" n="2"/>-b5-  <foreign lang="ar">لَهُ مَنْزِلَةً سَنِيَّةً</foreign> ↓ <orth type="arrow" lang="ar">مهّد</orth>
+       <milestone unit="sense" n="2"/>-b5-  <foreign lang="ar">مهّد</foreign> ↓ <orth type="arrow" lang="ar">لَهُ مَنْزِلَةً سَنِيَّةً</orth>
 (tropical:)  [<hi rend="ital">He prepared,</hi> or <hi rend="ital">established, for him a high
 station</hi>]. (A.) ― 
-       <milestone unit="sense" n="2"/>-b6-  <foreign lang="ar">فُلَانٌ عِنْدِى يَدًا</foreign> ↓ <orth type="arrow" lang="ar">مَا ٱمْتَهَدَ</orth>
+       <milestone unit="sense" n="2"/>-b6-  <foreign lang="ar">مَا ٱمْتَهَدَ</foreign> ↓ <orth type="arrow" lang="ar">فُلَانٌ عِنْدِى يَدًا</orth>
 (tropical:)  [<hi rend="ital">Such a one has not prepared for himself, with
 me, a benefit, for me to owe it him</hi>]: you say this
 when one has not conferred upon you a favour or
-kindness. (AZ, L.) And <foreign lang="ar">فُلَانٌ عِنْدِى</foreign> ↓ <orth type="arrow" lang="ar">مَا ٱمْتَهَدَ</orth>
+kindness. (AZ, L.) And <foreign lang="ar">مَا ٱمْتَهَدَ</foreign> ↓ <orth type="arrow" lang="ar">فُلَانٌ عِنْدِى</orth>
 <foreign lang="ar">مَهْدَ ذَاكَ</foreign> (tropical:)  [<hi rend="ital">Such a one has not prepared for himself, with me, that thing, that I should owe it him</hi>];
 is said on one's asking a kindness without having
 previously conferred a benefit; (AZ, JK, L;)
@@ -13804,8 +13806,8 @@ Mgh;) or <hi rend="ital">he married her to another man for a
 certain</hi> <foreign lang="ar">مَهْر</foreign>; (Msb, K;) or <hi rend="ital">he sent for her a</hi> <foreign lang="ar">مَهْر</foreign>.
 (TA.) ＝   
     <milestone unit="sense" n="1"/>-A2-  <foreign lang="ar">مَهَرَ الشَّىْءَ</foreign>, (S, K,) and <foreign lang="ar">فِيهِ</foreign>, and <foreign lang="ar">بِهِ</foreign> (K,)
-and <foreign lang="ar">فِيهِ</foreign> ↓ <orth type="arrow" lang="ar">تمهّر</orth>, (K, * TA,) and <foreign lang="ar">مَهَرَ صِنَاعَتَهُ</foreign>, (A,)
-and <foreign lang="ar">فِيهَا</foreign>, (Mgh, Msb,) and <foreign lang="ar">بِهَا</foreign>, and <foreign lang="ar">فِيهَا</foreign> ↓ <orth type="arrow" lang="ar">تمهّر</orth>,
+and <foreign lang="ar">تمهّر</foreign> ↓ <orth type="arrow" lang="ar">فِيهِ</orth>, (K, * TA,) and <foreign lang="ar">مَهَرَ صِنَاعَتَهُ</foreign>, (A,)
+and <foreign lang="ar">فِيهَا</foreign>, (Mgh, Msb,) and <foreign lang="ar">بِهَا</foreign>, and <foreign lang="ar">تمهّر</foreign> ↓ <orth type="arrow" lang="ar">فِيهَا</orth>,
 (A,) and <foreign lang="ar">مَهَرَ فِى العِلْمِ وَغَيْرِهِ</foreign>, (Msb,) aor. 
     <form n="infl">
       <orth orig="Ba" lang="ar">مَهَرَ</orth></form>, (Msb,
@@ -15552,10 +15554,10 @@ or <hi rend="ital">he brought to them</hi> <foreign lang="ar">مِيرَة</fore
 [accord. to whom, as I find in the TA, the aor.
 is <foreign lang="ar">يَمُورُ</foreign>, but this I suppose to be a mistranscription,] T, Mgh, Msb:) or <hi rend="ital">he gave them</hi>
 <foreign lang="ar">مِيرَة</foreign>: (TA:) and ↓ <orth type="arrow" lang="ar">أَمَارَهُمْ</orth> signifies the same as
-<foreign lang="ar">مَارَهُمْ</foreign>; (K;) and so <foreign lang="ar">لَهُمْ</foreign> ↓ <orth type="arrow" lang="ar">امتار</orth>: (S, * M, K:)
+<foreign lang="ar">مَارَهُمْ</foreign>; (K;) and so <foreign lang="ar">امتار</foreign> ↓ <orth type="arrow" lang="ar">لَهُمْ</orth>: (S, * M, K:)
 or you say, <foreign lang="ar">هُمْ يَمْتَارُونَ لِأَنْفُسِهِمْ</foreign> <hi rend="ital">they bring,</hi> or
 <hi rend="ital">convey,</hi> or <hi rend="ital">purvey,</hi> <foreign lang="ar">طعام</foreign> <hi rend="ital">for themselves;</hi> (T;)
-and <foreign lang="ar">لِنَفْسِهِ</foreign> ↓ <orth type="arrow" lang="ar">امتار</orth>, (A,) or <foreign lang="ar">المِيرَةَ لِنَفْسِهِ</foreign> ↓ <orth type="arrow" lang="ar">امتار</orth>,
+and <foreign lang="ar">امتار</foreign> ↓ <orth type="arrow" lang="ar">لِنَفْسِهِ</orth>, (A,) or <foreign lang="ar">امتار</foreign> ↓ <orth type="arrow" lang="ar">المِيرَةَ لِنَفْسِهِ</orth>,
 (Mgh, Msb,) <hi rend="ital">he brought,</hi> (A, Mgh, Msb,) or
 <hi rend="ital">conveyed,</hi> or <hi rend="ital">purveyed,</hi> (A,) <foreign lang="ar">طعام</foreign> <hi rend="ital">for himself.</hi>
 (A, Mgh, Msb.) See <foreign lang="ar">مِيرَةٌ</foreign>.
@@ -15692,14 +15694,14 @@ TA,) or <foreign lang="ar">عَنْ بَعْضٍ</foreign>: (as in a copy of the
 expl. in the K as signifying <foreign lang="ar">فَضَّلَ بَعْضَهُ عَلَى بَعْضٍ</foreign>
 [he judged, or made, part of the thing to excel,
 or to have excelled, another]; but the explanation
-in the M is the right. (TA.) And <foreign lang="ar">الأَشْيَآءَ</foreign> ↓ <orth type="arrow" lang="ar">ميّز</orth>
+in the M is the right. (TA.) And <foreign lang="ar">ميّز</foreign> ↓ <orth type="arrow" lang="ar">الأَشْيَآءَ</orth>
 <hi rend="ital">He separated the things after knowledge of them.</hi>
 (Msb.) ― 
        <milestone unit="sense" n="2"/>-b2-  [Hence, <hi rend="ital">He distinguished it,</hi> or <hi rend="ital">discriminated it,</hi> or <hi rend="ital">discerned it.</hi> And <foreign lang="ar">مَازَ بَيْنَ</foreign>
-<foreign lang="ar">الأَشْيَآءِ</foreign>, and <foreign lang="ar">بَيْنَهَا</foreign> ↓ <orth type="arrow" lang="ar">مَيَّزَ</orth>, <hi rend="ital">He distinguished,</hi> or <hi rend="ital">discriminated,</hi> or <hi rend="ital">discerned, between the things.</hi>
+<foreign lang="ar">الأَشْيَآءِ</foreign>, and <foreign lang="ar">مَيَّزَ</foreign> ↓ <orth type="arrow" lang="ar">بَيْنَهَا</orth>, <hi rend="ital">He distinguished,</hi> or <hi rend="ital">discriminated,</hi> or <hi rend="ital">discerned, between the things.</hi>
 This is what is meant by its being said,] <foreign lang="ar">المَيْزُ</foreign>
 also signifies <foreign lang="ar">التَّمْيِيزُ بَيْنَ الأَشْيَآءِ</foreign>. (TA.) You say
-also, <foreign lang="ar">بَيْنَهُمَا</foreign> ↓ <orth type="arrow" lang="ar">مَايَزْتُ</orth> [<hi rend="ital">I distinguished,</hi> or <hi rend="ital">discriminated,</hi> or <hi rend="ital">discerned, between them two</hi>]. (A.)
+also, <foreign lang="ar">مَايَزْتُ</foreign> ↓ <orth type="arrow" lang="ar">بَيْنَهُمَا</orth> [<hi rend="ital">I distinguished,</hi> or <hi rend="ital">discriminated,</hi> or <hi rend="ital">discerned, between them two</hi>]. (A.)
 From <foreign lang="ar">ميّز الاشيآء</foreign>, meaning as explained above,
 is [also], app., derived the phrase <foreign lang="ar">سِنُّ التَّمْيِيزِ</foreign>, used
 by the doctors of practical law, as signifying,
@@ -15771,10 +15773,10 @@ syn.; but in the phrase <foreign lang="ar">مِزْتُهُ فَلَمْ يَم�
 signifying <hi rend="ital">I put it,</hi> or <hi rend="ital">set it, apart,</hi> &amp;c., <hi rend="ital">but it
 did not remain so</hi>] Lh allows the verbs to be
 only in these two forms: (TA:) [though ↓ <orth type="arrow" lang="ar">انماز</orth>
-is used in other cases; for] you say <foreign lang="ar">عَنْ</foreign> ↓ <orth type="arrow" lang="ar">انماز</orth>
+is used in other cases; for] you say <foreign lang="ar">انماز</foreign> ↓ <orth type="arrow" lang="ar">عَنْ</orth>
 <foreign lang="ar">مُصَلَّاهُ</foreign> <hi rend="ital">He shifted from his place of prayer;</hi> or
 <hi rend="ital">quitted it for another.</hi> (TA.) [See also 1, last
-signification.] You say also, <foreign lang="ar">امتار القَوْمُ</foreign>, meaning, <foreign lang="ar">بَعْضُهُمْ مِنْ بَعْضٍ</foreign> ↓ <orth type="arrow" lang="ar">تميّز</orth> [<hi rend="ital">The people were,</hi>
+signification.] You say also, <foreign lang="ar">امتار القَوْمُ</foreign>, meaning, <foreign lang="ar">تميّز</foreign> ↓ <orth type="arrow" lang="ar">بَعْضُهُمْ مِنْ بَعْضٍ</orth> [<hi rend="ital">The people were,</hi>
 or <hi rend="ital">became, put,</hi> or <hi rend="ital">set, apart,</hi> &amp;c., <hi rend="ital">one from
 another</hi>]: (S, TA:) and, as also ↓ <orth type="arrow" lang="ar">تميّزوا</orth>, <hi rend="ital">they
 became on one side:</hi> or <hi rend="ital">they became alone,</hi> or
@@ -15789,9 +15791,9 @@ said to signify <foreign lang="ar">التَّحَزُّبُ وَالتَّنَا
 the other forms mentioned above, in the first
 sentence of the paragraph, as syn. with it, also
 signify <hi rend="ital">It was,</hi> or <hi rend="ital">became, distinguished,</hi> or <hi rend="ital">discriminated,</hi> or <hi rend="ital">discerned:</hi> in which sense, ↓ <orth type="arrow" lang="ar">تميّز</orth>
-is the most common. You say also, <foreign lang="ar">فُلَانٌ</foreign> ↓ <orth type="arrow" lang="ar">تميّز</orth>
+is the most common. You say also, <foreign lang="ar">تميّز</foreign> ↓ <orth type="arrow" lang="ar">فُلَانٌ</orth>
 <foreign lang="ar">بِٱلْكَرَمِ</foreign> <hi rend="ital">Such a one was,</hi> or <hi rend="ital">became, distinguished
-by generosity.</hi> And <foreign lang="ar">الأَشْيَآءُ</foreign> ↓ <orth type="arrow" lang="ar">تَمَايَزَتِ</orth> and ↓ <orth type="arrow" lang="ar">تُمَيَّزَت</orth>
+by generosity.</hi> And <foreign lang="ar">تَمَايَزَتِ</foreign> ↓ <orth type="arrow" lang="ar">الأَشْيَآءُ</orth> and ↓ <orth type="arrow" lang="ar">تُمَيَّزَت</orth>
 <hi rend="ital">The things were,</hi> or <hi rend="ital">became, distinguished, or discriminated, one from another;</hi> or <hi rend="ital">distinct.</hi>]
 
   </entryFree>
@@ -15983,13 +15985,13 @@ latter only, accord. to As; (S, * Msb, TA;) <hi rend="ital">He
 removed, put away,</hi> or <hi rend="ital">put at a distance,</hi> (A 'Obeyd,
 S, Msb, K,) him, or it; (A 'Obeyd, S, Msb;)
 and <foreign lang="ar">مَاطَ بِهِ</foreign> signifies the same as <foreign lang="ar">اماطهُ</foreign>; (Msb;)
-and some say <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">مَيَّطْتُ</orth> [if this be not a mistranscription for <foreign lang="ar">مِطْتُ به</foreign>] in the sense of <foreign lang="ar">أَمَطْتُهُ</foreign>.
-(TA.) You say, <foreign lang="ar">الأَذَى عَنِ الطَّرِيقِ</foreign> ↓ <orth type="arrow" lang="ar">أَمَاطَ</orth>, (Mgh,
+and some say <foreign lang="ar">مَيَّطْتُ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth> [if this be not a mistranscription for <foreign lang="ar">مِطْتُ به</foreign>] in the sense of <foreign lang="ar">أَمَطْتُهُ</foreign>.
+(TA.) You say, <foreign lang="ar">أَمَاطَ</foreign> ↓ <orth type="arrow" lang="ar">الأَذَى عَنِ الطَّرِيقِ</orth>, (Mgh,
 TA,) inf. n. <foreign lang="ar">إِمَاطَةٌ</foreign>, (S, Msb,) <hi rend="ital">He removed,</hi> or <hi rend="ital">put
 away,</hi> or <hi rend="ital">put at a distance, what was hurtful
 from the road,</hi> or <hi rend="ital">way;</hi> (S, Mgh, Msb, TA;)
 and [some say] <foreign lang="ar">مَاطَهُ</foreign>, inf. n. <foreign lang="ar">مَيْطٌ</foreign>. (TA.) And
-it is said in a trad., <foreign lang="ar">عَنَّا يَدَكَ</foreign> ↓ <orth type="arrow" lang="ar">أَمِطْ</orth> <hi rend="ital">Remove thou
+it is said in a trad., <foreign lang="ar">أَمِطْ</foreign> ↓ <orth type="arrow" lang="ar">عَنَّا يَدَكَ</orth> <hi rend="ital">Remove thou
 from us thy hand.</hi> (TA.) And <foreign lang="ar">مَاطَ بِهِ</foreign> and
 ↓ <orth type="arrow" lang="ar">اماطهُ</orth> signify <hi rend="ital">He took away him,</hi> or <hi rend="ital">it;</hi> syn.
 <foreign lang="ar">ذَهَبَ بِهِ</foreign> and <foreign lang="ar">أَذْهَبَهُ</foreign>. (TA.) ― 

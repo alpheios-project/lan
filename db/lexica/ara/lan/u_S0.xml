@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2><text><body><div1 part="N" n="S" org="uniform" sample="complete" type="alphabetical letter">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tei.css"?>
+<TEI.2><text><body><div1 part="N" n="S" org="uniform" sample="complete" type="alphabetical letter">
 <head lang="ar">ص</head>
 
  <div2 part="N" n="S" org="uniform" sample="complete" type="alphabetical letter">
@@ -89,7 +91,7 @@ that one should not say <foreign lang="ar">صِئْبَانٌ</foreign>. (M, TA.
 ↓ <orth type="arrow" lang="ar">صُؤَابٌ</orth> is also sometimes applied to (assumed tropical:)  The <hi rend="ital">small
 pieces of gold that are taken forth from the dust,</hi>
 or <hi rend="ital">earth, of the mine.</hi> (IDrst, TA.) In the following verse, cited by IAar,
-<quote><L><foreign lang="ar">حَيَّا</foreign> ↓ <orth type="arrow" lang="ar">يَا رَبِّ أَوْجِدْنِى صُؤَابًا</orth></L>
+<quote><L><foreign lang="ar">يَا رَبِّ أَوْجِدْنِى صُؤَابًا</foreign> ↓ <orth type="arrow" lang="ar">حَيَّا</orth></L>
 <L><foreign lang="ar">فَمَا أَرَى الطَّيَّارَ يُغْنِى شَيَّا</foreign></L>
 </quote>
 the poet means, [<hi rend="ital">O my Lord,</hi>] <hi rend="ital">cause me to find
@@ -241,7 +243,7 @@ poured out for such a one water into the drinkingcup that he might drink it</hi>
 ― 
        <milestone unit="sense" n="2"/>-b2-  Hence [(assumed tropical:)  <hi rend="ital">He paid down</hi> a price, or sum of
 money:] it is said in a trad., <foreign lang="ar">إِنْ أَحَبَّ أَهْلُكَ أَنْ</foreign>
-<foreign lang="ar">وَاحِدَةً</foreign> ↓ <orth type="arrow" lang="ar">أَصَبَّ لَهُمْ ثَمَنَكَ صُبَّةً</orth>, meaning [(assumed tropical:)  <hi rend="ital">If thy
+<foreign lang="ar">أَصَبَّ لَهُمْ ثَمَنَكَ صُبَّةً</foreign> ↓ <orth type="arrow" lang="ar">وَاحِدَةً</orth>, meaning [(assumed tropical:)  <hi rend="ital">If thy
 family like that I should pay down to them thy
 price</hi>] <hi rend="ital">at once,</hi> or <hi rend="ital">at one time.</hi> (L, TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  And
@@ -279,7 +281,7 @@ See also 7, with which it is syn. in the first of the
 senses assigned to the latter below. ― 
        <milestone unit="sense" n="2"/>-b2-  [Hence,
 app.,] <foreign lang="ar">صَبَّ فِى الوَادِى</foreign> (assumed tropical:)  <hi rend="ital">He descended into the
-valley.</hi> (M, K.) And <foreign lang="ar">قَدَمَاهُ فِى بَطْنِ</foreign> ↓ <orth type="arrow" lang="ar">اِنْصَبَّتْ</orth>
+valley.</hi> (M, K.) And <foreign lang="ar">اِنْصَبَّتْ</foreign> ↓ <orth type="arrow" lang="ar">قَدَمَاهُ فِى بَطْنِ</orth>
 <foreign lang="ar">الوَادِى</foreign>, occurring in a trad., means (assumed tropical:)  <hi rend="ital">His feet
 descended</hi> [<hi rend="ital">into the interior,</hi> or <hi rend="ital">bottom, of the
 valley</hi>]: (TA:) or <foreign lang="ar">انْصَبَّتْ قَدَمَاهُ فِى الوَادِى</foreign>
@@ -289,7 +291,7 @@ said of water. (Mgh.) ―
 <foreign lang="ar">المَلْدُوغِ</foreign>, (S, * TA,) or ↓ <orth type="arrow" lang="ar">انصبّت</orth>, (A,) (tropical:)  [<hi rend="ital">The serpent darted down upon the</hi> person <hi rend="ital">bitten</hi> by it],
 said of the serpent when it has raised itself
 desiring to bite. (Ez-Zuhree, S, TA. *) And
-<foreign lang="ar">البَازِى عَلَى الصَّيْدِ</foreign> ↓ <orth type="arrow" lang="ar">انصبّ</orth> (tropical:)  [<hi rend="ital">The hawk,</hi> or <hi rend="ital">falcon,
+<foreign lang="ar">انصبّ</foreign> ↓ <orth type="arrow" lang="ar">البَازِى عَلَى الصَّيْدِ</orth> (tropical:)  [<hi rend="ital">The hawk,</hi> or <hi rend="ital">falcon,
 stooped upon the prey,</hi> or <hi rend="ital">quarry</hi>]. (A, TA.)
 And <foreign lang="ar">صَبَّ ذُؤَالَةُ عَلَى غَنَمِ فُلَانٍ</foreign> (A, * TA) (tropical:)  <hi rend="ital">The
 wolf</hi> [<hi rend="ital">rushed upon</hi> or] <hi rend="ital">made havock among the
@@ -309,7 +311,7 @@ or <hi rend="ital">for, her.</hi> (MA.) ―
        <milestone unit="sense" n="2"/>-b2-  Lh mentions, among what
 is said by the women of the Arabs of the desert
 on the occasion of fascinating by means of charms,
-<foreign lang="ar">فَٱصْبَبْ إِلَيْهِ</foreign> ↓ <orth type="arrow" lang="ar">صَبٌّ</orth>, i. e. <foreign lang="ar">أَرِقٌ فَأْرَقْ إِلَيْهِ</foreign> [as though
+<foreign lang="ar">صَبٌّ</foreign> ↓ <orth type="arrow" lang="ar">فَٱصْبَبْ إِلَيْهِ</orth>, i. e. <foreign lang="ar">أَرِقٌ فَأْرَقْ إِلَيْهِ</foreign> [as though
 meaning May he be <hi rend="ital">sleepless</hi> by reason of love,
 <hi rend="ital">and I will be sleepless for him:</hi> but I incline to
 think that the explanation has been corrupted by
@@ -374,10 +376,10 @@ quasi-pass. of a verb of the form <foreign lang="ar">فَعَّلَ</foreign>; (
 TA;) [but this app. denotes its doing so <hi rend="ital">repeatedly;</hi>
 and <hi rend="ital">abundantly,</hi> like <foreign lang="ar">تَدَفَّقَ</foreign>, q. v.;] and ↓ <orth type="arrow" lang="ar">اصطبّ</orth>.
 (K.) One says, <foreign lang="ar">المَآءُ يَنْصَبُّ مِنَ الجَبَلِ</foreign>, (TA,)
-and <foreign lang="ar">من الجبل</foreign> ↓ <orth type="arrow" lang="ar">يَتَصَبَّبُ</orth>, (S, TA,) <hi rend="ital">The water
+and <foreign lang="ar">يَتَصَبَّبُ</foreign> ↓ <orth type="arrow" lang="ar">من الجبل</orth>, (S, TA,) <hi rend="ital">The water
 descends, little by little, from the mountain.</hi> (S,
-TA.) And <foreign lang="ar">العَرَقُ</foreign> ↓ <orth type="arrow" lang="ar">تصبّب</orth> [<hi rend="ital">The sweat flowed</hi>],
-and <foreign lang="ar">الدَّمُ</foreign> [<hi rend="ital">the blood</hi>]. (A.) And <foreign lang="ar">عَرَقًا</foreign> ↓ <orth type="arrow" lang="ar">تَصَبَّبْتُ</orth>
+TA.) And <foreign lang="ar">تصبّب</foreign> ↓ <orth type="arrow" lang="ar">العَرَقُ</orth> [<hi rend="ital">The sweat flowed</hi>],
+and <foreign lang="ar">الدَّمُ</foreign> [<hi rend="ital">the blood</hi>]. (A.) And <foreign lang="ar">تَصَبَّبْتُ</foreign> ↓ <orth type="arrow" lang="ar">عَرَقًا</orth>
 [which may be rendered <hi rend="ital">I flowed with sweat</hi>] is
 a phrase of the Arabs, meaning <foreign lang="ar">تصبّب عَرَقِى</foreign> [<hi rend="ital">my
 sweat flowed</hi>]: thus the act is literally ascribed to
@@ -480,7 +482,7 @@ a hundred,</hi>] <hi rend="ital">and less</hi> than that, i. e. <foreign lang="a
 (TA,) <hi rend="ital">contr. of</hi> <foreign lang="ar">فَصَاعِدًا</foreign>; (A;) or <hi rend="ital">and more</hi> [than
 that], or <hi rend="ital">above</hi> [that], i. e. <hi rend="ital">like</hi> <foreign lang="ar">فَصَاعِدًا</foreign>, (A, TA,)
 i. e. <foreign lang="ar">مَا فَوْقَ ذٰلِكَ</foreign>. (TA.) ― 
-       <milestone unit="sense" n="2"/>-b4-  And <foreign lang="ar">عَلَيْهِ البَلَآءُ</foreign> ↓ <orth type="arrow" lang="ar">صُبَّ</orth>,
+       <milestone unit="sense" n="2"/>-b4-  And <foreign lang="ar">صُبَّ</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْهِ البَلَآءُ</orth>,
 <foreign lang="ar">مِنْ صَبٍّ</foreign>, meaning (tropical:)  [<hi rend="ital">Trial,</hi> or <hi rend="ital">affliction, was
 poured upon him</hi>] <hi rend="ital">from above.</hi> (A, TA.) ＝   
     <milestone unit="sense" n="1"/>-A2-  Also,
@@ -707,7 +709,7 @@ prov., applied to him who makes use of that
 which is bestowed though it be not much. (Meyd,
 TA. *) In the following verse, cited by IAar,
 <quote><L><foreign lang="ar">وَلَيْلٍ هَدَيْتُ بِهِ فِتْيَةً</foreign></L>
-<L><foreign lang="ar">الكَرَى الأَغْيَدِ</foreign> ↓ <orth type="arrow" lang="ar">سُقُوا بِصُبَابِ</orth></L>
+<L><foreign lang="ar">سُقُوا بِصُبَابِ</foreign> ↓ <orth type="arrow" lang="ar">الكَرَى الأَغْيَدِ</orth></L>
 </quote>
 <pb n="1640"/>
 (tropical:)  [<hi rend="ital">During many a night have I guided in the right
@@ -817,7 +819,7 @@ said of a star, (M, K,) and of the moon, (M,) <hi rend="ital">It
 rose;</hi> and so ↓ <orth type="arrow" lang="ar">اصبأ</orth>: (M, K:) or <foreign lang="ar">تَصْبَأَ النُّجُومُ</foreign> <hi rend="ital">the
 stars come forth from their places of rising:</hi>
 (AO, S:) or <foreign lang="ar">صَبَأَتِ النُّجُومُ</foreign> <hi rend="ital">the stars appeared:</hi>
-(TA:) and <foreign lang="ar">النَّجْمُ</foreign> ↓ <orth type="arrow" lang="ar">اصبأ</orth> <hi rend="ital">the Pleiades</hi> [antonomastically called <foreign lang="ar">النجم</foreign>] <hi rend="ital">rose.</hi> (S.) ― 
+(TA:) and <foreign lang="ar">اصبأ</foreign> ↓ <orth type="arrow" lang="ar">النَّجْمُ</orth> <hi rend="ital">the Pleiades</hi> [antonomastically called <foreign lang="ar">النجم</foreign>] <hi rend="ital">rose.</hi> (S.) ― 
        <milestone unit="sense" n="2"/>-b3-  [Hence,]
 <foreign lang="ar">صَبَأَ</foreign>, (S, M, K,) or <foreign lang="ar">صَبَأَ مِنْ دِينِهِ إِلَى دِينٍ آخَرَ</foreign>,
 (AO, S, Msb, *) aor. 
@@ -987,13 +989,13 @@ says that there is a difference between <foreign lang="ar">صَبَّحْنَا<
 [<hi rend="ital">We came in the morning to such a town,</hi> or
 <hi rend="ital">country</hi>], and <foreign lang="ar">صَبَّحْنَا فُلَانًا</foreign> [<hi rend="ital">We came in the
 morning to such a one</hi>], with teshdeed; and
-<foreign lang="ar">أَهْلَهَا خَيْرًا</foreign> ↓ <orth type="arrow" lang="ar">صَبَحْنَا</orth> or <foreign lang="ar">شَرًّا</foreign> [<hi rend="ital">We came in the morning to its people,</hi> or <hi rend="ital">inhabitants, with good</hi> or <hi rend="ital">with
+<foreign lang="ar">صَبَحْنَا</foreign> ↓ <orth type="arrow" lang="ar">أَهْلَهَا خَيْرًا</orth> or <foreign lang="ar">شَرًّا</foreign> [<hi rend="ital">We came in the morning to its people,</hi> or <hi rend="ital">inhabitants, with good</hi> or <hi rend="ital">with
 evil,</hi> without teshdeed; as though we made the
 good or the evil to be a morning-draught, or
 putting the second of the nouns following the
 verb in the accus. case because of <foreign lang="ar">بِ</foreign> suppressed]:
 you say also, <foreign lang="ar">صبّحهُ بِكَذَا</foreign>; and you may also say,
-<foreign lang="ar">بكذا</foreign> ↓ <orth type="arrow" lang="ar">صَبَحَهُ</orth>, as well as <foreign lang="ar">صَبَحَهُ كَذَا</foreign>; <hi rend="ital">He came to
+<foreign lang="ar">صَبَحَهُ</foreign> ↓ <orth type="arrow" lang="ar">بكذا</orth>, as well as <foreign lang="ar">صَبَحَهُ كَذَا</foreign>; <hi rend="ital">He came to
 him in the morning with such a thing.</hi> (L.) ― 
        <milestone unit="sense" n="2"/>-b2- 
 And <foreign lang="ar">صَبَّحَكَ ٱللّٰهُ بِخَيْرٍ</foreign> (S, * A, Msb) or <foreign lang="ar">بِالخَيْرِ</foreign>
@@ -1138,15 +1140,15 @@ with candles</hi>]: (A:) [and in like manner also
 MA, Mgh, Msb, K *) <hi rend="ital">He lighted</hi> [<hi rend="ital">himself,</hi> or
 <hi rend="ital">another,</hi>] <hi rend="ital">with the lamp,</hi> or <hi rend="ital">wick;</hi> (MA;) syn.
 <foreign lang="ar">أَسْرَجَ</foreign>; (S;) or <foreign lang="ar">اِسْتَسْرَجَ</foreign>: (K:) [hence it appears
-that <foreign lang="ar">اصطبح بِهِ</foreign> and <foreign lang="ar">به</foreign> ↓ <orth type="arrow" lang="ar">استصبح</orth> and <foreign lang="ar">به</foreign> ↓ <orth type="arrow" lang="ar">تصبّح</orth>
+that <foreign lang="ar">اصطبح بِهِ</foreign> and <foreign lang="ar">استصبح</foreign> ↓ <orth type="arrow" lang="ar">به</orth> and <foreign lang="ar">تصبّح</foreign> ↓ <orth type="arrow" lang="ar">به</orth>
 may be aptly rendered <hi rend="ital">he employed it as a means
 of light;</hi> and thus the second of these three verbs,
 is expl. in treatises on practical law:] one says
-also, <foreign lang="ar">بِالدُّهْنِ</foreign> ↓ <orth type="arrow" lang="ar">استصبح</orth> [<hi rend="ital">He employed oil as a
+also, <foreign lang="ar">استصبح</foreign> ↓ <orth type="arrow" lang="ar">بِالدُّهْنِ</orth> [<hi rend="ital">He employed oil as a
 means of light;</hi> or] <hi rend="ital">he made the lamp,</hi> or <hi rend="ital">wick, to
 give light by means of oil:</hi> (Mgh, Msb:) and it
 is said in a trad. respecting the several sorts of
-fat (<foreign lang="ar">شُحُوم</foreign>) of carrion, <foreign lang="ar">بِهَا النَّاسُ</foreign> ↓ <orth type="arrow" lang="ar">يَسْتَصْبِحُ</orth> <hi rend="ital">The
+fat (<foreign lang="ar">شُحُوم</foreign>) of carrion, <foreign lang="ar">يَسْتَصْبِحُ</foreign> ↓ <orth type="arrow" lang="ar">بِهَا النَّاسُ</orth> <hi rend="ital">The
 people</hi> [<hi rend="ital">employ them as means of light;</hi> or] <hi rend="ital">make
 their lamps,</hi> or <hi rend="ital">wicks, to give light by means of
 them.</hi> (TA.)
@@ -1179,7 +1181,7 @@ is similar to <foreign lang="ar">إِبْكَارٌ</foreign>; (TA;) [and ↓ <o
 place and time from <foreign lang="ar">أَصْبَحَ</foreign>:] the pl. of <foreign lang="ar">صُبْحٌ</foreign> is
 <foreign lang="ar">أَصْبَاحٌ</foreign>; (K;) and thus some read in the Kur vi. 96.
 (Bd.) See also <foreign lang="ar">أَصْبَحُ</foreign>. One says, <foreign lang="ar">أَتَيْتُهُ لِصُبْحِ</foreign>
-<foreign lang="ar">خَامِسَةٍ</foreign> and <foreign lang="ar">خامسة</foreign> ↓ <orth type="arrow" lang="ar">لِصِبْحِ</orth>, (S, K,) meaning [<hi rend="ital">I
+<foreign lang="ar">خَامِسَةٍ</foreign> and <foreign lang="ar">لِصِبْحِ</foreign> ↓ <orth type="arrow" lang="ar">خامسة</orth>, (S, K,) meaning [<hi rend="ital">I
 came to him</hi>] <hi rend="ital">in the morning</hi> (<foreign lang="ar">صَبَاح</foreign>) [<hi rend="ital">of the last</hi>]
 <hi rend="ital">of five days;</hi> (K;) i. e., <hi rend="ital">of a fifth day;</hi> (TK;)
 [or rather, <hi rend="ital">of a fifth night,</hi> as the last word is
@@ -1338,7 +1340,7 @@ otherwise than adverbially, meaning the same as
 <foreign lang="ar">ذَا صَبَاحٍ</foreign>, expl. above; (K;) and ↓ <orth type="arrow" lang="ar">ذَاتَ الصَّبُوحِ</orth> <hi rend="ital">in
 the morning,</hi> or <hi rend="ital">first part of day, before sunrise:</hi> (IAar, TA:) or ↓ <orth type="arrow" lang="ar">ذَا صَبُوحٍ</orth> [properly means]
 <hi rend="ital">in a time of drinking the</hi> [<hi rend="ital">morning-draught called</hi>]
-<foreign lang="ar">صَبُوح</foreign>. (TA.) And <foreign lang="ar">يَوْمِ كَذَا</foreign> ↓ <orth type="arrow" lang="ar">أَتَيْتُهُ صَبِيحَةَ</orth> [<hi rend="ital">I
+<foreign lang="ar">صَبُوح</foreign>. (TA.) And <foreign lang="ar">أَتَيْتُهُ صَبِيحَةَ</foreign> ↓ <orth type="arrow" lang="ar">يَوْمِ كَذَا</orth> [<hi rend="ital">I
 came to him in the dawn,</hi> or <hi rend="ital">in the morning,</hi> or
 <hi rend="ital">forenoon, of such a day</hi>]: (A:) and ↓ <orth type="arrow" lang="ar">أُصْبُوحَةَ</orth>
 <foreign lang="ar">كُلِّ يَوْمٍ</foreign> [<hi rend="ital">in the morning of every day</hi>]; and in
@@ -1660,7 +1662,7 @@ I dislike</hi>]. (A.) And <foreign lang="ar">صَبَرْتُ عَمَّا أُ�
 with patience the withholding of myself,</hi> or <hi rend="ital">the
 being debarred, from what I love,</hi> or <hi rend="ital">like;</hi> or <hi rend="ital">I
 was patient of the loss,</hi> or <hi rend="ital">want, of what I love,</hi>
-or <hi rend="ital">like</hi>]: (A:) and <foreign lang="ar">عَنْهُ</foreign> ↓ <orth type="arrow" lang="ar">تَصَبَّرْتُ</orth> [<hi rend="ital">I constrained
+or <hi rend="ital">like</hi>]: (A:) and <foreign lang="ar">تَصَبَّرْتُ</foreign> ↓ <orth type="arrow" lang="ar">عَنْهُ</orth> [<hi rend="ital">I constrained
 myself to endure with patience the withholding
 myself,</hi> or <hi rend="ital">the being debarred, from it,</hi> or <hi rend="ital">him;</hi>
 or <hi rend="ital">I constrained myself to be patient of the loss,</hi>
@@ -1703,7 +1705,7 @@ swear, until he swore,</hi> or <hi rend="ital">took an oath;</hi> as also
 ↓ <orth type="arrow" lang="ar">اصبرهُ</orth>: (S:) or <hi rend="ital">he made him to swear a most
 energetic oath;</hi> (Msb;) as also <foreign lang="ar">صَبَرَ يَمِينَهُ</foreign>, (A,
 Mgh,) which is a tropical phrase: (A:) and
-↓ <orth type="arrow" lang="ar">اصبرهُ</orth>, (TA in art. <foreign lang="ar">بلت</foreign>,) or <foreign lang="ar">عَلَى يَمِينٍ</foreign> ↓ <orth type="arrow" lang="ar">اصبرهُ</orth>,
+↓ <orth type="arrow" lang="ar">اصبرهُ</orth>, (TA in art. <foreign lang="ar">بلت</foreign>,) or <foreign lang="ar">اصبرهُ</foreign> ↓ <orth type="arrow" lang="ar">عَلَى يَمِينٍ</orth>,
 (TA in the present art.,) <hi rend="ital">he</hi> (the judge, or
 governor,) <hi rend="ital">constrained him to swear,</hi> or <hi rend="ital">take an
 oath.</hi> (TA.) And <foreign lang="ar">صُبِرَ</foreign> <hi rend="ital">He was confined,</hi> or <hi rend="ital">held
@@ -1849,7 +1851,7 @@ aided one another, against such a one.</hi> (Ibn-Buzurj, TA in art. <foreign lan
 in three places. ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">اصطبر مِنْهُ</foreign> <hi rend="ital">He retaliated by
 slaying him,</hi> or <hi rend="ital">wounding him,</hi> or <hi rend="ital">the like;</hi> (A,
-K;) and so <foreign lang="ar">مِنْهُ</foreign> ↓ <orth type="arrow" lang="ar">صَبَرَ</orth>. (TA.) ＝   
+K;) and so <foreign lang="ar">صَبَرَ</foreign> ↓ <orth type="arrow" lang="ar">مِنْهُ</orth>. (TA.) ＝   
     <milestone unit="sense" n="1"/>-A2-  [And accord. to
 Reiske, <hi rend="ital">It was collected:</hi> (mentioned by Freytag:) app. as quasi-pass. of 1 in the last of the
 senses assigned to it above.] ＝   
@@ -2655,7 +2657,7 @@ unripe date, began to ripen,</hi> or <hi rend="ital">showed ripening,</hi>
 or <hi rend="ital">became speckled by reason of ripening,</hi> or
 <hi rend="ital">ripened, at the part next the base and stalk</hi>]:
 (S, O, L, TA:) or <hi rend="ital">became coloured.</hi> (A, TA.)
-And <foreign lang="ar">النَّخْلَةُ</foreign> ↓ <orth type="arrow" lang="ar">اصبغت</orth> (tropical:)  <hi rend="ital">The palm-tree showed
+And <foreign lang="ar">اصبغت</foreign> ↓ <orth type="arrow" lang="ar">النَّخْلَةُ</orth> (tropical:)  <hi rend="ital">The palm-tree showed
 ripening in its dates;</hi> (O, K, TA;) as also <foreign lang="ar">صبّغت</foreign>,
 inf. n. as above: (K:) or, accord. to Az, <foreign lang="ar">تصبيغ</foreign>
 in relation to the palm-tree [itself] is not known.
@@ -3522,7 +3524,7 @@ app. taken from the former.])
       <orth orig="" extent="full" lang="ar">صحّحهُ</orth></form>, [inf. n. <foreign lang="ar">تَصْحِيحٌ</foreign>,] <hi rend="ital">He rendered him
 healthy, sound,</hi> or <hi rend="ital">free from disease;</hi> (S, A, MA,
 TA;) said of God; (S, TA;) and (A, TA) so
-↓ <orth type="arrow" lang="ar">اصحّهُ</orth>. (A, K, TA.) One says, <foreign lang="ar">ٱللّٰهُ بَدَنَكَ</foreign> ↓ <orth type="arrow" lang="ar">أَصَحَّ</orth>,
+↓ <orth type="arrow" lang="ar">اصحّهُ</orth>. (A, K, TA.) One says, <foreign lang="ar">أَصَحَّ</foreign> ↓ <orth type="arrow" lang="ar">ٱللّٰهُ بَدَنَكَ</orth>,
 and <foreign lang="ar">صَحَّحَ جِسْمَكَ</foreign>, <hi rend="ital">May God render thy body
 healthy, sound,</hi> or <hi rend="ital">free from disease.</hi> (A.) ― 
        <milestone unit="sense" n="2"/>-b2- 
@@ -3607,9 +3609,9 @@ or <hi rend="ital">defect</hi> or <hi rend="ital">fault</hi> or <hi rend="ital">
 from everything that would occasion doubt</hi> or
 <hi rend="ital">suspicion</hi> or <hi rend="ital">evil opinion.</hi> (L, TA.) One says,
 <foreign lang="ar">أَوْصَى فِى صِحَّتِهِ وَشِحَّتِهِ</foreign>. (K in art. <foreign lang="ar">شح</foreign>, q. v.)
-And <foreign lang="ar">وَسُقْمِهِ</foreign> ↓ <orth type="arrow" lang="ar">كَانَ ذٰلِكَ فِى صُحِّهِ</orth> [<hi rend="ital">That was in
+And <foreign lang="ar">كَانَ ذٰلِكَ فِى صُحِّهِ</foreign> ↓ <orth type="arrow" lang="ar">وَسُقْمِهِ</orth> [<hi rend="ital">That was in
 his state of health,</hi> or <hi rend="ital">soundness, and his illness,</hi> or
-<hi rend="ital">sickness</hi>]. (AO, S.) And <foreign lang="ar">مِنَ</foreign> ↓ <orth type="arrow" lang="ar">مَا أَقْرَبَ الصَّحَاحَ</orth>
+<hi rend="ital">sickness</hi>]. (AO, S.) And <foreign lang="ar">مَا أَقْرَبَ الصَّحَاحَ</foreign> ↓ <orth type="arrow" lang="ar">مِنَ</orth>
 <foreign lang="ar">السَّقَامِ</foreign> [<hi rend="ital">How little removed is health,</hi> or <hi rend="ital">soundness, from illness,</hi> or <hi rend="ital">sickness!</hi>]. (O.)
 
   </entryFree>
@@ -3786,10 +3788,10 @@ be thy guardian, keeper,</hi> &amp;c.: (TA in explanation
 of the former:) and <foreign lang="ar">أَحْسَنَ ٱللّٰهُ صَحَابَتَكَ</foreign> (A, and
 Ham p. 443) or <foreign lang="ar">صِحَابَتَكَ</foreign> (TA) (tropical:)  [<hi rend="ital">May God make
 the guarding,</hi> &amp;c., <hi rend="ital">of thee to be good</hi>]. And (TA)
-[in like manner,] <foreign lang="ar">فُلَانًا</foreign> ↓ <orth type="arrow" lang="ar">اصحب</orth> signifies (assumed tropical:)  <hi rend="ital">He
+[in like manner,] <foreign lang="ar">اصحب</foreign> ↓ <orth type="arrow" lang="ar">فُلَانًا</orth> signifies (assumed tropical:)  <hi rend="ital">He
 guarded, kept,</hi> or <hi rend="ital">protected, such a one;</hi> as also
 ↓ <orth type="arrow" lang="ar">اصطحبهُ</orth>: and <hi rend="ital">he defended such a one;</hi> syn.
-<foreign lang="ar">مَنَعَهُ</foreign>: (K, TA:) one says, <foreign lang="ar">بِصُحْبَةٍ</foreign> ↓ <orth type="arrow" lang="ar">اَللّٰهُمَّ أَصْحِبْنَا</orth>
+<foreign lang="ar">مَنَعَهُ</foreign>: (K, TA:) one says, <foreign lang="ar">اَللّٰهُمَّ أَصْحِبْنَا</foreign> ↓ <orth type="arrow" lang="ar">بِصُحْبَةٍ</orth>
 <foreign lang="ar">وَأَقْلِبْنَا بِذِمَّةٍ</foreign> (assumed tropical:)  <hi rend="ital">O God, guard us with</hi> thy <hi rend="ital">guarding</hi>
 in our journey, <hi rend="ital">and make us to return with</hi> thy
 <hi rend="ital">safeguard</hi> to our country, or land, &amp;c.; occurring
@@ -4249,7 +4251,7 @@ Ham p. 354.)
       <orth orig="" extent="full" lang="ar">لَقِيتُةُ صَحْرَةَ بَحْرَةَ</orth></form>, in which the two nouns are
 imperfectly decl., (S, L,) being regarded as one,
 (L,) and <foreign lang="ar">صَحْرَةً بَحْرَةً</foreign>, (K in art. <foreign lang="ar">بحر</foreign>,) and
-<foreign lang="ar">بُحْرَةَ</foreign> ↓ <orth type="arrow" lang="ar">صُحْرَةَ</orth>, with damm, (O,) and <foreign lang="ar">صُحْرَةً بُحْرَةً</foreign>,
+<foreign lang="ar">صُحْرَةَ</foreign> ↓ <orth type="arrow" lang="ar">بُحْرَةَ</orth>, with damm, (O,) and <foreign lang="ar">صُحْرَةً بُحْرَةً</foreign>,
 (MF in art. <foreign lang="ar">بحر</foreign>,) and <foreign lang="ar">صَحْرَةً بَحْرَةً نَحْرَةً</foreign>, (O, K,)
 and <foreign lang="ar">صَحْرَةَ بَحْرَةَ نَحْرَةَ</foreign>, (K, [but this last is implicitly disallowed in the O, and expressly by
 MF in art. <foreign lang="ar">بحر</foreign>,]) and with damm also in all
@@ -4903,7 +4905,7 @@ clouds:</hi> (S, Mgh, K:) [but] Es-Sijistánee says
 that the vulgar think it to have this meaning,
 whereas it only means the dispersing of the clouds
 with the departing of the cold. (Msb, TA.) And
-<foreign lang="ar">السَّمَآءُ</foreign> ↓ <orth type="arrow" lang="ar">أَصْحَتِ</orth> <hi rend="ital">The sky became cloudless.</hi> (Ks,
+<foreign lang="ar">أَصْحَتِ</foreign> ↓ <orth type="arrow" lang="ar">السَّمَآءُ</orth> <hi rend="ital">The sky became cloudless.</hi> (Ks,
 S, Mgh, Msb, K, TA, but not in the CK.) ― 
        <milestone unit="sense" n="2"/>-b2-  And
 <foreign lang="ar">صَحَا مِنْ سُكْرِهِ</foreign>, (S, Msb,) aor. <foreign lang="ar">يَصْحُو</foreign>, (Msb,)
@@ -5179,7 +5181,7 @@ brays vehemently.</hi> (S in art. <foreign lang="ar">شرب</foreign>, q. v.) �
 <foreign lang="ar">عُودٌ صَخِبُ الأَوْتَارِ</foreign> (tropical:)  [<hi rend="ital">A lute of which the chords
 send forth loud sounds</hi>]. (A, TA.) ― 
        <milestone unit="sense" n="2"/>-b4-  And <foreign lang="ar">مَآءٌ</foreign>
-<foreign lang="ar">صَخِبُ الآذِىِّ</foreign> (S, A, * K) and <foreign lang="ar">الآذِىِّ</foreign> ↓ <orth type="arrow" lang="ar">مُصْطَخِبُ</orth>
+<foreign lang="ar">صَخِبُ الآذِىِّ</foreign> (S, A, * K) and <foreign lang="ar">مُصْطَخِبُ</foreign> ↓ <orth type="arrow" lang="ar">الآذِىِّ</orth>
 (K) (tropical:)  <hi rend="ital">Water of which the waves send forth a</hi>
 [<hi rend="ital">loud</hi>] <hi rend="ital">sound,</hi> (S, TA,) or <hi rend="ital">are agitated,</hi> (K,) or
 <hi rend="ital">dash together.</hi> (TA.) See also what next follows.
@@ -5309,12 +5311,12 @@ as from the S, <foreign lang="ar">صَخُودٌ</foreign>]) and ↓ <orth type=
 [<foreign lang="ar">صَخَدَانٌ</foreign> is originally an inf. n. Hence] one says,
 <foreign lang="ar">أَتَيْتُهُ فِى صَخَدَانِ الحَرِّ</foreign> <hi rend="ital">I came to him during the
 intenseness of the heat:</hi> (L:) and one says also,
-<foreign lang="ar">الحَرِّ</foreign> ↓ <orth type="arrow" lang="ar">اتيته فِى مَصَاخِدِ</orth> <hi rend="ital">I came to him in the
+<foreign lang="ar">اتيته فِى مَصَاخِدِ</foreign> ↓ <orth type="arrow" lang="ar">الحَرِّ</orth> <hi rend="ital">I came to him in the
 midday-intensities of the heat;</hi> (TA;) for <foreign lang="ar">مَصَاخِدُ</foreign>
 is pl. of ↓ <orth type="arrow" lang="ar">مَصْخَدَةٌ</orth> signifying the <hi rend="ital">midday-intensity of heat;</hi> (K, TA;) as also ↓ <orth type="arrow" lang="ar">صَاخِدَةٌ</orth>: (L,
-TA:) and <foreign lang="ar">الحَرِّ</foreign> ↓ <orth type="arrow" lang="ar">اتيته فِى صَيَاخِيدِ</orth> [meaning the
+TA:) and <foreign lang="ar">اتيته فِى صَيَاخِيدِ</foreign> ↓ <orth type="arrow" lang="ar">الحَرِّ</orth> [meaning the
 same; or <hi rend="ital">I came to him during the intensities of
-the heat</hi>]: (TA:) and <foreign lang="ar">وَالبَرْدُ</foreign> ↓ <orth type="arrow" lang="ar">رَمَانِى الحَرُّ بِصَيَاخِيدِهِ</orth>
+the heat</hi>]: (TA:) and <foreign lang="ar">رَمَانِى الحَرُّ بِصَيَاخِيدِهِ</foreign> ↓ <orth type="arrow" lang="ar">وَالبَرْدُ</orth>
 <foreign lang="ar">بِصَنَادِيدِهِ</foreign> [<hi rend="ital">The heat smote me with its intensities,
 and the cold with its vehemencies</hi>]. (A.)
 
@@ -6206,7 +6208,7 @@ also ↓ <orth type="arrow" lang="ar">صدّر</orth>, (S, * M, MA, K,) inf. n. 
 latter verb is afterwards expl. in the K as meaning
 <foreign lang="ar">بَرَزَ بِرَأْسِهِ</foreign>; but this is a mistake. (TA.) Tufeyl
 says, describing a horse,
-<quote><L><foreign lang="ar">مِنْ عَرَقٍ</foreign> ↓ <orth type="arrow" lang="ar">كَأَنَّهُ بَعْدَ مَا صَدَّرْنَ</orth></L>
+<quote><L><foreign lang="ar">كَأَنَّهُ بَعْدَ مَا صَدَّرْنَ</foreign> ↓ <orth type="arrow" lang="ar">مِنْ عَرَقٍ</orth></L>
 <L><foreign lang="ar">سِيدٌ تَمَطَّرَ جِنْحَ اللَّيْلِ مَبْلُولُ</foreign></L>
 </quote>
 <hi rend="ital">As though he were, after they had outreached
@@ -6823,7 +6825,7 @@ did not separate:</hi> (see again 1, first sentence:)]
 as also ↓ <orth type="arrow" lang="ar">تصدّع</orth> [but app. in an intensive sense,
 meaning <hi rend="ital">it became cloven</hi> &amp;c., or <hi rend="ital">it clave</hi> &amp;c.,
 <hi rend="ital">much,</hi> or <hi rend="ital">in several places</hi>]. (O, K.) One says,
-<foreign lang="ar">البَيْضَةُ وَلَمْ تَتَفَلَّقْ</foreign> ↓ <orth type="arrow" lang="ar">تَصَدَّعَتِ</orth> [<hi rend="ital">The egg cracked,</hi> or
+<foreign lang="ar">تَصَدَّعَتِ</foreign> ↓ <orth type="arrow" lang="ar">البَيْضَةُ وَلَمْ تَتَفَلَّقْ</orth> [<hi rend="ital">The egg cracked,</hi> or
 rather <hi rend="ital">cracked in several places, but did not split
 apart</hi>]. (AZ, S in art. <foreign lang="ar">قيض</foreign>.) And ↓ <orth type="arrow" lang="ar">تصدّع</orth>
 <foreign lang="ar">الثَّوْبُ</foreign> <hi rend="ital">The garment,</hi> or <hi rend="ital">piece of cloth, became slit</hi>
@@ -6958,7 +6960,7 @@ they, notwithstanding the divisions that are among
 them, are intelligent</hi> and <hi rend="ital">generous</hi>]. (TA.) [It
 is stated in the TA, among the additions to the
 K in this art., that one says also, <foreign lang="ar">إِنَّهُمْ عَلَى مَا تَرَى</foreign>
-<foreign lang="ar">لَكِرَامٌ</foreign> ↓ <orth type="arrow" lang="ar">مِنْ صَدَاعَتِهِمْ</orth> app. as meaning (assumed tropical:)  <hi rend="ital">Verily
+<foreign lang="ar">مِنْ صَدَاعَتِهِمْ</foreign> ↓ <orth type="arrow" lang="ar">لَكِرَامٌ</orth> app. as meaning (assumed tropical:)  <hi rend="ital">Verily
 they, notwithstanding what thou seest of their
 disunion, are generous:</hi> but I think it most
 probable that <foreign lang="ar">صَدَاعَتِهِمْ</foreign> is a mistranscription for
@@ -7270,7 +7272,7 @@ in like manner to camels. (ISh, O, TA.)
 and left,</hi> (S, O, Msb, K,) <hi rend="ital">me,</hi> (S, O,) or <hi rend="ital">him,</hi> or
 <hi rend="ital">it;</hi> (Msb, K;) so the verb signifies in the Kur
 vi. 158 [and a similar instance occurs in verse 46
-of the same chap.]; (O;) and so <foreign lang="ar">عَنْهُ</foreign> ↓ <orth type="arrow" lang="ar">تصدّف</orth>:
+of the same chap.]; (O;) and so <foreign lang="ar">تصدّف</foreign> ↓ <orth type="arrow" lang="ar">عَنْهُ</orth>:
 (O, * K:) and (so in the K [but more properly
 “ or ”]) <foreign lang="ar">صَدَفَ</foreign>, (A'Obeyd, M, O, K,) aor. 
     <form n="infl">
@@ -7735,7 +7737,7 @@ Mgh, Msb) <hi rend="ital">what is termed</hi> <foreign lang="ar">صَدَقَة<
 Msb,) meaning [<hi rend="ital">an alms,</hi> or] <hi rend="ital">what is given for
 the sake of God,</hi> (M,) or <hi rend="ital">what is given with the
 desire of obtaining a recompense from God:</hi>
-(M, * Mgh:) and <foreign lang="ar">عليه</foreign> ↓ <orth type="arrow" lang="ar">صَدَّقَ</orth> signifies the same;
+(M, * Mgh:) and <foreign lang="ar">صَدَّقَ</foreign> ↓ <orth type="arrow" lang="ar">عليه</orth> signifies the same;
 (M, TA;) and in this sense <foreign lang="ar">صدّق</foreign> is [said by
 some to be] used in the Kur lxxv. 31. (TA.)
 Hence, in the Kur [xii. 88], <foreign lang="ar">وَتَصَدَّقْ عَلَيْنَا</foreign>: (TA:)
@@ -8081,7 +8083,7 @@ TA in art. <foreign lang="ar">قطو</foreign>:) hence it is called by the Arabs
       <orth orig="" extent="full" lang="ar">ذُو مَصْدَقٍ</orth></form>, (JK, S, M, O,) with fet-h, (S,) or
 ↓ <orth type="arrow" lang="ar">ذُو مِصْدَقٍ</orth> like <foreign lang="ar">مِنْبَر</foreign>, (K,) applied to a man,
 (JK, M,) [i. e.] applied to a courageous man,
-(S, O, K,) means <foreign lang="ar">الحَمْلَةِ</foreign> ↓ <orth type="arrow" lang="ar">صَادِقُ</orth> [<hi rend="ital">Earnest, not</hi>
+(S, O, K,) means <foreign lang="ar">صَادِقُ</foreign> ↓ <orth type="arrow" lang="ar">الحَمْلَةِ</orth> [<hi rend="ital">Earnest, not</hi>
 <pb n="1669"/>
 <hi rend="ital">making a false show of bravery, in the charge,</hi> or
 <hi rend="ital">assault</hi>]; (JK, S, M, O, K;) or <hi rend="ital">courageous</hi> [<hi rend="ital">in
@@ -8092,7 +8094,7 @@ in a verse of Aboo-Dhu-eyb, may be for <foreign lang="ar">ذَوُو</foreign>
 of <foreign lang="ar">لَمْحَةٌ</foreign> and <foreign lang="ar">شَبَهٌ</foreign>]. (M.) Also, (S, M, O, K,)
 applied to a horse, (M,) [i. e.] applied to a fleet
 and excellent horse, (S, O,) in like manner, (M,)
-meaning <foreign lang="ar">الجَرْىِ</foreign> ↓ <orth type="arrow" lang="ar">صَادِقُ</orth> [<hi rend="ital">Earnest in running</hi>];
+meaning <foreign lang="ar">صَادِقُ</foreign> ↓ <orth type="arrow" lang="ar">الجَرْىِ</orth> [<hi rend="ital">Earnest in running</hi>];
 (S, O, K;) as though fulfilling his promise of
 running: (S, O: [said in the TA to be tropical:])
 Khufáf Ibn-Nudbeh says,
@@ -8513,7 +8515,7 @@ whistling:</hi> like the saying in the Kur viii. 35]:
 (TA:) one says of a man, <foreign lang="ar">صدّى</foreign>, (M,) or <foreign lang="ar">صدّى</foreign>
 <foreign lang="ar">بِيَدَيْهِ</foreign>, (TA,) meaning <hi rend="ital">He clapped with his
 hands;</hi> (M, TA;) [said to be] originally <foreign lang="ar">صَدَّدَ</foreign>;
-(M;) and <foreign lang="ar">بِيَدَيْهِ</foreign> ↓ <orth type="arrow" lang="ar">صَدَا</orth>, inf. n. <foreign lang="ar">صَدْوٌ</foreign> [mentioned
+(M;) and <foreign lang="ar">صَدَا</foreign> ↓ <orth type="arrow" lang="ar">بِيَدَيْهِ</orth>, inf. n. <foreign lang="ar">صَدْوٌ</foreign> [mentioned
 above], meaning the same. (TK.) ＝   
     <milestone unit="sense" n="1"/>-A2-  also
 <foreign lang="ar">مُصَدِّيَةٌ</foreign>.
@@ -8836,7 +8838,7 @@ erected his ears to listen;</hi> as also ↓ <orth type="arrow" lang="ar">أَص
 and ↓ <orth type="arrow" lang="ar">أَصَرَّ</orth> used intransitively, (ISk, S,) without
 the mention of the ears, (A,) signifies the same as
 <foreign lang="ar">صَرَّ أُذُنَيْهِ</foreign>: (ISk, S, A:) and <foreign lang="ar">صَرَّ بِأُذُنِهِ</foreign> and <foreign lang="ar">صَرَّ أُذُنَهُ</foreign>,
-aor. and inf. n. as above; and <foreign lang="ar">بِهَا</foreign> ↓ <orth type="arrow" lang="ar">أَصَرَّ</orth>; <hi rend="ital">he</hi> (a
+aor. and inf. n. as above; and <foreign lang="ar">أَصَرَّ</foreign> ↓ <orth type="arrow" lang="ar">بِهَا</orth>; <hi rend="ital">he</hi> (a
 horse, and an ass,) <hi rend="ital">straightened and erected his
 ear to listen;</hi> (M, K;) as also ↓ <orth type="arrow" lang="ar">صَرَّرَهَا</orth>. (TA.) ― 
        <milestone unit="sense" n="2"/>-b8- 
@@ -8849,8 +8851,8 @@ together.</hi> (A.) ―
     <form n="infl">
       <orth orig="Bu" lang="ar">صَرُ3َ</orth></form>, <hi rend="ital">He collected
 together</hi> a thing, or things, (IAar,) or anything.
-(TA.) And <foreign lang="ar">كَلَامًا</foreign> ↓ <orth type="arrow" lang="ar">صَرَّرَ</orth> (assumed tropical:)  <hi rend="ital">He collected something to be said in his bosom,</hi> or <hi rend="ital">mind.</hi> (L and
-TA, from a trad.) And <foreign lang="ar">المَالَ</foreign> ↓ <orth type="arrow" lang="ar">صَرْصَرَ</orth>, inf. n.
+(TA.) And <foreign lang="ar">صَرَّرَ</foreign> ↓ <orth type="arrow" lang="ar">كَلَامًا</orth> (assumed tropical:)  <hi rend="ital">He collected something to be said in his bosom,</hi> or <hi rend="ital">mind.</hi> (L and
+TA, from a trad.) And <foreign lang="ar">صَرْصَرَ</foreign> ↓ <orth type="arrow" lang="ar">المَالَ</orth>, inf. n.
 <foreign lang="ar">صَرْصَرَةٌ</foreign>, <hi rend="ital">He collected together the property,</hi> or <hi rend="ital">the
 camels</hi> or <hi rend="ital">the like, and put back what had become
 scattered of the extreme portions thereof.</hi> (T,
@@ -9591,7 +9593,7 @@ and ↓ <orth type="arrow" lang="ar">صَرَبَةٌ</orth>: (M, TA:) <foreign 
 of the Expositions of the Jámi' es-Sagheer, is a
 mistranscription; or it may be a pl. of <foreign lang="ar">صَرْبٌ</foreign>
 accord. to the analogy of <foreign lang="ar">حَبْلٌ</foreign> and <foreign lang="ar">حِبَالٌ</foreign>, and <foreign lang="ar">رَمْلٌ</foreign>
-and <foreign lang="ar">رِمَالٌ</foreign>. (Mgh.) One says, <foreign lang="ar">تَزْوِى</foreign> ↓ <orth type="arrow" lang="ar">جَآءَنَا بَصَرْبَةٍ</orth>
+and <foreign lang="ar">رِمَالٌ</foreign>. (Mgh.) One says, <foreign lang="ar">جَآءَنَا بَصَرْبَةٍ</foreign> ↓ <orth type="arrow" lang="ar">تَزْوِى</orth>
 <foreign lang="ar">الوَجْهَ</foreign> [<hi rend="ital">He brought us some sour milk,</hi> or <hi rend="ital">very sour
 milk, that had been collected in a skin, making
 the face to contract in wrinkles</hi>]. (S.) [SM here
@@ -9780,8 +9782,8 @@ say, <foreign lang="ar">صرّح بِمَا فِى نَفْسِهِ</foreign>, (
 <foreign lang="ar">بِمَا عِنْدَهُ</foreign>, (A,) <hi rend="ital">He made apparent, manifest,</hi> or
 <hi rend="ital">plain,</hi> or <hi rend="ital">he manifested, exposed,</hi> or <hi rend="ital">revealed,</hi> (S,
 A, L, K,) <hi rend="ital">what was in his mind,</hi> (S, L, K,) and
-<hi rend="ital">what he had;</hi> (A;) as also <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">صارح</orth>; (L, K;)
-and <foreign lang="ar">به</foreign> ↓ <orth type="arrow" lang="ar">صَرَحَ</orth>: (TA:) or <hi rend="ital">he declared,</hi> or <hi rend="ital">made
+<hi rend="ital">what he had;</hi> (A;) as also <foreign lang="ar">صارح</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>; (L, K;)
+and <foreign lang="ar">صَرَحَ</foreign> ↓ <orth type="arrow" lang="ar">به</orth>: (TA:) or <hi rend="ital">he declared,</hi> or <hi rend="ital">made
 clear, what was in his mind, so as to express the
 intended meaning according to the first</hi> [or <hi rend="ital">most
 obvious</hi>] <hi rend="ital">interpretation;</hi> or <hi rend="ital">he made it free from
@@ -10216,7 +10218,7 @@ S, A, Msb, K:) Az says that he had not heard
 <foreign lang="ar">صَارِخٌ</foreign> in this sense on the authority of any except
 As; but that all men agree that it has the second
 of the senses given above, and that ↓ <orth type="arrow" lang="ar">مُصْرِخٌ</orth> has
-the last of those senses. (TA.) <foreign lang="ar">أَمَةٌ</foreign> ↓ <orth type="arrow" lang="ar">عَبْدٌ صَرِيخُهُ</orth>,
+the last of those senses. (TA.) <foreign lang="ar">عَبْدٌ صَرِيخُهُ</foreign> ↓ <orth type="arrow" lang="ar">أَمَةٌ</orth>,
 meaning [<hi rend="ital">A male slave</hi>] <hi rend="ital">whose aider</hi> [<hi rend="ital">is a female
 slave</hi>], is a prov. applied in the case of a mean
 man who is aided by one meaner than he.
@@ -11163,7 +11165,7 @@ K,) or <foreign lang="ar">صَرَفَهُ عَنْ وَجْهِهِ</foreign>, 
       <orth orig="Bi" lang="ar">صَرِفَ</orth></form>, (M, Msb, K,) inf. n.
 <foreign lang="ar">صَرْفٌ</foreign>, (M, Msb,) <hi rend="ital">He turned, sent,</hi> or <hi rend="ital">put, him,</hi> or
 <hi rend="ital">it, away,</hi> or <hi rend="ital">back,</hi> &amp;c., (M, K,) <hi rend="ital">from his,</hi> or <hi rend="ital">its,
-way,</hi> or <hi rend="ital">course.</hi> (M.) And <foreign lang="ar">نَفْسَهُ عَنِ</foreign> ↓ <orth type="arrow" lang="ar">صارف</orth>
+way,</hi> or <hi rend="ital">course.</hi> (M.) And <foreign lang="ar">صارف</foreign> ↓ <orth type="arrow" lang="ar">نَفْسَهُ عَنِ</orth>
 <foreign lang="ar">الشَّىْءِ</foreign>, meaning <foreign lang="ar">صَرَفَهَا عَنْهُ</foreign> [<hi rend="ital">He turned himself
 away,</hi> or <hi rend="ital">back, from the thing</hi>]. (M.) And
 <foreign lang="ar">صَرَفْتُ الرَّجُلَ عَنِّى</foreign> [<hi rend="ital">I turned the man away,</hi> or
@@ -12006,7 +12008,7 @@ off,</hi> or <hi rend="ital">severed;</hi> (S, M, K, TA;) quasi-pass. of
 (ISk, S, M. *) And <foreign lang="ar">انصرم اللَّيْلُ</foreign> (assumed tropical:)  <hi rend="ital">The night went
 away,</hi> or <hi rend="ital">departed;</hi> as also ↓ <orth type="arrow" lang="ar">تصرّم</orth>: (Msb:) and
 <foreign lang="ar">انصرم الشِّتَآءُ</foreign> (assumed tropical:)  <hi rend="ital">The winter ended;</hi> and ↓ <orth type="arrow" lang="ar">تصرّمت</orth>
-<foreign lang="ar">السَّنَةُ</foreign> (assumed tropical:)  <hi rend="ital">The year ended:</hi> (TA:) and <foreign lang="ar">القِتَالُ</foreign> ↓ <orth type="arrow" lang="ar">تصرّم</orth>
+<foreign lang="ar">السَّنَةُ</foreign> (assumed tropical:)  <hi rend="ital">The year ended:</hi> (TA:) and <foreign lang="ar">تصرّم</foreign> ↓ <orth type="arrow" lang="ar">القِتَالُ</orth>
 (assumed tropical:)  <hi rend="ital">The fighting ended,</hi> or <hi rend="ital">ceased.</hi> (Mgh.)
 <pb n="1684"/>
 
@@ -12800,7 +12802,7 @@ inf. n. <foreign lang="ar">إِصْعَابٌ</foreign>; (IAar, TA;) <hi rend="i
 an affair, or event, S, MA, Msb, K) <hi rend="ital">was,</hi> or <hi rend="ital">became,</hi> <foreign lang="ar">صَعْب</foreign>, (S, A, &amp;c.,) i. e. <hi rend="ital">difficult, hard,
 hard to be done</hi> or <hi rend="ital">accomplished, hard to be
 borne</hi> or <hi rend="ital">endured,</hi> or <hi rend="ital">distressing.</hi> (A, MA, K.)
-One says, <foreign lang="ar">عَلَيْهِ الأَمْرُ</foreign> ↓ <orth type="arrow" lang="ar">استصعب</orth>, (S, MA, Msb,)
+One says, <foreign lang="ar">استصعب</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْهِ الأَمْرُ</orth>, (S, MA, Msb,)
 like <foreign lang="ar">صَعُبَ</foreign>, (S, Msb,) <hi rend="ital">The affair,</hi> or <hi rend="ital">event, was,</hi>
 or <hi rend="ital">became, difficult,</hi> &amp;c., <hi rend="ital">to him.</hi> (MA.)
 
@@ -12959,7 +12961,7 @@ but in a case of this kind one should not say
 (A, Msb) <hi rend="ital">He ascended,</hi> or <hi rend="ital">ascended to, the flat
 house-top.</hi> (Msb.) And <foreign lang="ar">صَعِدَ المَكَانَ</foreign>, and <foreign lang="ar">فِى</foreign>
 <foreign lang="ar">المَكَانِ</foreign>, and ↓ <orth type="arrow" lang="ar">اصعد</orth>, and ↓ <orth type="arrow" lang="ar">صعّد</orth>, <hi rend="ital">He ascended the
-place,</hi> or <hi rend="ital">upon the place.</hi> (L.) And <foreign lang="ar">فِى</foreign> ↓ <orth type="arrow" lang="ar">صعّد</orth>
+place,</hi> or <hi rend="ital">upon the place.</hi> (L.) And <foreign lang="ar">صعّد</foreign> ↓ <orth type="arrow" lang="ar">فِى</orth>
 <foreign lang="ar">الجَبَلِ</foreign>, (S, A, Msb, K,) and <foreign lang="ar">عَلَى الجَبَلِ</foreign>, inf. n.
 <foreign lang="ar">تَصْعِيدٌ</foreign>; (S, K;) and <foreign lang="ar">صَعِدَ فِيهِ</foreign>, a form rarely used,
 (Msb,) disallowed by AZ, (S, TA,) and said by
@@ -12967,11 +12969,11 @@ him to have been unknown, (S,) or unheard,
 (K,) but he afterwards authorized it, and it is also
 authorized by IAar and ISk, (TA,) and <foreign lang="ar">صَعِدَ</foreign>
 <foreign lang="ar">الجَبَلَ</foreign>; (S in art. <foreign lang="ar">دخل</foreign>; [for <foreign lang="ar">صَعِدَ فِى الجَبَلِ</foreign>,
-see <foreign lang="ar">دَخَلْتُ البَيْتَ</foreign>;]) and <foreign lang="ar">فِيهِ</foreign> ↓ <orth type="arrow" lang="ar">تصعّد</orth>, (MF, from
+see <foreign lang="ar">دَخَلْتُ البَيْتَ</foreign>;]) and <foreign lang="ar">تصعّد</foreign> ↓ <orth type="arrow" lang="ar">فِيهِ</orth>, (MF, from
 a trad.,) and <foreign lang="ar">اِصَّعَّدَ فِيهِ</foreign>, (AZ,) inf. n. <foreign lang="ar">اِصِّعَّادٌ</foreign>; (TA;
 [app. a mistranscription for <foreign lang="ar">اِصَّعُّدٌ</foreign>; or <foreign lang="ar">اِصَّعَّدَ</foreign> may
 be a mistranscription for ↓ <orth type="arrow" lang="ar">اِصَّعَدَ</orth>, a var. of <foreign lang="ar">اِصْطَعَدَ</foreign>,
-and its inf. n. is <foreign lang="ar">اِصِّعَادٌ</foreign>;]) <hi rend="ital">He ascended the mountain.</hi> (Msb, K.) And <foreign lang="ar">فِى الأَرْضِ</foreign> ↓ <orth type="arrow" lang="ar">صعّد</orth> <hi rend="ital">He
+and its inf. n. is <foreign lang="ar">اِصِّعَادٌ</foreign>;]) <hi rend="ital">He ascended the mountain.</hi> (Msb, K.) And <foreign lang="ar">صعّد</foreign> ↓ <orth type="arrow" lang="ar">فِى الأَرْضِ</orth> <hi rend="ital">He
 ascended the land.</hi> (AZ, TA.) One says, <foreign lang="ar">طَالَ</foreign>
 ↓ <orth type="arrow" lang="ar">فِى الأَرْضِ تَصْوِيبِى وَتَصْعِيدِى</orth> [<hi rend="ital">Long have continued my descending,</hi> or <hi rend="ital">going down, and my
 ascending,</hi> or <hi rend="ital">going up, in the land</hi>]. (A. [There
@@ -12995,7 +12997,7 @@ and <foreign lang="ar">رَقَّاهُ</foreign>; (TA in art. <foreign lang="ar
 <foreign lang="ar">نَزَّلَهُ</foreign> and <foreign lang="ar">أَنْزَلَهُ</foreign> and <foreign lang="ar">اِسْتَنْزَلَهُ</foreign>.] You say, <foreign lang="ar">صعّدهُ جَبَلًا</foreign>
 and <foreign lang="ar">دَابَّةٌ</foreign> [<hi rend="ital">He made him to ascend,</hi> or <hi rend="ital">mount, a
 mountain</hi> and <hi rend="ital">a beast</hi>]. (TA in art. <foreign lang="ar">علو</foreign>.) And
-<foreign lang="ar">فِى الجَبَلِ</foreign> ↓ <orth type="arrow" lang="ar">يُصْعِدُونَهَا</orth> is said with reference to
+<foreign lang="ar">يُصْعِدُونَهَا</foreign> ↓ <orth type="arrow" lang="ar">فِى الجَبَلِ</orth> is said with reference to
 wild bulls or cows [as meaning <hi rend="ital">They make them
 to ascend upon the mountain</hi>]. (S and TA in art.
 <foreign lang="ar">سلع</foreign>.) ― 
@@ -13056,17 +13058,17 @@ countries,</hi> (Akh, T,) <hi rend="ital">in any direction.</hi> (L.) And
 along by the wind,</hi> (A, L,) <hi rend="ital">upwards</hi> [app. meaning
 <hi rend="ital">up a river</hi> or <hi rend="ital">the like</hi>]. (L.) ― 
        <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">اصعد فِى الوَادِى</foreign>;
-(Akh, S, L, K;) and <foreign lang="ar">فِيهِ</foreign> ↓ <orth type="arrow" lang="ar">صعّد</orth>, inf. n. <foreign lang="ar">تَصْعِيدٌ</foreign>;
+(Akh, S, L, K;) and <foreign lang="ar">صعّد</foreign> ↓ <orth type="arrow" lang="ar">فِيهِ</orth>, inf. n. <foreign lang="ar">تَصْعِيدٌ</foreign>;
 (Akh, S, Msb, K;) and ↓ <orth type="arrow" lang="ar">اِصَّعَّدَ</orth>, (Lth,) but this
 last is disapproved by Az; (TA;) <hi rend="ital">He descended,</hi>
 or <hi rend="ital">went down, into the valley,</hi> (Akh, S, L, Msb,
 K,) <hi rend="ital">from the part whence the torrent comes; not
 going to the bottom of the valley:</hi> and in like
 manner, <foreign lang="ar">اصعد فِى الأَرْضِ</foreign> <hi rend="ital">He descended,</hi> or <hi rend="ital">went
-down, into the land:</hi> (L:) and <foreign lang="ar">فِى الجَبَلِ</foreign> ↓ <orth type="arrow" lang="ar">صعّد</orth>
+down, into the land:</hi> (L:) and <foreign lang="ar">صعّد</foreign> ↓ <orth type="arrow" lang="ar">فِى الجَبَلِ</orth>
 <hi rend="ital">He descended the mountain;</hi> as well as he ascended it. (IB, L.) Akh cites the following
 words of 'Abd-Allah Ibn-Hemmám Es-Saloolee,
-<quote><L><foreign lang="ar">طَوْرًا فِى البِلَادِ وَأُفْرِعُ</foreign> ↓ <orth type="arrow" lang="ar">أُصَعِّدُ</orth></L>
+<quote><L><foreign lang="ar">أُصَعِّدُ</foreign> ↓ <orth type="arrow" lang="ar">طَوْرًا فِى البِلَادِ وَأُفْرِعُ</orth></L>
 </quote>
 (S, L,) as meaning <hi rend="ital">I descending,</hi> or <hi rend="ital">going down,
 at one time, through the countries, and</hi> [another
@@ -13862,7 +13864,7 @@ and ↓ <orth type="arrow" lang="ar">صَعْقَةٌ</orth> and <foreign lang="
       <orth orig="Ba" lang="ar">صَعَلَ</orth></form>, (K,) inf. n. <foreign lang="ar">صَعَلٌ</foreign>, (TA,) <hi rend="ital">He,</hi>
 or <hi rend="ital">it, was,</hi> or <hi rend="ital">became, such as is termed</hi> <foreign lang="ar">صَعْلٌ</foreign> <hi rend="ital">and</hi>
 <foreign lang="ar">أَصْعَلُ</foreign> meaning as expl. below; as also ↓ <orth type="arrow" lang="ar">اصعالّ</orth>.
-(K, TA.) One says, <foreign lang="ar">النَّخْلَةُ</foreign> ↓ <orth type="arrow" lang="ar">اصعالّت</orth> meaning
+(K, TA.) One says, <foreign lang="ar">اصعالّت</foreign> ↓ <orth type="arrow" lang="ar">النَّخْلَةُ</orth> meaning
 <hi rend="ital">The palm-tree was,</hi> or <hi rend="ital">became, slender in the head.</hi>
 (IDrd, O, TA.)
 
@@ -14084,7 +14086,7 @@ sun inclined to setting.</hi> (Th, K.)
       <itype>2</itype> 
       <orth orig="" extent="full" lang="ar">صغّرهُ</orth></form>, (inf. n. <foreign lang="ar">تَصْغِيرٌ</foreign>, TA,) <hi rend="ital">He made him,</hi>
 or <hi rend="ital">it, small,</hi> or <hi rend="ital">little;</hi> as also ↓ <orth type="arrow" lang="ar">اصفرهُ</orth>. (S, K.)
-You say, <foreign lang="ar">القِرْبَةَ</foreign> ↓ <orth type="arrow" lang="ar">اصغر</orth> <hi rend="ital">He sewed the water-skin</hi> [<hi rend="ital">so
+You say, <foreign lang="ar">اصغر</foreign> ↓ <orth type="arrow" lang="ar">القِرْبَةَ</orth> <hi rend="ital">He sewed the water-skin</hi> [<hi rend="ital">so
 as to make it</hi>] <hi rend="ital">small.</hi> (S, K.) ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">صغّرهُ فِى عُيُونِ</foreign>
 <foreign lang="ar">النَّاسِ</foreign> <hi rend="ital">He,</hi> or <hi rend="ital">it, rendered him</hi> [<hi rend="ital">small,</hi> or <hi rend="ital">little,</hi>
@@ -14386,7 +14388,7 @@ does when the saddle is bound upon her. (S.)
       <orth orig="" extent="full" lang="ar">صَغًا</orth></form> an inf. n. of <foreign lang="ar">صَغِىَ</foreign> [q. v.]: and also [used as]
 a simple subst. [meaning <hi rend="ital">Inclination</hi>]. (TA.)
 One says, <foreign lang="ar">أَقَامَ صَغَاهُ</foreign> [<hi rend="ital">He rectified</hi>] <hi rend="ital">his inclination.</hi>
-(TA.) And <foreign lang="ar">مَعَكَ</foreign> ↓ <orth type="arrow" lang="ar">صَغْوُهُ</orth> and ↓ <orth type="arrow" lang="ar">صِغْوُهُ</orth>, and <foreign lang="ar">صَغَاهُ</foreign>,
+(TA.) And <foreign lang="ar">صَغْوُهُ</foreign> ↓ <orth type="arrow" lang="ar">مَعَكَ</orth> and ↓ <orth type="arrow" lang="ar">صِغْوُهُ</orth>, and <foreign lang="ar">صَغَاهُ</foreign>,
 i. e. <hi rend="ital">His inclination</hi> [<hi rend="ital">is with thee,</hi> meaning, <hi rend="ital">is
 agreeable with thine</hi>]. (AZ, S, K.) In [some of]
 the copies of the K <foreign lang="ar">صَغْوُهُ</foreign> and <foreign lang="ar">صِغْوُهُ</foreign> are written
@@ -14616,7 +14618,7 @@ aor.
     <form n="infl">
       <orth orig="Bu" lang="ar">صَفُ3َ</orth></form>, (M, Mgh,) inf. n. <foreign lang="ar">صَفٌّ</foreign> and <foreign lang="ar">صَفَّى</foreign>, but
 [ISd says] this latter inf. n. I have not heard except in a phrase mentioned in what follows. (M.)
-Hence the saying, <foreign lang="ar">النِّسَآءُ خَلْفَ الرِّجَالِ وَلَا</foreign> ↓ <orth type="arrow" lang="ar">تَصُفُّ</orth>
+Hence the saying, <foreign lang="ar">تَصُفُّ</foreign> ↓ <orth type="arrow" lang="ar">النِّسَآءُ خَلْفَ الرِّجَالِ وَلَا</orth>
 <foreign lang="ar">تَصُفُّ مَعَهُمْ</foreign> [<hi rend="ital">The women shall stand in a rank behind the men</hi> in the mosque, <hi rend="ital">and shall not stand
 in a rank with them</hi>]. (Mgh.) And hence the
 saying of a woman of the desert to her sons,
@@ -14957,7 +14959,7 @@ And <foreign lang="ar">صَفَحَهُ</foreign>, (S, IAth, K, TA,) aor.
 (TA;) <hi rend="ital">He turned him back,</hi> or <hi rend="ital">sent him away;</hi>
 namely, a person asking, or begging; (S, K, TA;)
 <hi rend="ital">he refused his request:</hi> (IAth, TA:) and <foreign lang="ar">صَفَحَهُ</foreign>
-<foreign lang="ar">عَنْ حَاجَتِهِ</foreign> and <foreign lang="ar">عَنْهَا</foreign> ↓ <orth type="arrow" lang="ar">اصفحهُ</orth> <hi rend="ital">He refused him the
+<foreign lang="ar">عَنْ حَاجَتِهِ</foreign> and <foreign lang="ar">اصفحهُ</foreign> ↓ <orth type="arrow" lang="ar">عَنْهَا</orth> <hi rend="ital">He refused him the
 thing that he wanted.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b6-  And <foreign lang="ar">صَفَحَهُ</foreign> also
 signifies <hi rend="ital">He gave to him.</hi> (IAth, TA.) [Thus it
@@ -15042,7 +15044,7 @@ or <hi rend="ital">attentively, and examined its</hi> <foreign lang="ar">صَف�
 Mgh.) And <foreign lang="ar">تَصَفَّحْتُ الكِتَابَ</foreign> <hi rend="ital">I turned over,</hi> or
 <hi rend="ital">examined, the</hi> <foreign lang="ar">صَفَحَات</foreign>, meaning <hi rend="ital">pages, of the
 book;</hi> as also ↓ <orth type="arrow" lang="ar">صَفَحْتُهُ</orth>, inf. n. <foreign lang="ar">صَفْحٌ</foreign>: (Msb:) and
-<foreign lang="ar">وَرَقَ المُصْحَفِ</foreign> ↓ <orth type="arrow" lang="ar">صَفَحْتُ</orth> <hi rend="ital">I examined the leaves of
+<foreign lang="ar">صَفَحْتُ</foreign> ↓ <orth type="arrow" lang="ar">وَرَقَ المُصْحَفِ</orth> <hi rend="ital">I examined the leaves of
 the</hi> <foreign lang="ar">مُصْحَف</foreign> [i. e. <hi rend="ital">volume,</hi> or <hi rend="ital">book,</hi> or <hi rend="ital">copy of the
 Kur-án,</hi>] <hi rend="ital">one by one.</hi> (O, K.) And <foreign lang="ar">تصفّح القَوْمَ</foreign>,
 (Lth, A,) and ↓ <orth type="arrow" lang="ar">صَفَحَهُمْ</orth>, (Lth, O, Msb, K,) <hi rend="ital">He
@@ -15061,7 +15063,7 @@ make himself acquainted with their cases:</hi> and <hi rend="ital">he
 looked at the faces of the people, seeking to know
 them;</hi> as also ↓ <orth type="arrow" lang="ar">صَفَحَهَا</orth>. (Lth, TA.) And <foreign lang="ar">تصفّح</foreign>
 <foreign lang="ar">الأَمْرَ</foreign>, (A, TA,) and <foreign lang="ar">تصفّح فِى الأَمْرِ</foreign>, (K, TA,) and
-<foreign lang="ar">الأَمْرَ</foreign> ↓ <orth type="arrow" lang="ar">صَفَحَ</orth>, (TA,) and <foreign lang="ar">صَفَحَ فِى الأَمْرِ</foreign>, (K,
+<foreign lang="ar">صَفَحَ</foreign> ↓ <orth type="arrow" lang="ar">الأَمْرَ</orth>, (TA,) and <foreign lang="ar">صَفَحَ فِى الأَمْرِ</foreign>, (K,
 TA,) <hi rend="ital">He looked into the affair,</hi> or <hi rend="ital">case.</hi> (K,
 TA.)
 
@@ -15097,7 +15099,7 @@ former <foreign lang="ar">صِفَاحٌ</foreign>, as below, and] of the latter
 (Msb.) <foreign lang="ar">صَفْحَا الشَّىْءِ</foreign> signifies <hi rend="ital">The two sides of
 the thing;</hi> syn. <foreign lang="ar">جَانِبَاهُ</foreign>. (TA.) And <foreign lang="ar">صَفْحُ الإِنْسَانِ</foreign>
 <hi rend="ital">The side of the human being;</hi> (S, O, K; *) as also
-↓ <orth type="arrow" lang="ar">صَفْحَتُهُ</orth>. (O.) And hence, <foreign lang="ar">بَعِيرِهِ</foreign> ↓ <orth type="arrow" lang="ar">صَلَّى إِلَى صَفْحَةِ</orth>
+↓ <orth type="arrow" lang="ar">صَفْحَتُهُ</orth>. (O.) And hence, <foreign lang="ar">صَلَّى إِلَى صَفْحَةِ</foreign> ↓ <orth type="arrow" lang="ar">بَعِيرِهِ</orth>
 [<hi rend="ital">He prayed towards the side of his camel</hi>].
 (Mgh.) And <foreign lang="ar">صَفْحٌ</foreign> and ↓ <orth type="arrow" lang="ar">صُفْحٌ</orth> signify The <foreign lang="ar">عُرْض</foreign>
 [i. e. <hi rend="ital">side</hi>] (S, O, and K accord. to the TA, but in
@@ -15115,20 +15117,20 @@ one says, <foreign lang="ar">نَظَرَ إِلَيْهِ بِصَفْحِ وَ
 <foreign lang="ar">وجهه</foreign> (S) [<hi rend="ital">He looked towards him with the side
 of his face</hi> turned towards him] and ↓ <orth type="arrow" lang="ar">بِصَفْحَتِهِ</orth>
 [which means the same]: (A:) but accord. to AO,
-one says, <foreign lang="ar">السَّيْفِ</foreign> ↓ <orth type="arrow" lang="ar">ضَرَبَهُ بِصُفْحِ</orth> [<hi rend="ital">He struck him with
+one says, <foreign lang="ar">ضَرَبَهُ بِصُفْحِ</foreign> ↓ <orth type="arrow" lang="ar">السَّيْفِ</orth> [<hi rend="ital">He struck him with
 the side,</hi> or <hi rend="ital">flat, of the sword</hi>], and the vulgar say
 <foreign lang="ar">بِصَفْحِ السيف</foreign>, with fet-h: (S:) the pl. [of <foreign lang="ar">صَفْحٌ</foreign>]
 is <foreign lang="ar">صِفَاحٌ</foreign> (K, TA) and [that of ↓ <orth type="arrow" lang="ar">صُفْحٌ</orth> is] <foreign lang="ar">أَصْفَاحٌ</foreign>.
-(TA.) <foreign lang="ar">الرَّجُلِ</foreign> ↓ <orth type="arrow" lang="ar">صَفْحَةٌ</orth> signifies <hi rend="ital">The side</hi> (<foreign lang="ar">عُرْض</foreign>)
+(TA.) <foreign lang="ar">صَفْحَةٌ</foreign> ↓ <orth type="arrow" lang="ar">الرَّجُلِ</orth> signifies <hi rend="ital">The side</hi> (<foreign lang="ar">عُرْض</foreign>)
 <hi rend="ital">of the breast of the man.</hi> (L.) And one says,
-<foreign lang="ar">جَنْبِهِ</foreign> ↓ <orth type="arrow" lang="ar">ضَرَبَهُ عَلَى صَفْحَةِ</orth> [<hi rend="ital">He struck him on the
+<foreign lang="ar">ضَرَبَهُ عَلَى صَفْحَةِ</foreign> ↓ <orth type="arrow" lang="ar">جَنْبِهِ</orth> [<hi rend="ital">He struck him on the
 surface,</hi> or <hi rend="ital">flat part, of his side;</hi> and so <foreign lang="ar">على</foreign>
 <foreign lang="ar">صَفْحِ جنبه</foreign>; but the former is the more common].
-(A.) And <foreign lang="ar">السَّيْفِ</foreign> ↓ <orth type="arrow" lang="ar">جَلَا صَفْحَتَى</orth> [<hi rend="ital">He polished
+(A.) And <foreign lang="ar">جَلَا صَفْحَتَى</foreign> ↓ <orth type="arrow" lang="ar">السَّيْفِ</orth> [<hi rend="ital">He polished
 the two sides,</hi> or <hi rend="ital">surfaces, of the sword</hi>]. (A.)
-And <foreign lang="ar">الوَرَقَةِ</foreign> ↓ <orth type="arrow" lang="ar">كَتَبَ فِى صَفْحَتَىِ</orth> [<hi rend="ital">He wrote upon
+And <foreign lang="ar">كَتَبَ فِى صَفْحَتَىِ</foreign> ↓ <orth type="arrow" lang="ar">الوَرَقَةِ</orth> [<hi rend="ital">He wrote upon
 the two sides,</hi> or <hi rend="ital">faces, of the piece of paper</hi>].
-(A.) <foreign lang="ar">الكِتَابِ</foreign> ↓ <orth type="arrow" lang="ar">صَفَحَاتُ</orth> signifies <hi rend="ital">The pages,</hi> or
+(A.) <foreign lang="ar">صَفَحَاتُ</foreign> ↓ <orth type="arrow" lang="ar">الكِتَابِ</orth> signifies <hi rend="ital">The pages,</hi> or
 <hi rend="ital">faces of the leaves, of the book.</hi> (Msb.) And
 <foreign lang="ar">صَفْحُ الكَفِّ</foreign> <hi rend="ital">The face</hi> [i. e. <hi rend="ital">palm</hi>] <hi rend="ital">of the hand.</hi>
 (L.) And <foreign lang="ar">صَفْحَا الكَتِفِ</foreign> <hi rend="ital">The two parts of the
@@ -15284,7 +15286,7 @@ to the agent,]) <hi rend="ital">He struck him with the breadth,</hi> or
 with its edge:</hi> (A:) and <foreign lang="ar">ضربه بالسيف غَيْرَ مُصْفَحٍ</foreign>
 <hi rend="ital">He struck him with the sword not with its
 breadth, but with its edge.</hi> (TA.) And <foreign lang="ar">رَجُلٌ</foreign>
-<foreign lang="ar">الرَّأْسِ</foreign> ↓ <orth type="arrow" lang="ar">مُصَفَّحُ</orth> <hi rend="ital">A man wide,</hi> or <hi rend="ital">broad, in respect
+<foreign lang="ar">مُصَفَّحُ</foreign> ↓ <orth type="arrow" lang="ar">الرَّأْسِ</orth> <hi rend="ital">A man wide,</hi> or <hi rend="ital">broad, in respect
 of the head;</hi> (S, TA;) and so <foreign lang="ar">مُصْفَحُ الرَّأْسِ</foreign>.
 (TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  Also <hi rend="ital">Having the two sides of his head
@@ -16010,8 +16012,8 @@ itself from trees, hanging down its head, whistling
 all the night in fear lest it should sleep and be
 taken;</hi> and so in the prov. above mentioned:
 (Meyd, A: *) or, accord. to IAar, it means
-<foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">مَصْفُورٌ</orth> [<hi rend="ital">whistled to</hi>]: i. e., when he is whistled
-to, he flees: and by <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">المَصْفُورُ</orth> is meant the
+<foreign lang="ar">مَصْفُورٌ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth> [<hi rend="ital">whistled to</hi>]: i. e., when he is whistled
+to, he flees: and by <foreign lang="ar">المَصْفُورُ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth> is meant the
 <hi rend="ital">bird called</hi> <foreign lang="ar">التنوّط</foreign> [i. e. <foreign lang="ar">التَّنَوُّطُ</foreign> or <foreign lang="ar">التُّنَوِّطُ</foreign> &amp;c.], <hi rend="ital">the
 cowardice of which induces it to weave for itself a
 nest like a purse, suspended from a tree, narrow in
@@ -16281,12 +16283,12 @@ beat upon it;</hi> namely, a sail &amp;c.: (see <foreign lang="ar">شِرَاع�
 [and] both signify <hi rend="ital">the wind shifted it to the right
 and left, and turned it back:</hi> (TA: [in the CK,
 <foreign lang="ar">التَّتْلِيبُ</foreign> is erroneously put for <foreign lang="ar">التَّقْلِيبُ</foreign> as an
-explanation of <foreign lang="ar">التَّصْفِيقُ</foreign>:]) and <foreign lang="ar">الرِّيحُ المَآءَ</foreign> ↓ <orth type="arrow" lang="ar">صفّقت</orth>
+explanation of <foreign lang="ar">التَّصْفِيقُ</foreign>:]) and <foreign lang="ar">صفّقت</foreign> ↓ <orth type="arrow" lang="ar">الرِّيحُ المَآءَ</orth>
 <hi rend="ital">The wind beat the water so that it made it clear:</hi>
 (M:) and <foreign lang="ar">صَفَقَتِ الرِّيحُ الأَشْجَارَ</foreign>, (K,) aor. as
 above, inf. n. <foreign lang="ar">صَفْقٌ</foreign>, (O,) <hi rend="ital">The wind put the trees in
 motion,</hi> or <hi rend="ital">into a state of commotion,</hi> (O, K,)
-<hi rend="ital">and shook them:</hi> (O, TA:) and <foreign lang="ar">الرِّيحُ</foreign> ↓ <orth type="arrow" lang="ar">صفّقت</orth>
+<hi rend="ital">and shook them:</hi> (O, TA:) and <foreign lang="ar">صفّقت</foreign> ↓ <orth type="arrow" lang="ar">الرِّيحُ</orth>
 <foreign lang="ar">السَّحَابَ</foreign> <hi rend="ital">The wind smote the clouds,</hi> [for <foreign lang="ar">صَرَمَتْهُ</foreign> in
 my original, an obvious mistranscription, I read
 <foreign lang="ar">ضَرَبَتْهُ</foreign>,] <hi rend="ital">and blew in different directions upon
@@ -16336,9 +16338,9 @@ to do it. (Ibn-'Abbád, O.) ―
        <milestone unit="sense" n="2"/>-b10- 
 <foreign lang="ar">صَفَقَ القَدَحَ</foreign>, (O, K,) inf. n. <foreign lang="ar">صَفْقٌ</foreign>, (O, TA,) <hi rend="ital">He
 filled the drinking-vessel;</hi> as also ↓ <orth type="arrow" lang="ar">اصفقهُ</orth>; (O,
-K;) and ↓ <orth type="arrow" lang="ar">صفّقهُ</orth>: (O:) or <foreign lang="ar">الكَأْسَ</foreign> ↓ <orth type="arrow" lang="ar">صفّق</orth>, and
+K;) and ↓ <orth type="arrow" lang="ar">صفّقهُ</orth>: (O:) or <foreign lang="ar">صفّق</foreign> ↓ <orth type="arrow" lang="ar">الكَأْسَ</orth>, and
 ↓ <orth type="arrow" lang="ar">اصفقها</orth>, <hi rend="ital">he filled the drinking-cup,</hi> or <hi rend="ital">wine-cup:</hi>
-(Lh, M:) and <foreign lang="ar">الحَوْضَ</foreign> ↓ <orth type="arrow" lang="ar">اصفقنا</orth> <hi rend="ital">We collected the
+(Lh, M:) and <foreign lang="ar">اصفقنا</foreign> ↓ <orth type="arrow" lang="ar">الحَوْضَ</orth> <hi rend="ital">We collected the
 water in the watering-trough.</hi> (TA.) ― 
        <milestone unit="sense" n="2"/>-b11-  And
 <foreign lang="ar">صَفَقَهَا</foreign>, inf. n. <foreign lang="ar">صَفْقٌ</foreign>, <hi rend="ital">He compressed her;</hi> syn.
@@ -16348,7 +16350,7 @@ water in the watering-trough.</hi> (TA.) ―
     <milestone unit="sense" n="1"/>-A2- 
 <foreign lang="ar">صَفَقَ الرَّجُلُ</foreign>, (M, K,) inf. n. <foreign lang="ar">صَفْقٌ</foreign>, (M,) <hi rend="ital">The man
 went away.</hi> (M, K.) ― 
-       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">مِنَ</foreign> ↓ <orth type="arrow" lang="ar">صَفَقَتْ عَلَيْنَا صَافِقَةٌ</orth>
+       <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">صَفَقَتْ عَلَيْنَا صَافِقَةٌ</foreign> ↓ <orth type="arrow" lang="ar">مِنَ</orth>
 <foreign lang="ar">النَّاسِ</foreign> <hi rend="ital">A company of men alighted at our abode.</hi>
 (IDrd, M, * O, K. *) ― 
        <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">صَفَقَتْ</foreign>, (IDrd, O, K,)
@@ -17090,7 +17092,7 @@ of a ewe, or she-goat, (AA, S,) <hi rend="ital">She abounded with
 milk.</hi> (AA, S, M, K.) ＝   
     <milestone unit="sense" n="1"/>-A2-  <foreign lang="ar">صَفَا الشَّىْءَ</foreign> <hi rend="ital">He took the
 clear,</hi> or <hi rend="ital">pure, part,</hi> or <hi rend="ital">portion, of the thing;</hi>
-(M, TA;) as also <foreign lang="ar">صَفْوَهُ</foreign> ↓ <orth type="arrow" lang="ar">استصفى</orth>; (M;) and
+(M, TA;) as also <foreign lang="ar">استصفى</foreign> ↓ <orth type="arrow" lang="ar">صَفْوَهُ</orth>; (M;) and
 ↓ <orth type="arrow" lang="ar">استصفاهُ</orth> [alone] signifies the same; (K, TA;) as
 also ↓ <orth type="arrow" lang="ar">اصطفاهُ</orth>; (Er-Rághib, TA;) or <hi rend="ital">he took the
 best,</hi> or <hi rend="ital">choice, part,</hi> or <hi rend="ital">portion, of it.</hi> (TA.) You
@@ -17121,7 +17123,7 @@ or <hi rend="ital">grain.</hi> (TA.)
 reciprocal purity of mind,</hi> or <hi rend="ital">sincerity;</hi> or <hi rend="ital">with
 reciprocal purity,</hi> or <hi rend="ital">sincerity, of love,</hi> or <hi rend="ital">affection;</hi> syn. <foreign lang="ar">خَالَصَهُ</foreign>; (S in art. <foreign lang="ar">خلص</foreign>;) <hi rend="ital">he rendered
 him true,</hi> or <hi rend="ital">sincere, brotherly affection;</hi> (M, K,
-TA;) as also ↓ <orth type="arrow" lang="ar">اصفاهُ</orth>; (K;) or <foreign lang="ar">الوُدَّ</foreign> ↓ <orth type="arrow" lang="ar">اصفاهُ</orth>, (S,
+TA;) as also ↓ <orth type="arrow" lang="ar">اصفاهُ</orth>; (K;) or <foreign lang="ar">اصفاهُ</foreign> ↓ <orth type="arrow" lang="ar">الوُدَّ</orth>, (S,
 Msb,) or <foreign lang="ar">المَوَدَّةَ</foreign>, (TA,) <hi rend="ital">he rendered him pure,</hi> or
 <hi rend="ital">sincere, love</hi> or <hi rend="ital">affection;</hi> (S, Msb, TA;) and [in
 like manner] one says also <foreign lang="ar">صافاهُ الإِخَآءَ</foreign>. (TA.)
@@ -17148,7 +17150,7 @@ thing.</hi> (TA.) ―
        <milestone unit="sense" n="2"/>-b5- 
 <foreign lang="ar">اصفى الأَمِيرُ دَارَ فُلَانٍ</foreign> means (assumed tropical:)  <hi rend="ital">The prince,</hi> or
 <hi rend="ital">governor, took what was in the house of such a
-one:</hi> (S, * TA:) and <foreign lang="ar">مَالَهُ</foreign> ↓ <orth type="arrow" lang="ar">استصفى</orth> (tropical:)  <hi rend="ital">He took all
+one:</hi> (S, * TA:) and <foreign lang="ar">استصفى</foreign> ↓ <orth type="arrow" lang="ar">مَالَهُ</orth> (tropical:)  <hi rend="ital">He took all
 his property.</hi> (S, K, TA.) ＝   
     <milestone unit="sense" n="1"/>-A2-  <foreign lang="ar">اصفى</foreign>, intrans.,
 (tropical:)  <hi rend="ital">He was,</hi> or <hi rend="ital">became, destitute,</hi> or <hi rend="ital">devoid,</hi> <foreign lang="ar">مِنَ</foreign>
@@ -17273,7 +17275,7 @@ K,) but only with fet-h when without <foreign lang="ar">ة</foreign>, (AO,
 S,) The <hi rend="ital">clear,</hi> or <hi rend="ital">pure, part,</hi> or <hi rend="ital">portion,</hi> of a
 thing; (S, M, Msb, K;) the <hi rend="ital">best,</hi> or <hi rend="ital">choice, part,</hi>
 or <hi rend="ital">portion;</hi> (TA;) and so ↓ <orth type="arrow" lang="ar">صَفِىٌّ</orth>, (K, * TA,) of a
-thing. (K, TA.) One says <foreign lang="ar">المَآءِ</foreign> ↓ <orth type="arrow" lang="ar">صَفْوَةُ</orth>, (T, TA,)
+thing. (K, TA.) One says <foreign lang="ar">صَفْوَةُ</foreign> ↓ <orth type="arrow" lang="ar">المَآءِ</orth>, (T, TA,)
 and <foreign lang="ar">المَالِ</foreign>, (AO, T, S, TA,) and <foreign lang="ar">الآخَآءِ</foreign>, (T, TA,)
 and ↓ <orth type="arrow" lang="ar">صِفْوَتُهُ</orth>, (AO, T, S, TA,) and ↓ <orth type="arrow" lang="ar">صُفْوَتُهُ</orth>, (AO,
 S,) [i. e. <hi rend="ital">The clear,</hi> or <hi rend="ital">pure, part,</hi> or <hi rend="ital">portion,</hi> or
@@ -17281,10 +17283,10 @@ S,) [i. e. <hi rend="ital">The clear,</hi> or <hi rend="ital">pure, part,</hi> o
 and <hi rend="ital">of brothers,</hi>] but only <foreign lang="ar">صَفْوُ الإِهَالَةِ</foreign> [<hi rend="ital">the clear,</hi>
 or <hi rend="ital">pure, part,</hi> or <hi rend="ital">portion,</hi> or <hi rend="ital">the best,</hi> or <hi rend="ital">choice, of
 the grease,</hi> or <hi rend="ital">melted fat,</hi> &amp;c.]. (T, TA.) And
-Mohammad is said to be <foreign lang="ar">ٱللّٰهِ مِنْ خَلْقِهِ</foreign> ↓ <orth type="arrow" lang="ar">صَفْوَةُ</orth>
+Mohammad is said to be <foreign lang="ar">صَفْوَةُ</foreign> ↓ <orth type="arrow" lang="ar">ٱللّٰهِ مِنْ خَلْقِهِ</orth>
 and ↓ <orth type="arrow" lang="ar">مُصْطَفَاهُ</orth> [i. e. <hi rend="ital">God's choice one,</hi> or <hi rend="ital">elect,</hi> or
 <hi rend="ital">favourite, of his creatures</hi>]: (S:) and [in like
-manner] Adam is said to be <foreign lang="ar">ٱللّٰهِ</foreign> ↓ <orth type="arrow" lang="ar">صَفِىُّ</orth> i. e. <hi rend="ital">the
+manner] Adam is said to be <foreign lang="ar">صَفِىُّ</foreign> ↓ <orth type="arrow" lang="ar">ٱللّٰهِ</orth> i. e. <hi rend="ital">the
 chosen one,</hi> or <hi rend="ital">elect, of God.</hi> (TA.)
 
   </entryFree>
@@ -17415,7 +17417,7 @@ by transposition from <foreign lang="ar">صَائِفٌ</foreign>, meaning “ o
 [season called] <foreign lang="ar">صَيْف</foreign>, ” and so belonging to art.
 <foreign lang="ar">صيف</foreign>. (M. [See also <foreign lang="ar">صَافٍ</foreign> in another sense as
 formed by transposition from <foreign lang="ar">صَائِفٌ</foreign>, voce <foreign lang="ar">صَافٌ</foreign>,
-in art. <foreign lang="ar">صوف</foreign>.]) In the phrase <foreign lang="ar">اللَّوْنِ</foreign> ↓ <orth type="arrow" lang="ar">صَفَاةُ</orth> applied by the poet Kutheiyir-'Azzeh to honey
+in art. <foreign lang="ar">صوف</foreign>.]) In the phrase <foreign lang="ar">صَفَاةُ</foreign> ↓ <orth type="arrow" lang="ar">اللَّوْنِ</orth> applied by the poet Kutheiyir-'Azzeh to honey
 (<foreign lang="ar">جَنَاةُ النَّحْلِ</foreign>), and expl. as meaning <hi rend="ital">Clear in respect of colour,</hi> [ISd says,] I think that <foreign lang="ar">صفاة</foreign> is
 originally <foreign lang="ar">صَفِيَة</foreign>, as a possessive epithet. (M.)
 [<foreign lang="ar">صَافٍ</foreign> is also applied to a sword, and the like, as
@@ -17481,7 +17483,7 @@ had fallen into it.</hi> (TA.)
 (M, A, K,) [like <foreign lang="ar">سَقِبَ</foreign>,] <hi rend="ital">He,</hi> or <hi rend="ital">it, was,</hi> or <hi rend="ital">became, near.</hi> (S, M, * A, * K.) You say, <foreign lang="ar">صَقِبَتْ دَارُهُ</foreign>,
 (S, A,) with kesr [to the <foreign lang="ar">ق</foreign>], (S,) inf. n. as above,
 (S, * A,) <hi rend="ital">His house was near;</hi> (S, A;) and (A)
-so <foreign lang="ar">دَارُهُ</foreign> ↓ <orth type="arrow" lang="ar">أَصْقَبَتْ</orth>, (M, A, K, TA,) and <foreign lang="ar">أَسْقَبَتْ</foreign>.
+so <foreign lang="ar">أَصْقَبَتْ</foreign> ↓ <orth type="arrow" lang="ar">دَارُهُ</orth>, (M, A, K, TA,) and <foreign lang="ar">أَسْقَبَتْ</foreign>.
 (TA.) And it is said in a trad., (S, A,) <foreign lang="ar">الجَارُ</foreign>
 <foreign lang="ar">أَحَقُّ بِصَقَبِهِ</foreign>, (S, A, K,) i. e. [<hi rend="ital">The neighbour has a
 better,</hi> or <hi rend="ital">the best, claim</hi> to pre-emption <hi rend="ital">by reason
@@ -17774,7 +17776,7 @@ milk;</hi> as also ↓ <orth type="arrow" lang="ar">صَقْرَةٌ</orth>: (S:
 that has curdled, and of which the thick part has
 become separate, and the whey become clear, and
 that has become sour, so as to be a good kind of
-sauce.</hi> (L.) One says, <foreign lang="ar">تَزْوِى الوَجْهَ</foreign> ↓ <orth type="arrow" lang="ar">جَآءَنَا بِصَقْرَةٍ</orth>
+sauce.</hi> (L.) One says, <foreign lang="ar">جَآءَنَا بِصَقْرَةٍ</foreign> ↓ <orth type="arrow" lang="ar">تَزْوِى الوَجْهَ</orth>
 [<hi rend="ital">He brought us some sour milk,</hi> or <hi rend="ital">very sour milk,</hi>
 &amp;c., <hi rend="ital">such as contracts the face,</hi> or <hi rend="ital">makes it to
 wrinkle:</hi> like as one says <foreign lang="ar">بِصَرْبَةٍ</foreign>]. (S, A, L.) ― 
@@ -18849,7 +18851,7 @@ is there said that the sing. is <foreign lang="ar">صَاكِمٌ</foreign>]. (K
   </entryFree>
 <entryFree id="n24645" key="صَوَاكِمُ" type="main">
     <form>
-      <orth orig="" extent="full" lang="ar">صَوَاكِمُ</orth></form> <hi rend="ital">Calamities, misfortunes,</hi> or <hi rend="ital">evil accidents.</hi> (K.) The Arabs say, <foreign lang="ar">صَوَاكِمُ الدَّهْرِ</foreign> ↓ <orth type="arrow" lang="ar">صَكَمَتْهُ</orth>
+      <orth orig="" extent="full" lang="ar">صَوَاكِمُ</orth></form> <hi rend="ital">Calamities, misfortunes,</hi> or <hi rend="ital">evil accidents.</hi> (K.) The Arabs say, <foreign lang="ar">صَكَمَتْهُ</foreign> ↓ <orth type="arrow" lang="ar">صَوَاكِمُ الدَّهْرِ</orth>
 [<hi rend="ital">The calamities of fortune smote him;</hi> or <hi rend="ital">may
 the calamities of fortune smite him</hi>]. (S.)
 
@@ -18929,7 +18931,7 @@ flesh-meat that is chewed], which indicates that it
 is used in relation to that which is cooked and
 roasted; or, accord. to some, the verb here means
 <foreign lang="ar">أَثْقَلَت</foreign> [<hi rend="ital">which has rendered heavy</hi> the eater]:
-(M:) and one says also <foreign lang="ar">اللِّحَامُ</foreign> ↓ <orth type="arrow" lang="ar">صَلَّلَتِ</orth> [<hi rend="ital">the
+(M:) and one says also <foreign lang="ar">صَلَّلَتِ</foreign> ↓ <orth type="arrow" lang="ar">اللِّحَامُ</orth> [<hi rend="ital">the
 flesh-meats were,</hi> or <hi rend="ital">became stinking</hi> (in both of
 my copies of the S <foreign lang="ar">اللِّجَامُ</foreign> is erroneously put for
 <foreign lang="ar">اللِّحَامُ</foreign>, the reading in other copies of the S and in
@@ -19563,11 +19565,11 @@ strong,</hi> or <hi rend="ital">resisting,</hi> or <hi rend="ital">indomitable, 
 (<foreign lang="ar">عَزِيزُ النَّفْسِ</foreign>;) thus <foreign lang="ar">صُلْبُ المَعْجَمِ</foreign> is expl. in the S
 and K in art. <foreign lang="ar">عجم</foreign>]: and <foreign lang="ar">صُلْبُ العُودِ</foreign> (tropical:) [which
 means the same]. (A, TA.) And <foreign lang="ar">صُلْبُ العَصَا</foreign> and
-<foreign lang="ar">العَصَا</foreign> ↓ <orth type="arrow" lang="ar">صَلِيبُ</orth>, applied to a tender of camels; [lit.
+<foreign lang="ar">صَلِيبُ</foreign> ↓ <orth type="arrow" lang="ar">العَصَا</orth>, applied to a tender of camels; [lit.
 <hi rend="ital">Hard,</hi> &amp;c., <hi rend="ital">in respect of the staff;</hi>] meaning
 (assumed tropical:) <hi rend="ital">hard, severe,</hi> or <hi rend="ital">rigorous, in his treatment of the
 camels:</hi> Er-Rá'ee says,
-<quote><L><foreign lang="ar">العَصَا بَادِى العُرُوقِ تَرَى لَهُ</foreign> ↓ <orth type="arrow" lang="ar">صَلِيْبُ</orth></L>
+<quote><L><foreign lang="ar">صَلِيْبُ</foreign> ↓ <orth type="arrow" lang="ar">العَصَا بَادِى العُرُوقِ تَرَى لَهُ</orth></L>
 <L><foreign lang="ar">عَلَيْهَا إِذَا مَا أَجْدَبَ النَّاسُ إِصْبَعَا</foreign></L>
 </quote>
 [<hi rend="ital">Hard,</hi> &amp;c., <hi rend="ital">having the veins</hi> of his limbs <hi rend="ital">appearing: thou wilt see him to have a finger pointing
@@ -20197,7 +20199,7 @@ art. <foreign lang="ar">شعب</foreign>.)
       <orth orig="" extent="full" lang="ar">اصطلحا</orth></form> (S, A, K) and <foreign lang="ar">اصتلحا</foreign>, (K,) and
 ↓ <orth type="arrow" lang="ar">تصالحا</orth> (S, A, K) and ↓ <orth type="arrow" lang="ar">اِصَّالَحَا</orth>, (S, K,) [the last
 a var. of <foreign lang="ar">تصالحا</foreign>,] all signify the same, (TA,) and
-<foreign lang="ar">القَوْمُ</foreign> ↓ <orth type="arrow" lang="ar">تصالح</orth>, and <foreign lang="ar">اصطلحوا</foreign>, (Mgh,) [<hi rend="ital">They two,</hi>
+<foreign lang="ar">تصالح</foreign> ↓ <orth type="arrow" lang="ar">القَوْمُ</orth>, and <foreign lang="ar">اصطلحوا</foreign>, (Mgh,) [<hi rend="ital">They two,</hi>
 (i. e. two persons or two parties,) and] <hi rend="ital">the people,</hi>
 or <hi rend="ital">party, made peace,</hi> or <hi rend="ital">became at peace</hi> or
 <hi rend="ital">reconciled,</hi> [<hi rend="ital">each with the other,</hi> and] <hi rend="ital">one with
@@ -20728,7 +20730,7 @@ same also near the end of the paragraph.
 only a sound when one endeavours to produce
 fire from it;</hi> meaning (assumed tropical:)  <hi rend="ital">he is not one who ungenerously refuses when asked</hi>]; an expression of
 praise; (TA in art. <foreign lang="ar">كسر</foreign>;) and [in like manner]
-<foreign lang="ar">القَدْحِ</foreign> ↓ <orth type="arrow" lang="ar">لَيْسَ بِصَلَّادِ</orth>. (TA. in art. <foreign lang="ar">هش</foreign>.) ＝   
+<foreign lang="ar">لَيْسَ بِصَلَّادِ</foreign> ↓ <orth type="arrow" lang="ar">القَدْحِ</orth>. (TA. in art. <foreign lang="ar">هش</foreign>.) ＝   
     <milestone unit="sense" n="1"/>-A2-  Also
 Milk <hi rend="ital">milked into a greasy vessel, and therefore
 without froth.</hi> (K.)
@@ -21187,7 +21189,7 @@ him,</hi> namely, another man. (Ibn-'Abbád, O, K.)
 (A, TA.) ― 
        <milestone unit="sense" n="2"/>-b3-  And one says to a woman, <foreign lang="ar">أَصْلَفَ</foreign>
 <foreign lang="ar">ٱللّٰهُ رُفْغَكِ</foreign>, meaning <hi rend="ital">May God make thee</hi> [or <hi rend="ital">thy</hi>
-<foreign lang="ar">فَرْج</foreign> or <hi rend="ital">the like</hi>] <hi rend="ital">to be hated by thy husband.</hi> (EshSheybánee, S, O, K.) ＝ 
+<foreign lang="ar">فَرْج</foreign> or <hi rend="ital">the like</hi>] <hi rend="ital">to be hated by thy husband.</hi> (EshSheybánee, S, O, K.)  
     <milestone unit="sense" n="1"/>-A3-  <foreign lang="ar">اصلف القَوْمُ</foreign>, (thus in the
 O, on the authority of Ibn-'Abbád, [like <foreign lang="ar">أَحْزَنَ</foreign>,
 and its contr. <foreign lang="ar">أَسْهَلَ</foreign>, &amp;c.,]) or ↓ <orth type="arrow" lang="ar">تصلّف</orth>, (thus in
@@ -21384,7 +21386,7 @@ TA. *) ＝
 <hi rend="ital">grated his tush against another so as to make
 them produce a sound:</hi> and ↓ <orth type="arrow" lang="ar">اصلق</orth>, said of a
 stallion [camel], <hi rend="ital">he made his tushes to produce a
-grating sound:</hi> (M, TA:) and <foreign lang="ar">بِنَابِهِ</foreign> ↓ <orth type="arrow" lang="ar">اصطلق</orth>,
+grating sound:</hi> (M, TA:) and <foreign lang="ar">اصطلق</foreign> ↓ <orth type="arrow" lang="ar">بِنَابِهِ</orth>,
 likewise said of a stallion [camel], <hi rend="ital">he made a
 grating sound with his tush.</hi> (S, Msb, TA.) ― 
        <milestone unit="sense" n="2"/>-b2- 
@@ -21496,7 +21498,7 @@ grated, one against another.</hi> (S, * O, * TA.)
 O, K, * in which last <foreign lang="ar">صياما</foreign> is omitted,) <hi rend="ital">in the
 place,</hi> (JK, Ibn-'Abbád, O,) or <hi rend="ital">in a place,</hi> (K,)
 i. e. <hi rend="ital">in one place,</hi> (TA,) <hi rend="ital">and which the beasts have
-beaten</hi> [<hi rend="ital">with their feet</hi>], (<foreign lang="ar">الدَّوَابُّ</foreign> ↓ <orth type="arrow" lang="ar">صَلَقَهَا</orth>, [which,
+beaten</hi> [<hi rend="ital">with their feet</hi>], (<foreign lang="ar">صَلَقَهَا</foreign> ↓ <orth type="arrow" lang="ar">الدَّوَابُّ</orth>, [which,
 accord. to MF, should be <foreign lang="ar">صَلَقَهُ الدَّوَابُّ</foreign>, referring
 to the word <foreign lang="ar">مَآء</foreign>, but accord. to the TA it may
 refer to <foreign lang="ar">صُلَاقَة</foreign>,]) wherefore it is [said to be]
@@ -22016,10 +22018,10 @@ as also ↓ <orth type="arrow" lang="ar">اصلاهُ</orth>; and ↓ <orth type
 (TA;) namely, flesh-meat. (M, K. [But see the
 next sentence.]) And <foreign lang="ar">صَلَاهُ النَّارَ</foreign> and <foreign lang="ar">فِى النَّارِ</foreign> and
 <foreign lang="ar">عَلَى النَّارِ</foreign>, (M, K,) inf. n. <foreign lang="ar">صَلْىٌ</foreign> and <foreign lang="ar">صُلِىٌّ</foreign> and
-<foreign lang="ar">صِلِىٌّ</foreign>; (M;) and <foreign lang="ar">النَّارَ</foreign> ↓ <orth type="arrow" lang="ar">اصلاهُ</orth>, and <foreign lang="ar">النَّارَ</foreign> ↓ <orth type="arrow" lang="ar">صلّاهُ</orth>;
+<foreign lang="ar">صِلِىٌّ</foreign>; (M;) and <foreign lang="ar">اصلاهُ</foreign> ↓ <orth type="arrow" lang="ar">النَّارَ</orth>, and <foreign lang="ar">صلّاهُ</foreign> ↓ <orth type="arrow" lang="ar">النَّارَ</orth>;
 <hi rend="ital">He made him to enter into the fire, and to remain,
 stay, dwell,</hi> or <hi rend="ital">abide, therein:</hi> (M, K:) and
-<foreign lang="ar">فُلَانٌ النَّارَ</foreign> ↓ <orth type="arrow" lang="ar">صُلِّىَ</orth> [<hi rend="ital">Such as one was made to enter
+<foreign lang="ar">صُلِّىَ</foreign> ↓ <orth type="arrow" lang="ar">فُلَانٌ النَّارَ</orth> [<hi rend="ital">Such as one was made to enter
 into the fire,</hi> &amp;c.]: (M:) [or] you say, <foreign lang="ar">صَلَيْتُ</foreign>
 <foreign lang="ar">الرَّجُلَ نَارًا</foreign>, meaning <hi rend="ital">I made the man to enter fire
 and to be burned:</hi> and ↓ <orth type="arrow" lang="ar">أَصْلَيْتُهُ</orth>, with <foreign lang="ar">ا</foreign>, when you
@@ -22050,7 +22052,7 @@ or both, (M,) and <foreign lang="ar">صِلِىٌّ</foreign> and <foreign lang=
 accord. to the K <foreign lang="ar">صَلَآءٌ</foreign>, but this is a mistake for
 <foreign lang="ar">صَلًى</foreign>, (TA,) <hi rend="ital">He was,</hi> or <hi rend="ital">became, burned</hi> [<hi rend="ital">by the
 fire</hi>]: (S:) or <hi rend="ital">he endured,</hi> or <hi rend="ital">suffered, the heat of
-the fire;</hi> as also <foreign lang="ar">النَّارَ</foreign> ↓ <orth type="arrow" lang="ar">تصلّى</orth>: (M, K:) or <hi rend="ital">he felt
+the fire;</hi> as also <foreign lang="ar">تصلّى</foreign> ↓ <orth type="arrow" lang="ar">النَّارَ</orth>: (M, K:) or <hi rend="ital">he felt
 the heat of the fire:</hi> (Msb:) and one says ↓ <orth type="arrow" lang="ar">تصلّى</orth>
 <foreign lang="ar">حَرَّ النَّارِ</foreign> and ↓ <orth type="arrow" lang="ar">اصطلاهُ</orth> [in this last sense or in the
 sense next preceding]: (Ham p. 792:) and <foreign lang="ar">صَلِىَ</foreign>
@@ -22061,13 +22063,13 @@ fire;</hi> and so <foreign lang="ar">بِكَذَا</foreign> (assumed tropical:
 by fire</hi>]. (TA.) [In the Kur, in which are many
 exs. of it, (iv. 11, xiv. 34, xvii. 19, &amp;c.,) it is always
 trans. by itself, without <foreign lang="ar">بِ</foreign>.] And <foreign lang="ar">صَلِىَ بِالأَمْرِ</foreign>, (S,
-M, *) and <foreign lang="ar">بِالحَرْبِ</foreign>; (S;) and <foreign lang="ar">الأَمْرَ</foreign> ↓ <orth type="arrow" lang="ar">تصلّى</orth>, and
+M, *) and <foreign lang="ar">بِالحَرْبِ</foreign>; (S;) and <foreign lang="ar">تصلّى</foreign> ↓ <orth type="arrow" lang="ar">الأَمْرَ</orth>, and
 <foreign lang="ar">الحَرْبَ</foreign>; (M;) <hi rend="ital">He endured,</hi> or <hi rend="ital">suffered, the heat,</hi>
 and <hi rend="ital">severity,</hi> or <hi rend="ital">vehemence, of the affair,</hi> or <hi rend="ital">case,</hi>
 and <hi rend="ital">of the war,</hi> or <hi rend="ital">fight:</hi> (S, M:) Aboo-Zubeyd
 says,
-<quote><L><foreign lang="ar">حَرَّ حَرْبِهِمُ</foreign> ↓ <orth type="arrow" lang="ar">فَقَدْ تَصَلَّيْتُ</orth></L>
-<L><foreign lang="ar">المَقْرُورُ مِنْ قَرَسِ</foreign> ↓ <orth type="arrow" lang="ar">كَمَا تَصَلَّى</orth></L>
+<quote><L><foreign lang="ar">فَقَدْ تَصَلَّيْتُ</foreign> ↓ <orth type="arrow" lang="ar">حَرَّ حَرْبِهِمُ</orth></L>
+<L><foreign lang="ar">كَمَا تَصَلَّى</foreign> ↓ <orth type="arrow" lang="ar">المَقْرُورُ مِنْ قَرَسِ</orth></L>
 </quote>
 [<hi rend="ital">And I have suffered the heat and vehemence of
 their war, like as he who is affected with cold
@@ -22078,7 +22080,7 @@ suffers in consequence of coldest and most abundant hoar-frost</hi>]. (M.) ＝
 holds <foreign lang="ar">صَلَاةٌ</foreign> [expl. in art. <foreign lang="ar">صلو</foreign>] to be derived;
 because it is a keeping, or cleaving, to that which
 God has appointed: and hence also, [it is said,]
-<foreign lang="ar">فِى النَّارِ</foreign> ↓ <orth type="arrow" lang="ar">مَنْ يُصَلَّى</orth>, i. e. <foreign lang="ar">يلزم</foreign> [app. <foreign lang="ar">يُلْزَمُ</foreign>, meaning
+<foreign lang="ar">مَنْ يُصَلَّى</foreign> ↓ <orth type="arrow" lang="ar">فِى النَّارِ</orth>, i. e. <foreign lang="ar">يلزم</foreign> [app. <foreign lang="ar">يُلْزَمُ</foreign>, meaning
 <foreign lang="ar">مَنْ يُلْزَمُ النَّارَ</foreign> <hi rend="ital">He who is made to keep,</hi> or <hi rend="ital">cleave,
 to the fire;</hi> nearly agreeing with <foreign lang="ar">صَلَّاهُ النَّارَ</foreign> as
 expl. above from the M and K]. (TA.) ＝   
@@ -22141,10 +22143,10 @@ last sentence.
       <itype>8</itype> 
       <orth orig="" extent="full" lang="ar">اصطلى</orth></form> <hi rend="ital">He warmed himself</hi> (M, K) <foreign lang="ar">بِالنَّارِ</foreign>
 [<hi rend="ital">by means of the fire</hi>]: (M:) one says, <foreign lang="ar">اِصْطَلَيْتُ</foreign>
-<foreign lang="ar">بِالنَّارِ</foreign> and <foreign lang="ar">بِهَا</foreign> ↓ <orth type="arrow" lang="ar">تَصَلَّيْتُ</orth> [app. meaning <hi rend="ital">I warmed
+<foreign lang="ar">بِالنَّارِ</foreign> and <foreign lang="ar">تَصَلَّيْتُ</foreign> ↓ <orth type="arrow" lang="ar">بِهَا</orth> [app. meaning <hi rend="ital">I warmed
 myself by means of the fire</hi>]: (S:) or <foreign lang="ar">اصطلى النَّارَ</foreign>
 and <foreign lang="ar">بِالنَّارِ</foreign> mean <hi rend="ital">he became warm by means of the
-fire:</hi> and <foreign lang="ar">بِالنَّارِ</foreign> ↓ <orth type="arrow" lang="ar">تصلّى</orth>, <hi rend="ital">he became burnt by the
+fire:</hi> and <foreign lang="ar">تصلّى</foreign> ↓ <orth type="arrow" lang="ar">بِالنَّارِ</orth>, <hi rend="ital">he became burnt by the
 fire.</hi> (MA.) Hence, in the Kur [xxvii. 7 and
 xxviii. 29], <foreign lang="ar">لَعَلَّكُمْ تَصْطَلُونَ</foreign> [<hi rend="ital">May-be ye will warm
 yourselves</hi>]: (TA:) in relation to which it is said
@@ -22304,7 +22306,7 @@ above, inf. n. <foreign lang="ar">صَمَمٌ</foreign>, <hi rend="ital">The ea
        <milestone unit="sense" n="2"/>-b2-  [And <hi rend="ital">He was,</hi> or <hi rend="ital">became, as though
 he heard not.</hi>] One says, <foreign lang="ar">صَمَّ عَنْهُ</foreign> (assumed tropical:)  [<hi rend="ital">He was as
 though he heard not him,</hi> or <hi rend="ital">it; he was deaf to
-him,</hi> or <hi rend="ital">it</hi>]; (M;) and <foreign lang="ar">عَنْهُ</foreign> ↓ <orth type="arrow" lang="ar">أَصَمَّ</orth> [meaning the
+him,</hi> or <hi rend="ital">it</hi>]; (M;) and <foreign lang="ar">أَصَمَّ</foreign> ↓ <orth type="arrow" lang="ar">عَنْهُ</orth> [meaning the
 same]. (S, M.) ― 
        <milestone unit="sense" n="2"/>-b3-  [Hence <foreign lang="ar">صَمَّ</foreign> signifies also (assumed tropical:)  <hi rend="ital">He</hi>
 or <hi rend="ital">it, uttered,</hi> or <hi rend="ital">made, no sound</hi> or <hi rend="ital">noise;</hi> like
@@ -23343,7 +23345,7 @@ after it;</hi> or <hi rend="ital">intended,</hi> or <hi rend="ital">purposed, it
 <foreign lang="ar">اِعْتَمَدَهُ</foreign>; (A;) or <foreign lang="ar">قَصَدَ قَصْدَهُ</foreign>. (M.) And ↓ <orth type="arrow" lang="ar">تصمّد</orth>
 <foreign lang="ar">لَهُ بِالعَصَا</foreign> <hi rend="ital">He betook himself to him</hi> or <hi rend="ital">towards
 him,</hi> or <hi rend="ital">aimed at him, with the staff,</hi> or <hi rend="ital">stick;</hi>
-syn. <foreign lang="ar">قَصَدَ</foreign>. (M.) And <foreign lang="ar">رَأْسَهُ بِالعَصَا</foreign> ↓ <orth type="arrow" lang="ar">تصمّد</orth> <hi rend="ital">He
+syn. <foreign lang="ar">قَصَدَ</foreign>. (M.) And <foreign lang="ar">تصمّد</foreign> ↓ <orth type="arrow" lang="ar">رَأْسَهُ بِالعَصَا</orth> <hi rend="ital">He
 aimed</hi> (<foreign lang="ar">عَمَدَ</foreign>) <hi rend="ital">at the main part of his head with
 the staff,</hi> or <hi rend="ital">stick.</hi> (M.) ― 
        <milestone unit="sense" n="2"/>-b2-  Hence, <foreign lang="ar">صَمَدَ لَهُ</foreign> <hi rend="ital">He
@@ -24985,7 +24987,7 @@ And <foreign lang="ar">صَنَعَ إِلَيْهِ مَعْرُوفًا</forei
 benefit, favour,</hi> or <hi rend="ital">kind act:</hi> and <foreign lang="ar">صَنَعَ بِهِ صَنِيعًا</foreign>
 <foreign lang="ar">قَبِيحًا</foreign> <hi rend="ital">he did to him an evil,</hi> or <hi rend="ital">a foul, deed:</hi> syn.
 <foreign lang="ar">فَعَلَهُ</foreign>: (S, O, K:) and one says also [in the former
-of these two senses], <foreign lang="ar">عِنْدَهُ صَنِيعَةً</foreign> ↓ <orth type="arrow" lang="ar">اِصْطَنَعَ</orth>; (S,
+of these two senses], <foreign lang="ar">اِصْطَنَعَ</foreign> ↓ <orth type="arrow" lang="ar">عِنْدَهُ صَنِيعَةً</orth>; (S,
 Mgh, K;) syn. <foreign lang="ar">اِتَّخَذَهَا</foreign>; (K;) or <foreign lang="ar">أَحْسَنَ إِلَيْهِ</foreign>.
 (Mgh.) The saying <foreign lang="ar">مَا صَنَعْتَ وَأَبَاكَ</foreign> means <foreign lang="ar">مَعَ</foreign>
 <foreign lang="ar">أَبِيكَ</foreign> [i. e. <hi rend="ital">What didst thou together with thy
@@ -25015,14 +25017,14 @@ and <foreign lang="ar">صُنِعَتِ الجَارِيَةُ</foreign> (tropic
 was treated</hi> [or <hi rend="ital">nourished</hi>] <hi rend="ital">well, so that she became
 fat;</hi> as also ↓ <orth type="arrow" lang="ar">صُنِّعَت</orth>, inf. n. <foreign lang="ar">تَصْنِيعٌ</foreign>: (K, TA:)
 or you say <foreign lang="ar">اِصْنَعِ الفَرَسَ</foreign>, (so accord. to my MS.
-copy of the K,) or <foreign lang="ar">الفَرَسَ</foreign> ↓ <orth type="arrow" lang="ar">أَصْنَعَ</orth>, (so accord. to
+copy of the K,) or <foreign lang="ar">أَصْنَعَ</foreign> ↓ <orth type="arrow" lang="ar">الفَرَسَ</orth>, (so accord. to
 other copies of the K, and in the O, [in the CK
 <foreign lang="ar">اُصْنِعَ الفَرَسُ</foreign>,]) without teshdeed; [which seems to
 indicate that the right reading is <foreign lang="ar">صَنَعَ</foreign>, agreeably
 with the reading in my MS. copy of the K which
 gives the imperative form; though it is stated in
 the TA that <foreign lang="ar">أَصْنَعَ الفَرَسَ</foreign> is said by IKtt to be a
-dial. var. of <foreign lang="ar">صَنَعَهُ</foreign>;] (O, K;) and <foreign lang="ar">الجَارِيَةَ</foreign> ↓ <orth type="arrow" lang="ar">صَنَّعَ</orth>,
+dial. var. of <foreign lang="ar">صَنَعَهُ</foreign>;] (O, K;) and <foreign lang="ar">صَنَّعَ</foreign> ↓ <orth type="arrow" lang="ar">الجَارِيَةَ</orth>,
 <pb n="1733"/>
 with teshdeed, meaning <hi rend="ital">he treated</hi> [or <hi rend="ital">nourished</hi>]
 <hi rend="ital">well the girl,</hi> or <hi rend="ital">young woman, and fattened her;</hi>
@@ -25120,7 +25122,7 @@ like;</hi> (S, O, K, TA; [<foreign lang="ar">الصَّمْت</foreign> in the C
 thereof;</hi> (TA;) and the <hi rend="ital">adorning oneself</hi> (K, TA)
 <hi rend="ital">thereby, while internally unsound in the grounds
 of pretension to respect.</hi> (TA.) And <foreign lang="ar">تصنّعت</foreign>,
-said of a woman, means <foreign lang="ar">نَفْسَهَا</foreign> ↓ <orth type="arrow" lang="ar">صَنَعَتْ</orth> [<hi rend="ital">She cultivated and improved her person, so as to render
+said of a woman, means <foreign lang="ar">صَنَعَتْ</foreign> ↓ <orth type="arrow" lang="ar">نَفْسَهَا</orth> [<hi rend="ital">She cultivated and improved her person, so as to render
 herself comely, by art, and good nurture</hi>]: (S,
 O:) or <hi rend="ital">she adorned,</hi> or <hi rend="ital">embellished, herself.</hi>
 (PS.)
@@ -25256,22 +25258,22 @@ next precedes it.])
     <form>
       <orth orig="" extent="full" lang="ar">رَجُلٌ صَنَعٌ</orth></form>, (Mgh, L, Msb,) and <foreign lang="ar">رَجُلٌ صَنَعُ اليَدَيْنِ</foreign>,
 (S, Mgh, O, Msb, K,) and <foreign lang="ar">صَنَعُ اليَدِ</foreign>, (Th, TA,)
-and <foreign lang="ar">اليَدَيْنِ</foreign> ↓ <orth type="arrow" lang="ar">صِنْعُ</orth>, (S, O, K,) and <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صِنْعُ</orth>,
-(TA,) and <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صُنْعُ</orth>, (IB, TA,) and Sh is
+and <foreign lang="ar">صِنْعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدَيْنِ</orth>, (S, O, K,) and <foreign lang="ar">صِنْعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth>,
+(TA,) and <foreign lang="ar">صُنْعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth>, (IB, TA,) and Sh is
 related to have said, ↓ <orth type="arrow" lang="ar">رَجُلٌ صَنْعٌ</orth>, (TA,) and
-<foreign lang="ar">اليَدَيْنِ</foreign> ↓ <orth type="arrow" lang="ar">صَنِيعُ</orth>, (S, O, K,) and <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صَنِيعُ</orth>, (TA,)
-and <foreign lang="ar">اليَدَيْنِ</foreign> ↓ <orth type="arrow" lang="ar">صَنَاعُ</orth>, (K,) and <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صَنَاعُ</orth>, but
+<foreign lang="ar">صَنِيعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدَيْنِ</orth>, (S, O, K,) and <foreign lang="ar">صَنِيعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth>, (TA,)
+and <foreign lang="ar">صَنَاعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدَيْنِ</orth>, (K,) and <foreign lang="ar">صَنَاعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth>, but
 not <foreign lang="ar">صَنَاعٌ</foreign> alone when applied to a male, (TA,) <hi rend="ital">A
 man skilful in the work of the hands</hi> or <hi rend="ital">hand:</hi>
 (S, Mgh, O, Msb, K, TA:) and a company of
-men you term <foreign lang="ar">الأَيْدِى</foreign> ↓ <orth type="arrow" lang="ar">قَوْمٌ صُنْعَى</orth> and ↓ <orth type="arrow" lang="ar">صُنُعَى</orth>
+men you term <foreign lang="ar">قَوْمٌ صُنْعَى</foreign> ↓ <orth type="arrow" lang="ar">الأَيْدِى</orth> and ↓ <orth type="arrow" lang="ar">صُنُعَى</orth>
 <pb n="1734"/>
-<foreign lang="ar">الأَيْدِى</foreign>, and <foreign lang="ar">الأَيْدِى</foreign> ↓ <orth type="arrow" lang="ar">صَنَعَى</orth>, and <foreign lang="ar">الأَيْدِى</foreign> ↓ <orth type="arrow" lang="ar">صِنْعَى</orth>,
+<foreign lang="ar">الأَيْدِى</foreign>, and <foreign lang="ar">صَنَعَى</foreign> ↓ <orth type="arrow" lang="ar">الأَيْدِى</orth>, and <foreign lang="ar">صِنْعَى</foreign> ↓ <orth type="arrow" lang="ar">الأَيْدِى</orth>,
 (K,) [all of which are instances of quasi-pl. ns.,
 except, perhaps, the last, which is said in the TA
 to be a pl. of ↓ <orth type="arrow" lang="ar">صِنْع</orth>,] and <foreign lang="ar">أَصْنَاعُ الأَيْدِى</foreign>, (K, [in
 the CK, erroneously, <foreign lang="ar">اَصْنَاعِى</foreign>,]) which is pl. of
-<foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صِنْعُ</orth> or of <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صَنِيعُ</orth>, or, accord. to Sh,
+<foreign lang="ar">صِنْعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth> or of <foreign lang="ar">صَنِيعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth>, or, accord. to Sh,
 as IB says, the only pl. of ↓ <orth type="arrow" lang="ar">صِنْعٌ</orth> is <foreign lang="ar">صِنْعُونَ</foreign>, and
 in like manner in the case of ↓ <orth type="arrow" lang="ar">صُنْع</orth> you say <foreign lang="ar">صُنْعُو</foreign>
 <foreign lang="ar">اليَدِ</foreign>, (TA,) and <foreign lang="ar">رِجَالٌ صُنُعٌ</foreign> is mentioned as on the
@@ -25279,7 +25281,7 @@ authority of Sb, (K,) and Sh is related to have
 said <foreign lang="ar">قَوْمٌ صَنْعُونَ</foreign>, [using the latter word as pl. of
 ↓ <orth type="arrow" lang="ar">صَنْعٌ</orth>,] with the <foreign lang="ar">ن</foreign> quiescent. (TA.) And you
 say ↓ <orth type="arrow" lang="ar">اِمْرَأَةٌ صَنَاعٌ</orth>, (ISk, Mgh, Msb, TA,) and
-<foreign lang="ar">اليَدَيْنِ</foreign> ↓ <orth type="arrow" lang="ar">صَنَاعُ</orth>, (S, O, K,) and <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صَنَاعُ</orth>, (IJ,
+<foreign lang="ar">صَنَاعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدَيْنِ</orth>, (S, O, K,) and <foreign lang="ar">صَنَاعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth>, (IJ,
 TA,) an instance of an epithet applied to a
 woman like <foreign lang="ar">كَعَابٌ</foreign> and <foreign lang="ar">رَدَاحٌ</foreign> and <foreign lang="ar">حَصَانٌ</foreign>, (TA,)
 the <foreign lang="ar">ا</foreign> of prolongation before the final letter resembling, and rendering needless, the <foreign lang="ar">ة</foreign> in <foreign lang="ar">صَنَعَةٌ</foreign>,
@@ -25293,15 +25295,15 @@ buckets;</hi> (ISk, TA;) contr. of <foreign lang="ar">خَرْقَآءُ</foreig
 Msb;) and ↓ <orth type="arrow" lang="ar">اِمْرَأَةٌ صَنِيعَةٌ</orth> signifies the same:
 (TA:) and <foreign lang="ar">اِمْرَأَتَانِ صَنَاعَانِ</foreign>: and <foreign lang="ar">نِسْوَةٌ صُنُعٌ</foreign>. (S,
 O, K.) Th preferred <foreign lang="ar">صَنَعُ اليَدِ</foreign> as applied to a
-man; and <foreign lang="ar">اليَدِ</foreign> ↓ <orth type="arrow" lang="ar">صَنَاعُ</orth> as applied to a woman.
+man; and <foreign lang="ar">صَنَاعُ</foreign> ↓ <orth type="arrow" lang="ar">اليَدِ</orth> as applied to a woman.
 (IB, TA.) Accord. to IDrst, <foreign lang="ar">صَنَعٌ</foreign> is an inf. n.
-used as an epithet. (TA. [But see 1, last sentence.]) It is said in a prov., <foreign lang="ar">ثَلَّةً</foreign> ↓ <orth type="arrow" lang="ar">لَا تَعْدَمُ صَنَاعٌ</orth>
+used as an epithet. (TA. [But see 1, last sentence.]) It is said in a prov., <foreign lang="ar">لَا تَعْدَمُ صَنَاعٌ</foreign> ↓ <orth type="arrow" lang="ar">ثَلَّةً</orth>
 [expl. in art. <foreign lang="ar">ثل</foreign>]. (TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  [Hence,] one says
 of a poet, and of any one who is eloquent, <foreign lang="ar">رَجُلٌ</foreign>
 <foreign lang="ar">صَنَعُ الِلّسَانِ</foreign> (tropical:)  [<hi rend="ital">A man skilful in the use of the
 tongue</hi>]: and in like manner, <foreign lang="ar">لِسَانٌ صَنَعٌ</foreign> (tropical:)  [<hi rend="ital">a
-skilful tongue</hi>]. (K, TA.) And <foreign lang="ar">اللِّسَانِ</foreign> ↓ <orth type="arrow" lang="ar">اِمْرَأَةٌ صَنَاعُ</orth>
+skilful tongue</hi>]. (K, TA.) And <foreign lang="ar">اِمْرَأَةٌ صَنَاعُ</foreign> ↓ <orth type="arrow" lang="ar">اللِّسَانِ</orth>
 (assumed tropical:)  <hi rend="ital">A woman sharp-tongued:</hi> or <hi rend="ital">long-tongued:</hi> syn.
 <foreign lang="ar">سَلِيطَة</foreign>. (TA.)
 
@@ -25397,7 +25399,7 @@ manner it is applied to a human being:] one says,
 <foreign lang="ar">هُوَ صَنِيعِى</foreign> (tropical:)  <hi rend="ital">He is the person whom I have reared;</hi>
 and <hi rend="ital">whom I have educated, disciplined,</hi> or <hi rend="ital">trained,
 well;</hi> (O, K, TA;) and so ↓ <orth type="arrow" lang="ar">صَنِيعَتِى</orth>; (S, * O, K,
-TA;) and <foreign lang="ar">فُلَانٍ</foreign> ↓ <orth type="arrow" lang="ar">هُوَ مُصْطَنَعَةُ</orth> (tropical:)  <hi rend="ital">he is the person
+TA;) and <foreign lang="ar">هُوَ مُصْطَنَعَةُ</foreign> ↓ <orth type="arrow" lang="ar">فُلَانٍ</orth> (tropical:)  <hi rend="ital">he is the person
 whom such a one has reared;</hi> &amp;c. (Z, TA.) ― 
        <milestone unit="sense" n="2"/>-b6- 
 And (tropical:)  <hi rend="ital">A goodly and clean garment.</hi> (A, L, TA.)
@@ -25606,7 +25608,7 @@ became of different sorts;</hi> and in like manner
 <foreign lang="ar">الثَّمَرُ</foreign>, inf. n. as above, signifies <hi rend="ital">the fruits became
 so that some of them were ripe exclusively of
 others, and some of them coloured exclusively of
-others:</hi> (Msb:) and <foreign lang="ar">الأَرْطَى</foreign> ↓ <orth type="arrow" lang="ar">تصنّف</orth>, and <foreign lang="ar">النَّبْتُ</foreign>,
+others:</hi> (Msb:) and <foreign lang="ar">تصنّف</foreign> ↓ <orth type="arrow" lang="ar">الأَرْطَى</orth>, and <foreign lang="ar">النَّبْتُ</foreign>,
 <hi rend="ital">the</hi> [<hi rend="ital">trees called</hi>] <foreign lang="ar">ارطى</foreign>, and <hi rend="ital">the plants,</hi> or <hi rend="ital">herbage,
 broke forth to leaf.</hi> (Ibn-'Abbád, O, K.) 'ObeydAlláh Ibn-Keys-er-Rukeiyát says,
 <quote><L><foreign lang="ar">سَقْيًا لِحُلْوَانَ ذِى الكُرُومِ وَمَا</foreign></L>
@@ -26063,7 +26065,7 @@ of the names of pensioners</hi> or <hi rend="ital">the like</hi>]. (K, TA.)
   </entryFree>
 <entryFree id="n25061" key="صَاهِبْ" type="main">
     <form>
-      <orth orig="" extent="full" lang="ar">صَاهِبْ</orth></form> ↓ <orth type="arrow" lang="ar">اِصْهَبْ</orth>, (O,) or <foreign lang="ar">صَاهِبْ</foreign> ↓ <orth type="arrow" lang="ar">أَصْهِبْ</orth>, (so in
+      <orth orig="" extent="full" lang="ar">صَاهِبْ</orth></form> ↓ <orth type="arrow" lang="ar">اِصْهَبْ</orth>, (O,) or <foreign lang="ar">أَصْهِبْ</foreign> ↓ <orth type="arrow" lang="ar">صَاهِبْ</orth>, (so in
 a copy of the K, in the CK <foreign lang="ar">اَصْهَبْ صَاهِبْ</foreign>,) a call
 to ewes to be milked: (O, K:) it [i. e. <foreign lang="ar">صاهب</foreign>] is
 a name for <hi rend="ital">Ewes:</hi> (O:) in one copy of the K, a
@@ -26226,11 +26228,11 @@ thing, O) <hi rend="ital">near,</hi> <foreign lang="ar">إِلَيْهِ</foreig
     <form>
       <itype>3</itype> 
       <orth orig="" extent="full" lang="ar">صَاهَرَهُمْ</orth></form>, (K,) inf. n. <foreign lang="ar">مُصَاهَرَةٌ</foreign>; (TA;) and
-<foreign lang="ar">صاهر فِيهِمْ</foreign>; and <foreign lang="ar">بِهِمْ</foreign> ↓ <orth type="arrow" lang="ar">اصهر</orth>, and <foreign lang="ar">إِلَيْهِمْ</foreign>; <hi rend="ital">He became
+<foreign lang="ar">صاهر فِيهِمْ</foreign>; and <foreign lang="ar">اصهر</foreign> ↓ <orth type="arrow" lang="ar">بِهِمْ</orth>, and <foreign lang="ar">إِلَيْهِمْ</foreign>; <hi rend="ital">He became
 that kind of relation to them termed</hi> <foreign lang="ar">صِهْر</foreign>; (K;)
 and so <foreign lang="ar">أَصْهَرَهُمْ</foreign>: (Mgh in art. <foreign lang="ar">ختن</foreign>:) or <foreign lang="ar">صاهر إِلَيْهِمْ</foreign>
 <hi rend="ital">he took to himself a wife from among them;</hi> (S,
-A, Msb;) and so <foreign lang="ar">إِلَيْهِمْ</foreign> ↓ <orth type="arrow" lang="ar">اصهر</orth>: (A:) and ↓ <orth type="arrow" lang="ar">اصهر</orth>
+A, Msb;) and so <foreign lang="ar">اصهر</foreign> ↓ <orth type="arrow" lang="ar">إِلَيْهِمْ</orth>: (A:) and ↓ <orth type="arrow" lang="ar">اصهر</orth>
 <foreign lang="ar">بِهِمْ</foreign> <hi rend="ital">he connected himself with them, and became,</hi>
 or <hi rend="ital">made himself, an object of inviolable respect,
 by a covenant of mutual protection,</hi> or <hi rend="ital">by relationship,</hi> or <hi rend="ital">consanguinity,</hi> or <hi rend="ital">by marriage:</hi> (IAar,
@@ -26948,7 +26950,7 @@ inf. n. as above; (Msb, K;) and ↓ <orth type="arrow" lang="ar">صاب</orth>, 
 (Msb;) likewise said of an arrow, (S, Msb,) <hi rend="ital">It
 went right; did not deviate from the right
 course:</hi> (S, K, * TA:) or <hi rend="ital">it reached</hi> [or <hi rend="ital">hit</hi>] <hi rend="ital">the
-object of aim.</hi> (Msb.) And <foreign lang="ar">نَحْوَ الرِّمِيَّةِ</foreign> ↓ <orth type="arrow" lang="ar">صاب</orth>,
+object of aim.</hi> (Msb.) And <foreign lang="ar">صاب</foreign> ↓ <orth type="arrow" lang="ar">نَحْوَ الرِّمِيَّةِ</orth>,
 (M, A, TA,) aor. <foreign lang="ar">يَصُوبُ</foreign>, (A, TA,) inf. n. <foreign lang="ar">صَوْبٌ</foreign>
 and <foreign lang="ar">صَيْبُوبَةٌ</foreign>, (M, TA,) said of an arrow, (M, A,
 TA,) <hi rend="ital">It went right towards the thing,</hi> or <hi rend="ital">animal,
@@ -26978,17 +26980,17 @@ generally be rendered <hi rend="ital">It hit, struck, smote,
 wounded, hurt, affected, assailed,</hi> or <hi rend="ital">befell, him.</hi>
 One says, <foreign lang="ar">اصابهُ مَرَضٌ</foreign>, and <foreign lang="ar">وَجَعٌ</foreign>, and <foreign lang="ar">اصابتهُ رِيحٌ</foreign>,
 &amp;c., (assumed tropical:)  <hi rend="ital">A disease,</hi> and <hi rend="ital">pain,</hi> and <hi rend="ital">wind,</hi> &amp;c., <hi rend="ital">smote,
-affected,</hi> or <hi rend="ital">assailed, him.</hi>] And <foreign lang="ar">المَطَرُ</foreign> ↓ <orth type="arrow" lang="ar">صَابَهُ</orth>,
+affected,</hi> or <hi rend="ital">assailed, him.</hi>] And <foreign lang="ar">صَابَهُ</foreign> ↓ <orth type="arrow" lang="ar">المَطَرُ</orth>,
 (S, Msb,) aor. <foreign lang="ar">يَصُوبُهُ</foreign>, inf. n. <foreign lang="ar">صَوْبٌ</foreign>, (Msb,) (assumed tropical:)  [<hi rend="ital">The
 rain fell,</hi> or <hi rend="ital">lighted, upon him,</hi> or <hi rend="ital">it; wetted him,</hi>
 or <hi rend="ital">it;</hi>] <hi rend="ital">he,</hi> or <hi rend="ital">it, was rained upon.</hi> (S.) And
-<foreign lang="ar">السَّمَآءُ الأَرْضَ</foreign> ↓ <orth type="arrow" lang="ar">صَابَتِ</orth> i. e. (assumed tropical:)  [<hi rend="ital">The sky,</hi> or <hi rend="ital">clouds,</hi>
+<foreign lang="ar">صَابَتِ</foreign> ↓ <orth type="arrow" lang="ar">السَّمَآءُ الأَرْضَ</orth> i. e. (assumed tropical:)  [<hi rend="ital">The sky,</hi> or <hi rend="ital">clouds,</hi>
 or <hi rend="ital">rain,</hi>] <hi rend="ital">watered the earth,</hi> or <hi rend="ital">land, copiously:</hi>
 (Lth, M, TA:) or it means <foreign lang="ar">أَصَابَتْهَا بِصَوْبٍ</foreign> [<hi rend="ital">it
 smote it with rain;</hi> or <hi rend="ital">sent rain upon it</hi>]. (M, L,
 TA.) In the following verse, cited by IAar,
 <quote><L><foreign lang="ar">فَكَيْفَ تُرَجِّى العاذِلَاتُ تَجَلُّدِى</foreign></L>
-<L><foreign lang="ar">حَمِيمُهَا</foreign> ↓ <orth type="arrow" lang="ar">وَصَبْرِى إِذَا مَا النَّفْسُ صِيبَ</orth></L>
+<L><foreign lang="ar">وَصَبْرِى إِذَا مَا النَّفْسُ صِيبَ</foreign> ↓ <orth type="arrow" lang="ar">حَمِيمُهَا</orth></L>
 </quote>
 he explains <foreign lang="ar">صِيبَ</foreign> as being like <foreign lang="ar">قُصِدَ</foreign>, and says that
 it may be of the dial. of him who says <foreign lang="ar">صَابَ السَّهْمُ</foreign>;
@@ -27464,7 +27466,7 @@ first, and MA and KL in explanation of the
 second;) <hi rend="ital">he raised his voice, voiced, called</hi> or
 <hi rend="ital">called out, cried</hi> or <hi rend="ital">cried out, shouted, clamoured,
 exclaimed,</hi> or <hi rend="ital">vociferated:</hi> (M, K:) <foreign lang="ar">صَوْتٌ</foreign> signifies also the <hi rend="ital">making lamentation:</hi> (KL:) and
-<foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">صوّت</orth>, (M, TA,) inf. n. as above, (TA,) <hi rend="ital">he
+<foreign lang="ar">صوّت</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>, (M, TA,) inf. n. as above, (TA,) <hi rend="ital">he
 called, hailed,</hi> or <hi rend="ital">summoned, him; called out,
 cried out,</hi> or <hi rend="ital">shouted, to him.</hi> (M, * TA.) It is
 said in a trad., <foreign lang="ar">كَانُوا يَكْرَهُونَ الصَّوْتَ عِنْدَ القِتَالِ</foreign>
@@ -27607,10 +27609,10 @@ rendered <hi rend="ital">renown:</hi>] <foreign lang="ar">صِيتٌ</foreign> i
 preceding it: it seems as though they made it to
 be of the measure <foreign lang="ar">فِعْلٌ</foreign> to distinguish between the
 <foreign lang="ar">صَوْت</foreign> that is heard and the fame &amp;c. that is
-known: but sometimes they said, <foreign lang="ar">فِى</foreign> ↓ <orth type="arrow" lang="ar">اِنْتَشَرَ صَوْتُهُ</orth>
+known: but sometimes they said, <foreign lang="ar">اِنْتَشَرَ صَوْتُهُ</foreign> ↓ <orth type="arrow" lang="ar">فِى</orth>
 <foreign lang="ar">النَّاسِ</foreign> in the sense of <foreign lang="ar">صِيتُهُ</foreign> [i. e. <hi rend="ital">His fame</hi> &amp;c., or
 <hi rend="ital">good fame</hi> &amp;c., <hi rend="ital">spread among the people</hi>]: (S,
-TA:) and <foreign lang="ar">فِى النَّاسِ</foreign> ↓ <orth type="arrow" lang="ar">لَهُ صَوْتٌ</orth> and <foreign lang="ar">صِيتٌ</foreign> [<hi rend="ital">He
+TA:) and <foreign lang="ar">لَهُ صَوْتٌ</foreign> ↓ <orth type="arrow" lang="ar">فِى النَّاسِ</orth> and <foreign lang="ar">صِيتٌ</foreign> [<hi rend="ital">He
 has fame</hi> &amp;c., or <hi rend="ital">good fame</hi> &amp;c., <hi rend="ital">among the
 people</hi>]: and <foreign lang="ar">ذَهَبَ صِيتُهُ فِيهِمْ</foreign> [<hi rend="ital">His fame</hi> &amp;c., or
 <hi rend="ital">good fame</hi> &amp;c., <hi rend="ital">went among them</hi>]. (A.) It
@@ -27619,7 +27621,7 @@ meaning [<hi rend="ital">There is no servant</hi> of God, i. e. <hi rend="ital">
 but he has</hi>] <hi rend="ital">a report by which he is known</hi> [<hi rend="ital">in
 Heaven</hi>]; and it may be in respect of good and
 evil. (TA.) And in another trad., <foreign lang="ar">فَصْلُ مَا بَيْنَ</foreign>
-<foreign lang="ar">وَالدَّفٌ</foreign> ↓ <orth type="arrow" lang="ar">الحَلَالِ وَالحَرَامِ الصَّوْتُ</orth> [<hi rend="ital">The distinction
+<foreign lang="ar">الحَلَالِ وَالحَرَامِ الصَّوْتُ</foreign> ↓ <orth type="arrow" lang="ar">وَالدَّفٌ</orth> [<hi rend="ital">The distinction
 between the lawful</hi> (i. e. marriage) <hi rend="ital">and the
 unlawful</hi> (i. e. fornication) <hi rend="ital">is the report</hi> that is
 made in the case of the former, <hi rend="ital">and the tambourine</hi> that is used in that case], meaning the
@@ -27758,7 +27760,7 @@ or (and so the verb <foreign lang="ar">تصوّح</foreign> said of wood, and th
 like,) <hi rend="ital">became much split, spontaneously, and parts
 thereof became scattered:</hi> and <foreign lang="ar">تصيّح</foreign> signifies the
 same. (TA.) It is said in a trad. of 'Alee,
-<foreign lang="ar">نَبْتِهِ</foreign> ↓ <orth type="arrow" lang="ar">فَبَادِرُوا العِلْمَ قَبْلَ تَصْوِيحِ</orth> (assumed tropical:)  [<hi rend="ital">Therefore
+<foreign lang="ar">فَبَادِرُوا العِلْمَ قَبْلَ تَصْوِيحِ</foreign> ↓ <orth type="arrow" lang="ar">نَبْتِهِ</orth> (assumed tropical:)  [<hi rend="ital">Therefore
 hasten ye to obtain knowledge before the dryingup of its plants</hi> for want of mental vigour].
 (TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  <foreign lang="ar">تصوّح</foreign> also signifies <hi rend="ital">It became much
@@ -28020,7 +28022,7 @@ in two places.
       <orth orig="" extent="full" lang="ar">تصوّر</orth></form> <hi rend="ital">He,</hi> or <hi rend="ital">it, was,</hi> or <hi rend="ital">became, formed,
 fashioned, figured, shaped, sculptured,</hi> or <hi rend="ital">pictured.</hi> (S, M, K, TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  And [hence,] <foreign lang="ar">تصوّر لِى</foreign>
-[and <foreign lang="ar">لِى</foreign> ↓ <orth type="arrow" lang="ar">صُوِّرَ</orth>, like <foreign lang="ar">تَخَيَّلَ لِى</foreign> and <foreign lang="ar">خُيِّلَ لِى</foreign>,] <hi rend="ital">It
+[and <foreign lang="ar">صُوِّرَ</foreign> ↓ <orth type="arrow" lang="ar">لِى</orth>, like <foreign lang="ar">تَخَيَّلَ لِى</foreign> and <foreign lang="ar">خُيِّلَ لِى</foreign>,] <hi rend="ital">It
 appeared to my mind,</hi> or <hi rend="ital">imagination,</hi> (S, Msb,)
 <hi rend="ital">as an image,</hi> or <hi rend="ital">a picture.</hi> (Msb.) ＝   
     <milestone unit="sense" n="1"/>-A2-  See also 2.
@@ -28231,7 +28233,7 @@ places.
     <form>
       <orth orig="" extent="full" lang="ar">صَيِّرٌ</orth></form> <hi rend="ital">Goodly in</hi> <foreign lang="ar">صُورَة</foreign> [i. e. <hi rend="ital">form</hi> &amp;c.]; (Fr, S,
 K;) as also ↓ <orth type="arrow" lang="ar">صَارٌ</orth>. (TA in art. <foreign lang="ar">شور</foreign>.) One says
-<foreign lang="ar">رَجُلٌ صَيِّرٌ شَيِّرٌ</foreign> (Fr, S) and <foreign lang="ar">شَارٌ</foreign> ↓ <orth type="arrow" lang="ar">صَارٌ</orth> (TA ubi suprà)
+<foreign lang="ar">رَجُلٌ صَيِّرٌ شَيِّرٌ</foreign> (Fr, S) and <foreign lang="ar">صَارٌ</foreign> ↓ <orth type="arrow" lang="ar">شَارٌ</orth> (TA ubi suprà)
 <hi rend="ital">A man goodly in</hi> <foreign lang="ar">صورة</foreign> [or <hi rend="ital">form</hi> &amp;c.] <hi rend="ital">and in</hi> <foreign lang="ar">شَارَة</foreign>
 [i. e. <hi rend="ital">appearance</hi> or <hi rend="ital">apparel</hi> &amp;c.]. (Fr, S.) [See
 also <foreign lang="ar">شَيِّرٌ</foreign> in art. <foreign lang="ar">شور</foreign>.]
@@ -28318,7 +28320,7 @@ antagonists and disperses them;</hi> and <foreign lang="ar">يَصُوعُ إِ�
 said of a pastor, <hi rend="ital">he disperses his camels in the
 place of pasture;</hi> and <foreign lang="ar">يَصُوعُ المَعَزَ</foreign>, said of a hegoat, <hi rend="ital">he disperses the</hi> [<hi rend="ital">she-</hi>] <hi rend="ital">goats;</hi> and <foreign lang="ar">صَاعَ الغَنَمَ</foreign>,
 aor. as above, and so the inf. n., <hi rend="ital">he dispersed the
-sheep</hi> or <hi rend="ital">goats;</hi> (TA;) and <foreign lang="ar">الغَنَمَ</foreign> ↓ <orth type="arrow" lang="ar">اصاع</orth>, inf. n.
+sheep</hi> or <hi rend="ital">goats;</hi> (TA;) and <foreign lang="ar">اصاع</foreign> ↓ <orth type="arrow" lang="ar">الغَنَمَ</orth>, inf. n.
 <foreign lang="ar">إِصَاعَةٌ</foreign>, signifies thus likewise: (Lh, TA in art.
 <foreign lang="ar">صيع</foreign>:) Lh also says that <foreign lang="ar">صُعْتُ الغَنَمَ</foreign>, aor. <foreign lang="ar">أَصُوعُهَا</foreign>,
 inf. n. <foreign lang="ar">صَوْعٌ</foreign>, and <foreign lang="ar">صِعْتُهَا</foreign>, aor. <foreign lang="ar">أَصِيعُهَا</foreign>, inf. n. <foreign lang="ar">صَيْعٌ</foreign>,
@@ -28688,7 +28690,7 @@ is properly a sing., though here used as a dual].
 <hi rend="ital">He is he who was born immediately after his
 brother;</hi> and [in like manner, <hi rend="ital">before him,</hi> for] he
 may be above him and he may be below him,
-(O,) like <foreign lang="ar">سَوْغُهُ</foreign>; as also <foreign lang="ar">أَخِيهِ</foreign> ↓ <orth type="arrow" lang="ar">صَوْغَةُ</orth>, (K, TA,
+(O,) like <foreign lang="ar">سَوْغُهُ</foreign>; as also <foreign lang="ar">صَوْغَةُ</foreign> ↓ <orth type="arrow" lang="ar">أَخِيهِ</orth>, (K, TA,
 [in the CK, erroneously, <foreign lang="ar">اُخْتِهِ</foreign>,]) like <foreign lang="ar">سَوْغَةُ أَخِيهِ</foreign>:
 (TA:) and <foreign lang="ar">هِىَ أُخْتُكَ صَوْغُكَ</foreign> and ↓ <orth type="arrow" lang="ar">صَوْغَتُكَ</orth> [<hi rend="ital">She
 is thy sister who was born immediately after thee;</hi>
@@ -28769,12 +28771,12 @@ the first sentence of this art.]; (S, O, Msb, K,
 TA;) [generally meaning] <hi rend="ital">a goldsmith,</hi> or <hi rend="ital">worker
 in gold:</hi> (MA, KL:) the pl. of <foreign lang="ar">صَائِغٌ</foreign> is <foreign lang="ar">صَاغَةٌ</foreign>
 [originally <foreign lang="ar">صَوَغَةٌ</foreign>] and <foreign lang="ar">صُوَّاغٌ</foreign> and <foreign lang="ar">صُيَّاغٌ</foreign>. (TA.)
-One says, <foreign lang="ar">الحُلِىِّ</foreign> ↓ <orth type="arrow" lang="ar">هُوَ صَوَّاغُ</orth> [and <foreign lang="ar">صَائِغُهَا</foreign> i. e. <hi rend="ital">He
+One says, <foreign lang="ar">هُوَ صَوَّاغُ</foreign> ↓ <orth type="arrow" lang="ar">الحُلِىِّ</orth> [and <foreign lang="ar">صَائِغُهَا</foreign> i. e. <hi rend="ital">He
 is the moulder of ornaments,</hi> or <hi rend="ital">of women's ornaments, of gold</hi> or <hi rend="ital">of silver</hi> &amp;c.]. (TA.) [And
 hence <foreign lang="ar">مِلْحُ الصَّاغَةِ</foreign> lit. <hi rend="ital">Goldsmiths' salt;</hi> meaning
 <hi rend="ital">chrysocolla,</hi> i. e. <hi rend="ital">borax:</hi> thus termed in the language of the present day.] Aboo-Ráfi' the <foreign lang="ar">صَائِغ</foreign>
 is related to have said, <foreign lang="ar">كَانَ عُمَرُ يُمَازِحُنِى يَقُولُ</foreign>
-<foreign lang="ar">يَقُولُ اليَوْمَ وَغَدًا</foreign> ↓ <orth type="arrow" lang="ar">أَكْذَبُ النَّاسِ الصَّوَّاغُ</orth> [<hi rend="ital">' Omar
+<foreign lang="ar">أَكْذَبُ النَّاسِ الصَّوَّاغُ</foreign> ↓ <orth type="arrow" lang="ar">يَقُولُ اليَوْمَ وَغَدًا</orth> [<hi rend="ital">' Omar
 used to jest with me, saying, The most lying of
 men is the goldsmith, who says, To-day, and Tomorrow</hi>]. (TA.) And ↓ <orth type="arrow" lang="ar">كَذِبَةٌ كَذَبَهَا الصَّوَّاغُونَ</orth>
 [lit. <hi rend="ital">A lie which the goldsmiths have told</hi>] is a
@@ -29182,7 +29184,7 @@ her</hi> or <hi rend="ital">them with the hind leg</hi> or <hi rend="ital">hind 
  
     <milestone unit="sense" n="1"/>-A2-  <foreign lang="ar">صال البُرَّ</foreign>, aor. as above, inf. n. <foreign lang="ar">صَوْلٌ</foreign>, <hi rend="ital">He swept
 away,</hi> or <hi rend="ital">cleared, the wheat from the pieces of
-stick and of rubbish:</hi> and <foreign lang="ar">الحِنْطَةَ</foreign> ↓ <orth type="arrow" lang="ar">صَوَّلْنَا</orth> <hi rend="ital">we
+stick and of rubbish:</hi> and <foreign lang="ar">صَوَّلْنَا</foreign> ↓ <orth type="arrow" lang="ar">الحِنْطَةَ</orth> <hi rend="ital">we
 swept the wheat</hi> [<hi rend="ital">well, and so cleared it from
 rubbish</hi>]: the teshdeed denotes intensiveness of
 meaning: (O:) ↓ <orth type="arrow" lang="ar">التَّصْوِيلُ</orth> [or <foreign lang="ar">تَصْوِيلُ البَيْدَرِ</foreign>]
@@ -29954,7 +29956,7 @@ or <hi rend="ital">cried,</hi> &amp;c., <hi rend="ital">with a vehement calling<
 And <foreign lang="ar">صاج بِهِ</foreign> <hi rend="ital">He called</hi> or <hi rend="ital">cried,</hi> or <hi rend="ital">called out</hi> or
 <hi rend="ital">cried out, to it</hi> [or <hi rend="ital">to him</hi>]. (Msb.) And <foreign lang="ar">صِحْ</foreign>
 <foreign lang="ar">لِى بِفُلَانٍ</foreign> <hi rend="ital">Call thou to me such a one.</hi> (A, TA.)
-And <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">صَايَحَ</orth> and <foreign lang="ar">صَايَحَهُ</foreign>, (A, TA,) and ↓ <orth type="arrow" lang="ar">صَيَّحَ</orth>
+And <foreign lang="ar">صَايَحَ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth> and <foreign lang="ar">صَايَحَهُ</foreign>, (A, TA,) and ↓ <orth type="arrow" lang="ar">صَيَّحَ</orth>
 <foreign lang="ar">بِهِ</foreign> and <foreign lang="ar">صَيَّحَهُ</foreign>, (A,) <hi rend="ital">He called, hailed,</hi> or <hi rend="ital">summoned, him; called out, cried out,</hi> or <hi rend="ital">shouted, to
 him.</hi> (A, TA.) ― 
        <milestone unit="sense" n="2"/>-b2-  And <foreign lang="ar">صِيحَ بِهِمْ</foreign> (assumed tropical:)  <hi rend="ital">They were</hi>
@@ -30123,7 +30125,7 @@ You say, ↓ <orth type="arrow" lang="ar">خَرَجَ يَتَصَيَّدُ</o
 forth to take</hi> &amp;c., or <hi rend="ital">seeking to take</hi> &amp;c., <hi rend="ital">game,</hi>
 or <hi rend="ital">wild animals</hi> or <hi rend="ital">the like; to hunt</hi> or <hi rend="ital">chase, to
 stalk,</hi> or <hi rend="ital">lurk for game; to fowl;</hi> or <hi rend="ital">to fish</hi>]. (S,
-K.) And <foreign lang="ar">الوَحْشَ</foreign> ↓ <orth type="arrow" lang="ar">خَرَجَ يَتَصَيَّدُ</orth> <hi rend="ital">He went forth</hi>
+K.) And <foreign lang="ar">خَرَجَ يَتَصَيَّدُ</foreign> ↓ <orth type="arrow" lang="ar">الوَحْشَ</orth> <hi rend="ital">He went forth</hi>
 [<hi rend="ital">to take</hi> &amp;c., or] <hi rend="ital">seeking to take</hi> &amp;c., <hi rend="ital">the wild
 animals.</hi> (L.) And <foreign lang="ar">صِدْتُ فُلَانًا صَيْدًا</foreign> <hi rend="ital">i. q.</hi> <foreign lang="ar">صِدْتُ لَهُ</foreign>
 [<hi rend="ital">I took</hi> &amp;c., or <hi rend="ital">sought to take</hi> &amp;c., <hi rend="ital">for such a one,
@@ -31013,7 +31015,7 @@ O,) or <hi rend="ital">during his,</hi> or <hi rend="ital">their,</hi> <foreign 
 <hi rend="ital">during a</hi> <foreign lang="ar">صَيْف</foreign>, (K,) <foreign lang="ar">بِهِ</foreign> <hi rend="ital">in it,</hi> (S, M, O, K,) i. e.
 in a place; (S, M, O;) as also ↓ <orth type="arrow" lang="ar">اصطاف</orth>, (S, O, * 
 K, * TA,) and ↓ <orth type="arrow" lang="ar">تصيّف</orth>; (S, * O, * K, * TA;) and
-<foreign lang="ar">بِالمَكَانِ</foreign> ↓ <orth type="arrow" lang="ar">اِصَّيَّفَ</orth> is like ↓ <orth type="arrow" lang="ar">صَيَّفَ</orth> [probably a mistranscription for <foreign lang="ar">تَصَيَّفَ</foreign>, of which <foreign lang="ar">اِصَّيَّفَ</foreign> is a var.,
+<foreign lang="ar">اِصَّيَّفَ</foreign> ↓ <orth type="arrow" lang="ar">بِالمَكَانِ</orth> is like ↓ <orth type="arrow" lang="ar">صَيَّفَ</orth> [probably a mistranscription for <foreign lang="ar">تَصَيَّفَ</foreign>, of which <foreign lang="ar">اِصَّيَّفَ</foreign> is a var.,
 and of which, together with one of this var., an
 ex. will be found in what follows]: (TA:) you
 say, <foreign lang="ar">صِفْتُ بِمَكَانِ كَذَا</foreign> [<hi rend="ital">I remained during the</hi>
@@ -31085,7 +31087,7 @@ i. e.] <hi rend="ital">when he was old,</hi> or <hi rend="ital">advanced in age:
 M, O, K, TA:) or <hi rend="ital">he had no offspring born to
 him until he was advanced in age,</hi> or <hi rend="ital">old.</hi> (L,
 TA.) And (tropical:)  <hi rend="ital">He abstained from women while a
-young man, and then married when old,</hi> or <hi rend="ital">advanced in age.</hi> (M, TA.) ＝   
+young man, and then married when old,</hi> or <hi rend="ital">advanced in age.</hi> (M, TA.)  
     <milestone unit="sense" n="1"/>-A2-  <foreign lang="ar">اصاف ٱللّٰهُ عَنِّى شَرَّ</foreign>
 <foreign lang="ar">فُلَانٍ</foreign> <hi rend="ital">God turned away,</hi> or <hi rend="ital">may God turn away,
 from me the evil,</hi> or <hi rend="ital">mischief, of such a one:</hi> (S,

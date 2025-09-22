@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="tei.css"?>
 <TEI.2>
     <text>
         <body>
@@ -1469,7 +1471,7 @@ upon it;</hi> or <hi rend="ital">seized it,</hi> (<foreign lang="ar">قَبَض�
 hand:</hi> (Msb:) or <hi rend="ital">he took it;</hi> or <hi rend="ital">took it with
 his hand,</hi> (<foreign lang="ar">أَخَذَهُ</foreign>,) namely, a rope, &amp;c.: (Mgh:)
 or <hi rend="ital">he held,</hi> or <hi rend="ital">clung, to it:</hi> (TA:) [as also
-<foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">تَمَسكَ</orth>]. Also, <foreign lang="ar">أَمْسَكَ بِهِ</foreign> signifies [<hi rend="ital">the same;</hi>
+<foreign lang="ar">تَمَسكَ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>]. Also, <foreign lang="ar">أَمْسَكَ بِهِ</foreign> signifies [<hi rend="ital">the same;</hi>
 or] <hi rend="ital">he laid hold upon,</hi> or <hi rend="ital">seized, somewhat of his
 body,</hi> or <hi rend="ital">what might detain him, as an arm or a
 hand, or a garment, and the like:</hi> but <foreign lang="ar">أَمْسَقَهُ</foreign> may
@@ -1520,7 +1522,7 @@ See <foreign lang="ar">مُسْكَةٌ</foreign>.
                         </form>
                         <hi rend="ital">He clutched,</hi> or <hi rend="ital">griped, him,</hi> or
 <hi rend="ital">it; i. q.</hi>
-                        <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">تَمَسَّكَ</orth>. (MA.)
+                        <foreign lang="ar">تَمَسَّكَ</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>. (MA.)
 
   </entryFree>
                     <entryFree id="n43585" key="اِسْتَمْسَكَ البَطْنُ" type="main">
@@ -1892,7 +1894,7 @@ him: he kept pace with him.</hi> See an ex. voce
                             <orth orig="" extent="full" lang="ar">أَمْشَىَ الدَّوَآءُ بَطْنَهُ</orth>
                         </form> (A, K, art. <foreign lang="ar">حدر</foreign>,) [<hi rend="ital">The
 medicine moved,</hi> or <hi rend="ital">purged, his bowels; made
-his belly to discharge itself:</hi>] and <foreign lang="ar">البَطْنَ</foreign> ↓ <orth type="arrow" lang="ar">مَشَّى</orth>.
+his belly to discharge itself:</hi>] and <foreign lang="ar">مَشَّى</foreign> ↓ <orth type="arrow" lang="ar">البَطْنَ</orth>.
 (TA, art. <foreign lang="ar">طوس</foreign>, &amp;c.)
 
   </entryFree>
@@ -2515,10 +2517,10 @@ place in an abode</hi>]. (S in art. <foreign lang="ar">بوأ</foreign>.) ―
                         <foreign lang="ar">مِنْ شَىْءٍ</foreign>, and ↓ <orth type="arrow" lang="ar">أَمْكَنَهُ</orth>, <hi rend="ital">He made him to have
 mastery,</hi> or <hi rend="ital">dominion,</hi> or <hi rend="ital">ascendancy,</hi> or <hi rend="ital">authority, and power, over a thing;</hi> (Msb;) <hi rend="ital">put it
 in his power.</hi> ― 
-       <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">مَكَّنَهُ مِنَ الشَّىْءِ</foreign>, and <foreign lang="ar">مِنْهُ</foreign> ↓ <orth type="arrow" lang="ar">أَمْكَنَ</orth>,
+       <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">مَكَّنَهُ مِنَ الشَّىْءِ</foreign>, and <foreign lang="ar">أَمْكَنَ</foreign> ↓ <orth type="arrow" lang="ar">مِنْهُ</orth>,
 <hi rend="ital">He empowered him, enabled him,</hi> or <hi rend="ital">rendered
 him able, to do the thing: he enabled him to have
-the thing within his power.</hi> Ex. <foreign lang="ar">يَدَيْهِ</foreign> ↓ <orth type="arrow" lang="ar">أَمْكَنَ</orth>
+the thing within his power.</hi> Ex. <foreign lang="ar">أَمْكَنَ</foreign> ↓ <orth type="arrow" lang="ar">يَدَيْهِ</orth>
                         <foreign lang="ar">مِنْ رُكْبَتَيْهِ</foreign>
                         <hi rend="ital">He enabled his hands to take and
 grasp his knees.</hi> from a trad. (Mgh.)
@@ -3095,7 +3097,7 @@ inf. n. <foreign lang="ar">مَنٌّ</foreign> (S, M, Msb, K) and <foreign lang
 ↓ <orth type="arrow" lang="ar">امتنّ</orth>; (Msb;) <hi rend="ital">He conferred,</hi> or <hi rend="ital">bestowed, upon
 him, a favour,</hi> or <hi rend="ital">benefit.</hi> (S, M, Msb, K.) You
 say, <foreign lang="ar">مَنَّ عَلَيْهِ شَيْأً</foreign>, and <foreign lang="ar">بِشَىْءٍ</foreign>, which latter is
-more common, and <foreign lang="ar">عليه بِهِ</foreign> ↓ <orth type="arrow" lang="ar">امتنّ</orth>
+more common, and <foreign lang="ar">امتنّ</foreign> ↓ <orth type="arrow" lang="ar">عليه بِهِ</orth>
                         <hi rend="ital">He conferred,
 or bestowed, a thing upon him as a favour.</hi> (Msb.)
 ― 
@@ -3104,7 +3106,7 @@ or <foreign lang="ar">مِنَّةٌ</foreign>; (S, K;) and ↓ <orth type="arro
 ↓ <orth type="arrow" lang="ar">تمنّن</orth>; (M;) <hi rend="ital">He reproached him for a favour,
 or benefit, which he</hi> (the former) <hi rend="ital">had conferred,
 or bestowed;</hi> (M;) <hi rend="ital">he recounted his gifts or
-actions to him.</hi> (Msb.) Ex., <foreign lang="ar">عَلَيْهَا بِمَا مَهَرَهَا</foreign> ↓ <orth type="arrow" lang="ar">اِمْتَنَّ</orth>
+actions to him.</hi> (Msb.) Ex., <foreign lang="ar">اِمْتَنَّ</foreign> ↓ <orth type="arrow" lang="ar">عَلَيْهَا بِمَا مَهَرَهَا</orth>
 [<hi rend="ital">He reproached her for the dowry he had given
 her</hi>]. (K, art. <foreign lang="ar">مهر</foreign>.) See Bd, ii. 264. See also
 an ex. in a verse cited voce <foreign lang="ar">سَرِفَ</foreign>.
@@ -3368,7 +3370,7 @@ his people,</hi> or <hi rend="ital">party;</hi> syn. <foreign lang="ar">تَقَ
                         <hi rend="ital">He refrained, forbore,</hi> or <hi rend="ital">abstained,
 from it, as being forbidden,</hi> or <hi rend="ital">prohibited.</hi>
 (K, * TA.) See 8. ― 
-       <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">تَمَنَّعَ بِهِ</foreign> and <foreign lang="ar">بِهِ</foreign> ↓ <orth type="arrow" lang="ar">اِمتنع</orth>
+       <milestone unit="sense" n="2"/>-b3-  <foreign lang="ar">تَمَنَّعَ بِهِ</foreign> and <foreign lang="ar">اِمتنع</foreign> ↓ <orth type="arrow" lang="ar">بِهِ</orth>
                         <hi rend="ital">he protected,</hi> or <hi rend="ital">defended, himself by it,</hi> namely
 a fortress; syn. <foreign lang="ar">اِحْتَمَى</foreign>. (TA.)
 
@@ -3399,7 +3401,7 @@ be.</hi>] ―
                         <hi rend="ital">He refrained, forbore, abstained,</hi>
 or <hi rend="ital">held back,</hi> (Msb, K,) <foreign lang="ar">مِنَ الأَمْرِ</foreign>
                         <hi rend="ital">from the thing.</hi>
-or <hi rend="ital">affair;</hi> (Msb;) as also <foreign lang="ar">عَنْهُ</foreign> ↓ <orth type="arrow" lang="ar">تَمَنَّعَ</orth>: (TA:) <hi rend="ital">he
+or <hi rend="ital">affair;</hi> (Msb;) as also <foreign lang="ar">تَمَنَّعَ</foreign> ↓ <orth type="arrow" lang="ar">عَنْهُ</orth>: (TA:) <hi rend="ital">he
 did so voluntarily, of his own free will</hi> or <hi rend="ital">choice:
 he refused:</hi> you say, <foreign lang="ar">اِمْتنَعَ عَنْهُ</foreign>
                         <hi rend="ital">he refrained,</hi> &amp;c.,
