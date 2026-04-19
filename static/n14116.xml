@@ -1,0 +1,3 @@
+<?xml version="1.0" ?><exception><path>/db/xq/lexi-get.xq</path><message>exerr:ERROR The actual return type does not match the sequence type declared in the function's signature: lxget:get-entry-by-id(node()*, xs:string) element()?. Expected cardinality: zero or one, got 2. [at line 41, column 39, source: /db/xq/lexi-get.xq]
+In function:
+	lxget:get-entry-by-id(node()*, xs:string) [122:3:/db/xq/lexi-get.xquery]</message></exception>
